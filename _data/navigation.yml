@@ -1,10 +1,10 @@
 logo: /images/isomer-logo.svg
 links:
   - title: About Us
-    url: /permalink
+    url: /about-us/permalink
     sublinks:
       - title: Our Vision, Mission, Values
-        url: /permalink
+        url: /about-us/permalink
       - title: Our Heritage
         url: /permalink
       - title: Our People
