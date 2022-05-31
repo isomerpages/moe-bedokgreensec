@@ -9,13 +9,13 @@ sections:
   - hero:
       background: /images/bgss-homepage.gif
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Announcements
+          description: ""
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: BG21
+          description: ""
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Useful Links
+          description: ""
           url: /privacy/
 ---
