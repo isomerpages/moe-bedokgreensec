@@ -2,16 +2,54 @@ logo: /images/isomer-logo.svg
 links:
   - title: About Us
     url: /permalink
-    sublinks: []
-  - title: "Academic Curriculum "
+    sublinks:
+      - title: Our Vision, Mission, Values
+        url: /permalink
+      - title: Our Heritage
+        url: /permalink
+      - title: Our People
+        url: /permalink
+      - title: Our Contact
+        url: /permalink
+  - title: Academic Curriculum
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: Academic
+        url: /permalink
+      - title: "Subject-based Banding "
+        url: /permalink
   - title: "Student Development "
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: Co-curricular Activites
+        url: /permalink
+      - title: Student Leadership Programme
+        url: /permalink
+      - title: CCE
+        url: /permalink
+      - title: "Student Link "
+        url: /permalink
+      - title: Talent Development Program
+        url: /permalink
+      - title: Level Program
+        url: /permalink
   - title: Our Achievements
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: Our School Achievements
+        url: /permalink
+      - title: Our Academic Achievements
+        url: /permalink
+      - title: Our CCA Achievements
+        url: /permalink
+      - title: Our Staff Achievements
+        url: /permalink
+      - title: Our Alumni Achievements
+        url: /permalink
   - title: Our Partners
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: "School Advisory Committee "
+        url: /permalink
+      - title: Parents
+        url: /permalink
