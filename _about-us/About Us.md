@@ -61,33 +61,50 @@ While we take pride in our strengths, we recognize that we can always grow and l
 
 **Our School Song**
 
-*Grow in strength and unity,
+Grow in strength and unity,
+
 Bending with humility and grace
+
 Like new diamonds honed to blaze,
+
 We believe and strive and praise
+
 As knowledge we embrace.
 
 Bedok Green Secondary,
+
 Our School of Choice,
+
 Nurtures us to believe
+
 In our abilities and grow,
+
 Through lifelong learning
+
 We shall always be prepared
+
 To face the challenges, challenges of tomorrow.
 
 Loyal and upright citizens
+
 Living in abiding harmony,
+
 Serving nation, school and kin,
+
 So determined we shall win,
+
 Our school shows us the key.
 
 Bedok Green Secondary
+
 Our School of Choice,
+
 Nurtures us to believe
+
 In our abilities and grow,
+
 Through lifelong learning
+
 We shall always be prepared
+
 To face the challenges, challenges of tomorrow.
-**
-
-
