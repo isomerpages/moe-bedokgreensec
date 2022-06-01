@@ -2,6 +2,7 @@ collections:
   academic:
     output: true
     order:
+      - CPA & EBS.md
       - Applied Learning Program.md
       - "Aesthetics: Art and Music.md"
       - English and Literature.md
