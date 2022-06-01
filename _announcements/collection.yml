@@ -2,4 +2,4 @@ collections:
   announcements:
     output: true
     order:
-      - announcements.md
+      - Announcements.md
