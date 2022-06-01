@@ -2,6 +2,7 @@ collections:
   academic:
     output: true
     order:
+      - D&T & NFS.md
       - CPA & EBS.md
       - Applied Learning Program.md
       - "Aesthetics: Art and Music.md"
