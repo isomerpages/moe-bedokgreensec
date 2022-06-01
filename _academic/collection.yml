@@ -2,5 +2,6 @@ collections:
   academic:
     output: true
     order:
+      - Applied Learning Program.md
       - "Aesthetics: Art and Music.md"
       - English and Literature.md
