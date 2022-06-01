@@ -17,5 +17,5 @@ sections:
           url: /pubs/permalink
         - title: Useful Links
           description: ""
-          url: /privacy/
+          url: /links/permalink
 ---
