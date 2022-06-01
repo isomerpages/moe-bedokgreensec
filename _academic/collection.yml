@@ -2,4 +2,5 @@ collections:
   academic:
     output: true
     order:
+      - "Aesthetics: Art and Music.md"
       - English and Literature.md
