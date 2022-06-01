@@ -2,14 +2,14 @@ collections:
   academic:
     output: true
     order:
-      - Science.md
-      - Physical and Outdoor Education.md
-      - Mother Tongue.md
-      - Mathematics.md
-      - Learning for Life Programme.md
-      - Humanities.md
-      - D&T & NFS.md
-      - CPA & EBS.md
-      - Applied Learning Program.md
       - "Aesthetics: Art and Music.md"
+      - Applied Learning Program.md
+      - CPA & EBS.md
+      - D&T & NFS.md
       - English and Literature.md
+      - Humanities.md
+      - Learning for Life Programme.md
+      - Mathematics.md
+      - Mother Tongue.md
+      - Physical and Outdoor Education.md
+      - Science.md
