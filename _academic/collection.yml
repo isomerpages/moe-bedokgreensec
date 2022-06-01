@@ -2,6 +2,7 @@ collections:
   academic:
     output: true
     order:
+      - Learning for Life Programme.md
       - Humanities.md
       - D&T & NFS.md
       - CPA & EBS.md
