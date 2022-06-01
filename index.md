@@ -14,7 +14,7 @@ sections:
           url: /announcements/permalink
         - title: BG21
           description: ""
-          url: https://gmail.com
+          url: /pubs/permalink
         - title: Useful Links
           description: ""
           url: /privacy/
