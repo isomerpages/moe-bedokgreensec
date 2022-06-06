@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Subjects/.keep
-      - "Aesthetics: Art and Music.md"
       - Applied Learning Program.md
       - CPA & EBS.md
       - D&T & NFS.md
