@@ -2,7 +2,6 @@ collections:
   academic:
     output: true
     order:
-      - Subject Based Banding.md
       - "Aesthetics: Art and Music.md"
       - Applied Learning Program.md
       - CPA & EBS.md
@@ -14,3 +13,4 @@ collections:
       - Mother Tongue.md
       - Physical and Outdoor Education.md
       - Science.md
+      - Subject Based Banding.md
