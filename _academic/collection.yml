@@ -2,6 +2,7 @@ collections:
   academic:
     output: true
     order:
+      - "Subjects/Aesthetics: Art and Music.md"
       - Subjects/.keep
       - Applied Learning Program.md
       - CPA & EBS.md
