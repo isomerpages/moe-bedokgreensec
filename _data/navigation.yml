@@ -14,10 +14,10 @@ links:
   - title: Academic Curriculum
     url: /aesthetics/permalink
     sublinks:
-      - title: Academic
-        url: /aesthetics/permalink
       - title: "Subject-based Banding "
         url: /sbb/permalink
+      - title: Academic
+        url: /aesthetics/permalink
   - title: "Student Development "
     url: /permalink
     sublinks:
