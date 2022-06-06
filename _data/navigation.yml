@@ -47,9 +47,9 @@ links:
       - title: Our Alumni Achievements
         url: /alumniachievements/permalink
   - title: Our Partners
-    url: /permalink
+    url: /advisory/permalink
     sublinks:
       - title: "School Advisory Committee "
-        url: /permalink
+        url: /advisory/permalink
       - title: Parents
-        url: /permalink
+        url: /psg/permalink
