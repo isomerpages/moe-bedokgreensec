@@ -3,15 +3,15 @@ collections:
     output: true
     order:
       - Subjects/.keep
-      - Subjects/Science.md
-      - Subjects/Physical and Outdoor Education.md
-      - Subjects/Mother Tongue.md
-      - Subjects/Mathematics.md
-      - Subjects/Learning for Life Programme.md
-      - Subjects/Humanities.md
-      - Subjects/English and Literature.md
-      - Subjects/D&T & NFS.md
-      - Subjects/CPA & EBS.md
-      - Subjects/Applied Learning Program.md
       - "Subjects/Aesthetics: Art and Music.md"
+      - Subjects/Applied Learning Program.md
+      - Subjects/CPA & EBS.md
+      - Subjects/D&T & NFS.md
+      - Subjects/English and Literature.md
+      - Subjects/Humanities.md
+      - Subjects/Learning for Life Programme.md
+      - Subjects/Mathematics.md
+      - Subjects/Mother Tongue.md
+      - Subjects/Physical and Outdoor Education.md
+      - Subjects/Science.md
       - Subject Based Banding.md
