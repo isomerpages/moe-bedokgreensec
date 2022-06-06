@@ -2,8 +2,8 @@ collections:
   our-achievements:
     output: true
     order:
-      - Our Alumni Achievements.md
-      - Our Staff Achievements.md
-      - Our CCA Achievements.md
-      - Our Academic Achievements.md
       - Our School Achievements.md
+      - Our Academic Achievements.md
+      - Our CCA Achievements.md
+      - Our Staff Achievements.md
+      - Our Alumni Achievements.md
