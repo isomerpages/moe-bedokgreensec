@@ -2,6 +2,7 @@ collections:
   academic:
     output: true
     order:
+      - Subjects/English and Literature.md
       - Subjects/D&T & NFS.md
       - Subjects/CPA & EBS.md
       - Subjects/Applied Learning Program.md
