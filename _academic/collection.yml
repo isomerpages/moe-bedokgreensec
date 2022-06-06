@@ -2,7 +2,6 @@ collections:
   academic:
     output: true
     order:
-      - Subjects/Subject Based Banding.md
       - Subjects/Science.md
       - Subjects/Physical and Outdoor Education.md
       - Subjects/Mother Tongue.md
