@@ -37,13 +37,13 @@ links:
     url: /permalink
     sublinks:
       - title: Our School Achievements
-        url: /permalink
+        url: /schoolachievements/permalink
       - title: Our Academic Achievements
-        url: /permalink
+        url: /academicachievements/permalink
       - title: Our CCA Achievements
-        url: /permalink
+        url: /ccaachievements/permalink
       - title: Our Staff Achievements
-        url: /permalink
+        url: staffachievements/permalink
       - title: Our Alumni Achievements
         url: /alumniachievements/permalink
   - title: Our Partners
