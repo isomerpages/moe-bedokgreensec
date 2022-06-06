@@ -2,4 +2,5 @@ collections:
   our-achievements:
     output: true
     order:
+      - Our Academic Achievements.md
       - Our School Achievements.md
