@@ -2,7 +2,7 @@ collections:
   academic:
     output: true
     order:
-      - Subject Based Banding.md
+      - Subjects/.keep
       - Subjects/Science.md
       - Subjects/Physical and Outdoor Education.md
       - Subjects/Mother Tongue.md
@@ -14,4 +14,4 @@ collections:
       - Subjects/CPA & EBS.md
       - Subjects/Applied Learning Program.md
       - "Subjects/Aesthetics: Art and Music.md"
-      - Subjects/.keep
+      - Subject Based Banding.md
