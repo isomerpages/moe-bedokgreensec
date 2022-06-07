@@ -190,6 +190,7 @@ description: ""
 </table>
 
 **Subject Heads and Level Heads**
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -223,12 +224,13 @@ description: ""
     <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;6446&nbsp;&nbsp;&nbsp;3301 ext 235</td>
   </tr>
   <tr>
-    <td class="tg-7zrl" rowspan="2">&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;<span style="font-weight:inherit;font-style:inherit">Subject Head (Social Studies)</span></td>
+    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;<span style="font-weight:inherit;font-style:inherit">Subject Head (Social Studies)</span></td>
     <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;Mrs Lee-Goh Chui Ting</td>
     <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;goh_chui_ting@moe.edu.sg</td>
     <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;6446&nbsp;&nbsp;&nbsp;3301 ext 231</td>
   </tr>
   <tr>
+    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;<span style="font-weight:inherit;font-style:inherit">Subject Head (Malay Language)</span></td>
     <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;Mdm Noor Afidah Bte Abdul Rahman</td>
     <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;noor_afidah_abdul_rahman@moe.edu.sg</td>
     <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;6446&nbsp;&nbsp;&nbsp;3301 ext 219</td>
