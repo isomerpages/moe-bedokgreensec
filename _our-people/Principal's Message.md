@@ -26,4 +26,5 @@ The coming merger will catalyse our growth further. In 2023, about 200 Secondary
 There is no better time to be part of Bedok Green than now. Be part of our exciting journey and grow together with us!
 
 Boy Eng Seng
+
 Principal
