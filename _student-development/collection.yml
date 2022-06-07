@@ -2,9 +2,9 @@ collections:
   student-development:
     output: true
     order:
-      - Co Curricular Activities/Youth Flying Club.md
-      - Co Curricular Activities/Outdoor Adventure Club (ODAC).md
-      - Co Curricular Activities/Infocomm Club.md
-      - Co Curricular Activities/Environment Club.md
-      - Co Curricular Activities/Our CCAs.md
       - Co Curricular Activities/.keep
+      - Co Curricular Activities/Our CCAs.md
+      - Co Curricular Activities/Environment Club.md
+      - Co Curricular Activities/Infocomm Club.md
+      - Co Curricular Activities/Outdoor Adventure Club (ODAC).md
+      - Co Curricular Activities/Youth Flying Club.md
