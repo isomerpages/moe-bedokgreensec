@@ -2,8 +2,8 @@ collections:
   our-people:
     output: true
     order:
-      - Support Staff.md
-      - School Counsellors.md
-      - Teaching Staff.md
-      - School Management Committee.md
       - Principal's Message.md
+      - School Management Committee.md
+      - Teaching Staff.md
+      - School Counsellors.md
+      - Support Staff.md
