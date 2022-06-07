@@ -419,4 +419,53 @@ description: ""
 </tbody>
 </table>
 
+**Other Teachers**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-t24n{color:#3A3A3A;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1wig"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">Position</span></th>
+    <th class="tg-1wig"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">Person</span></th>
+    <th class="tg-1wig"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">Email</span> </th>
+    <th class="tg-1wig"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">Phone</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-t24n"><span style="font-weight:inherit;font-style:inherit">Senior Teacher (Special Educational Needs) </span></td>
+    <td class="tg-t24n"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#3A3A3A">Mr Leow Wee Meng Frankie</span></td>
+    <td class="tg-t24n">leow_wee_meng_frankie@moe.edu.sg</td>
+    <td class="tg-t24n">6446 3301 ext 210</td>
+  </tr>
+  <tr>
+    <td class="tg-t24n"><span style="font-weight:inherit;font-style:inherit">Senior Teacher (Physics)</span></td>
+    <td class="tg-t24n"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#3A3A3A">Mr Lim Jit Wei David </span></td>
+    <td class="tg-t24n">david_lim_jit_wei@moe.edu.sg</td>
+    <td class="tg-t24n">6446 3301 ext 204</td>
+  </tr>
+  <tr>
+    <td class="tg-t24n"><span style="font-weight:inherit;font-style:inherit">Senior Teacher (Mathematics)</span></td>
+    <td class="tg-t24n"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#3A3A3A">Miss Ong Wei Ling </span></td>
+    <td class="tg-t24n">ong_wei_ling@moe.edu.sg</td>
+    <td class="tg-t24n">6446 3301 ext 227</td>
+  </tr>
+  <tr>
+    <td class="tg-t24n"><span style="font-weight:inherit;font-style:inherit">Senior Teacher (Learning Needs)</span></td>
+    <td class="tg-t24n"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#3A3A3A">Mdm Samsiah Bte Khamis </span></td>
+    <td class="tg-t24n">samsiah_khamis@moe.edu.sg</td>
+    <td class="tg-t24n">6446 3301 ext 167</td>
+  </tr>
+</tbody>
+</table>
+
+**Non Form Teachers**
 
