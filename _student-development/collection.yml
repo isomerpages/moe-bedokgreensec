@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Level Programme/Sec 3 MOE OBS Challenge Programme.md
       - Level Programme/Sec 2 Cohort OVIA.md
       - Level Programme/Sec 1 Orientation and Camps.md
       - Level Programme/.keep
