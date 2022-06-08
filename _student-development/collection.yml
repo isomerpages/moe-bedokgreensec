@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Student Link/School Booklist.md
       - Student Link/Post Secondary Options and Admission Information.md
       - Student Link/Financial Assistance Schemes & Awards.md
       - Student Link/School Uniform Supplier.md
