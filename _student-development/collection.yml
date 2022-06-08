@@ -2,17 +2,6 @@ collections:
   student-development:
     output: true
     order:
-      - Level Programme/.keep
-      - Level Programme/Sec 1 Orientation and Camps.md
-      - Level Programme/Sec 2 Cohort OVIA.md
-      - Level Programme/Sec 3 MOE OBS Challenge Programme.md
-      - Level Programme/Sec 4 Service Learning.md
-      - Talent Development Programme.md
-      - Student Leadership Programme/.keep
-      - Student Leadership Programme/Student Councillors.md
-      - Student Leadership Programme/CCA Leaders.md
-      - Student Leadership Programme/CLASS Leaders.md
-      - Student Leadership Programme/House Leaders.md
       - Co Curricular Activities/.keep
       - Co Curricular Activities/Our CCAs.md
       - Co Curricular Activities/Environment Club.md
@@ -33,3 +22,14 @@ collections:
       - Co Curricular Activities/NCC (Land).md
       - Co Curricular Activities/NPCC.md
       - Co Curricular Activities/Saint John Brigade.md
+      - Student Leadership Programme/.keep
+      - Student Leadership Programme/Student Councillors.md
+      - Student Leadership Programme/CCA Leaders.md
+      - Student Leadership Programme/CLASS Leaders.md
+      - Student Leadership Programme/House Leaders.md
+      - Talent Development Programme.md
+      - Level Programme/.keep
+      - Level Programme/Sec 1 Orientation and Camps.md
+      - Level Programme/Sec 2 Cohort OVIA.md
+      - Level Programme/Sec 3 MOE OBS Challenge Programme.md
+      - Level Programme/Sec 4 Service Learning.md
