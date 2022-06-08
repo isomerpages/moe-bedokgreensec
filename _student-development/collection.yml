@@ -2,11 +2,11 @@ collections:
   student-development:
     output: true
     order:
-      - Student Link/School Booklist.md
-      - Student Link/Post Secondary Options and Admission Information.md
-      - Student Link/Financial Assistance Schemes & Awards.md
-      - Student Link/School Uniform Supplier.md
       - Student Link/.keep
+      - Student Link/School Uniform Supplier.md
+      - Student Link/Financial Assistance Schemes & Awards.md
+      - Student Link/Post Secondary Options and Admission Information.md
+      - Student Link/School Booklist.md
       - CCE/Values in Action (VIA).md
       - CCE/Sexuality Education Programme.md
       - CCE/Cyber Wellness (CW).md
