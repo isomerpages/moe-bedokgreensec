@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Student Leadership Programme/House Leaders.md
       - Student Leadership Programme/CLASS Leaders.md
       - Student Leadership Programme/CCA Leaders.md
       - Student Leadership Programme/Student Councillors.md
