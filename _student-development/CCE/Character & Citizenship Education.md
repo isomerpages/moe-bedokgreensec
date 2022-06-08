@@ -11,5 +11,6 @@ third_nav_title: CCE
 
 The landscape of education has evolved greatly over the years, adopting a more holistic approach which aims to inculcate values and build competencies in our students to develop them to be good individuals and useful citizens.
 
-Our Curriculum
+**Our Curriculum**
+
 In Bedok Green Secondary School, we have Character and Citizen Education (CCE) lessons. Every week, we bring students through learning experiences aimed at shaping their character. These lessons and experiences are specially crafted to incite students to look within themselves and reflect on how they can best grow to embody the school values.
