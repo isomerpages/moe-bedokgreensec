@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Student Link/.keep
       - CCE/Values in Action (VIA).md
       - CCE/Sexuality Education Programme.md
       - CCE/Cyber Wellness (CW).md
