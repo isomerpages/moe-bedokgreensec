@@ -87,6 +87,4 @@ The programme includes a 1-hour talk and a 1-hour classroom-based lesson:
 
 Additional information is available on the MOE [website](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education).
 
-If you do not wish your child/ward to attend this programme, please opt out. For further clarifications about this programme, you may email hpb_yhp@hpb.gov.sg.
-
-
+If you do not wish your child/ward to attend this programme, please opt out. For further clarifications about this programme, you may email <a href="mailto:hpb_yhp@hpb.gov.sg">Jon Doe</a>hpb_yhp@hpb.gov.sg.
