@@ -156,3 +156,7 @@ Teaching Staff
 
 
 ##### **Compassion 7**
+
+<b>Mr Chua Wei Guang Andy</b> chua_wei_guang_andy@moe.edu.sg 6446 3301 ext 167
+
+<b>Miss Yan Hui Yu Joey</b> yan_hui_yu@moe.edu.sg 6446 3301 ext 245
