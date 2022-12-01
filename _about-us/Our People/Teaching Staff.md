@@ -167,3 +167,10 @@ Teaching Staff
 #### Year Head (Sec 4 & Sec 5 & Upper Sec)
 
 <b>Miss Seow Xue Ling Sheryl</b> seow_xue_ling@moe.edu.sg 6446 3301 ext 122
+
+
+##### **Humility 1**
+
+<b>Mr Kenson Go Qing Lin</b> go_qing_lin_kenson@moe.edu.sg 6446 3301 ext 232
+
+<b>Mr Tan Chai Choon</b> tan_chai_choon@moe.edu.sg 6446 3301 ext 241
