@@ -20,4 +20,5 @@ Teaching Staff
 
 <b>Mr Tan Chee Seng Terence</b> tan_chee_seng_terence@moe.edu.sg 6446 3301 ext 238
 
-<b>Miss Noor Farhanah Bte Mohd Rahman</b> noor_farhanah_mohd_rahman@moe.edu.sg 6446 3301 ext 221
+<b>Miss Noor Farhanah Bte Mohd Rahman</b> noor_farhanah_mohd_rahman@moe.edu.sg 
+6446 3301 ext 221
