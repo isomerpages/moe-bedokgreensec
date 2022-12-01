@@ -22,3 +22,42 @@ School Management Committee
 ##### **Vice-Principal (Administration)**
 
 <b>Mr Lee Chee Chong</b> bgss@moe.edu.sg 6446 3301
+
+
+### **Heads of Departments**
+
+##### **HOD (Mother Tongue Languages)**
+
+<b>Miss Koh Phuay Kiang</b> koh_phuay_kiang@moe.edu.sg 6446 3301 ext 126
+
+##### **HOD (Character and Citizenship Education)**
+
+<b>Mr Lee Beng Wah</b> lee_beng_wah@moe.edu.sg 6446 3301 ext 133
+
+##### **School Staff Developer**
+
+<b>Mr Lew Khee Guan Ievan</b> lew_khee_guan_ievan@moe.edu.sg 64463301 ext 119
+
+##### **HOD (Physical Education & Co-Curriculum Activities)**
+
+<b>Mr Loh Kee Seng</b> loh_kee_seng@moe.edu.sg 6446 3301 ext 169
+
+##### **HOD (Science)**
+
+<b>Mr Mohamad Khirsyaban Iskandar</b> mohamad_khirsyaban_iskandar@moe.edu.sg 6446 3301 ext 121
+
+##### **HOD (Aesthetics)**
+
+<b>Ms Nur 'Abidah Bte Abdul Rahman</b> nur_abidah_abdul_rahman@moe.edu.sg 6446 3301 ext 128
+
+##### **HOD (Mathematics)**
+
+<b>Mr Tan Meng Yoke Eric</b> tan_meng_yoke@moe.edu.sg 6446 3301 ext 131
+
+##### **HOD (Student Management)**
+
+<b>Mr Teo Chai Lai</b> teo_chai_lai@moe.edu.sg 6446 3301 ext 123
+
+##### **HOD (ICT)**
+
+<b>Miss Yeow Pei Lin Alexis</b> yeow_pei_lin@moe.edu.sg 6446 3301 ext 120
