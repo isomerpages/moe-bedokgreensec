@@ -190,3 +190,7 @@ Teaching Staff
 
 
 ##### **Humility 4**
+
+<b>Mr Teng Soon Heng Nigel</b> teng_soon_heng_nigel@moe.edu.sg 6446 3301 ext 201
+
+<b>Ms Shahida Begum Angullia Binti Musa</b> shahida_begum_angullia_musa@moe.edu.sg 6446 3301 ext 244
