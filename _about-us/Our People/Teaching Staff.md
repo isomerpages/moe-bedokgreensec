@@ -199,3 +199,10 @@ Teaching Staff
 ##### **Humility 5**
 
 <b>Ms Siti Filzah Binte Ishak</b> siti_filzah_ishak@moe.edu.sg 6446 3301 ext 233
+
+
+##### **Humility 6**
+
+<b>Mr Kuah Peng Yan</b> kuah_peng_yan@moe.edu.sg 6446 3301 ext 213
+
+<b>Ms Lee Xin Yi Jade</b> jade_lee_xin_yi@moe.edu.sg 6446 3301 ext 242
