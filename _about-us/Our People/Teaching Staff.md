@@ -63,3 +63,7 @@ Teaching Staff
 <b>Mr Ng Yu Zhe Yonatan</b> yonatan_ng_yu_zhe@moe.edu.sg 6446 3301 ext 168
 
 ##### **Integrity 2**
+
+<b>Ms Lee Su Wee</b> lee_su_wee@moe.edu.sg 6446 3301 ext 234
+
+<b>Miss Nooraini Bte Othman</b> nooraini_othman@moe.edu.sg 6446 3301 ext 222
