@@ -144,3 +144,12 @@ Teaching Staff
 <b>Miss Xu Zhenyi</b> xu_zhenyi@moe.edu.sg 6446 3301 ext 217
 
 <b>Mr Goh Sor Ee Lloyd</b> sor_ee_lloyd_goh@moe.edu.sg 6446 3301 ext 207
+
+
+##### **Compassion 6**
+
+<b>Mr Kamaruddin Bin Mohd Ibrahim</b> kamaruddin_mohd_ibrahim@moe.edu.sg 6446 3301 ext 214
+
+<b>Mr Muhammad Nur Alim Salim</b> muhammad_nur_alim_salim@moe.edu.sg 6446 3301 ext 212
+
+<b>Ms Nurshafiqah Bte Mohamed Shadiq</b> nurshafiqah_mohamed_shadiq@moe.edu.sg 6446 3301 ext 212
