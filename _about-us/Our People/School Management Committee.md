@@ -91,3 +91,13 @@ School Management Committee
 ##### **Subject Head (Student Management)** 
 
 <b>Mrs Fan-Koh Hsiao Lin</b> koh_hsiao_lin@moe.edu.sg 6446 3301 ext 211
+
+
+##### **Subject Head (Student Leadership)**
+
+<b>Mr Wong Yong Jie</b> wong_yong_jie@moe.edu.sg 6446 3301 ext 169
+
+##### **Subject Head (Social Studies)**
+
+<b>Mrs Lee-Goh Chui Ting</b> goh_chui_ting@moe.edu.sg 6446 3301 ext 231
+
