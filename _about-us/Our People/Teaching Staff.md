@@ -218,3 +218,19 @@ Teaching Staff
 ##### **Humility 8**
 
 <b>Miss Sew Pui Huang</b> sew_pui_huang@moe.edu.sg 6446 3301 ext 224
+
+### Other Teachers
+
+##### **Senior Teachers**
+
+<b>Senior Teacher (Special Educational Needs)</b>
+
+<b>Mr Leow Wee Meng Frankie</b> leow_wee_meng_frankie@moe.edu.sg 6446 3301 ext 210
+
+<b>Senior Teacher (Physics)</b>
+
+<b>Mr Lim Jit Wei David</b> david_lim_jit_wei@moe.edu.sg 6446 3301 ext 204
+
+<b>Senior Teacher (Mathematics)</b>
+
+<b>Miss Ong Wei Ling</b> ong_wei_ling@moe.edu.sg 6446 3301 ext 227
