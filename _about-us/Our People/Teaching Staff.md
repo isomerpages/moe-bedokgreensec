@@ -113,3 +113,5 @@ Teaching Staff
 <b>Mr Hafiedz-Ul Ashadi Bin Tamrin</b> hafiedz-ul_ashadi_tain@moe.edu.sg 6446 3301 ext 127
 
 <b>Ms Nurmuhaina Bte Bakar</b> nurmuhaina_bte_bakar@moe.edu.sg 6446 3301 ext 125
+
+##### **Compassion 1**
