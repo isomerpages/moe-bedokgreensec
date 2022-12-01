@@ -187,3 +187,6 @@ Teaching Staff
 <b>Mrs Liew Siew Bee</b> ong_siew_bee@moe.edu.sg 6446 3301 ext 222
 
 <b>Mr Lee Jie Hao Hendrik</b> hendrik_lee_jie_hao@moe.edu.sg 6446 3301 ext 214
+
+
+##### **Humility 4**
