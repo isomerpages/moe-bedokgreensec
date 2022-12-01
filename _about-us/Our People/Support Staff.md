@@ -61,12 +61,12 @@ Mdm Norlela Bte Kitang</b>
 
 ### **Technical Support Officers**
 
-<b>Mr Abdul Rashid Bin Mohd Ibrahim 
+<b>Mr Abdul Rashid Bin Mohd Ibrahim</b>
 
-Mr Hamli Bin Abdul Ghani
+<b>Mr Hamli Bin Abdul Ghani</b>
 
-Miss Maria Bte Kamis
+<b>Miss Maria Bte Kamis</b>
 
-Mr Ong Hock Seng 
+<b>Mr Ong Hock Seng</b> 
 
-Mr Yusof Bin Ali</b>
+<b>Mr Yusof Bin Ali</b>
