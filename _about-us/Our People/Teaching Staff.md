@@ -119,3 +119,9 @@ Teaching Staff
 <b>Miss Vanessa Marie Lee Qui</b> vanessa_marie_lee_qui@moe.edu.sg 6446 3301 ext 239
 
 <b>Mr Lee Hang Chai</b> lee_hang_chai@moe.edu.sg 6446 3301 ext 244
+
+##### **Compassion 2**
+
+<b>Mr Chiu Bang Ern, Glynne</b> chiu_bang_ern_glynne@moe.edu.sg 6446 3301 ext 240
+
+<b>Miss See Wee Ching Kymberly</b> see_wee_ching_kymberly@moe.edu.sg 6446 3301 ext 238
