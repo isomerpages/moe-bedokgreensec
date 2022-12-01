@@ -35,3 +35,8 @@ School Counsellors
 ### **Education and Career Guidance (ECG) Counsellor**
 
 <b>Ms Samantha Woo</b> woo_wai_yeng@schools.gov.sg 6446 3301
+
+
+### **School Health Advisor**
+
+<b>Miss Nanthini Rasandran</b> nanthini_rasandran@certisgroup.com
