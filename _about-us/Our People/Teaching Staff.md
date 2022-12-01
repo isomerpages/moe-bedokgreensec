@@ -42,3 +42,10 @@ Teaching Staff
 <b>Mr Ng Kim Tu</b> ng_kim_tu@moe.edu.sg 6446 3301 ext 226
 
 <b>Mdm Rika Herdiyani Bte Amrun</b> rika_herdiyani_amrun@moe.edu.sg 6446 3301 ext 220
+
+
+##### **Resilience 5**
+
+<b>Ms Siti Nadiah Bte Ramli</b> siti_nadiah_ramli@moe.edu.sg 6446 3301 ext 200
+
+<b>Mdm Wong Yuyi Adriana</b> wong_yuyi_adriana@moe.edu.sg 6446 3301 ext 242
