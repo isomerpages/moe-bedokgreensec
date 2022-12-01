@@ -105,3 +105,11 @@ Teaching Staff
 <b>Miss Cher Wei Fen Jeslyn</b> cher_wei_fen_jeslyn@moe.edu.sg 6446 3301 ext 207
 
 <b>Mrs Lai-See Ngiap Yian</b> lai-see_ngiap_yian@moe.edu.sg 64463301 ext 234
+
+### Secondary 3
+
+#### Assistant Year Heads (Sec 3)
+
+<b>Mr Hafiedz-Ul Ashadi Bin Tamrin</b> hafiedz-ul_ashadi_tain@moe.edu.sg 6446 3301 ext 127
+
+<b>Ms Nurmuhaina Bte Bakar</b> nurmuhaina_bte_bakar@moe.edu.sg 6446 3301 ext 125
