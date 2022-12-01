@@ -83,3 +83,6 @@ Teaching Staff
 <b>Mr Peh Jin Bao</b> peh_jin_bao@moe.edu.sg 6446 3301 ext 234
 
 <b>Miss Leow Dai Jing</b> leow_dai_jing@moe.edu.sg 6446 3301 ext 224
+
+
+##### **Integrity 5**
