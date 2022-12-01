@@ -9,16 +9,16 @@ third_nav_title: Our People
 School Management Committee
 ---------------------------
 
-##### **School Leaders**
+### **School Leaders**
 
-#### **Principal**
+##### **Principal**
 
-**Mr Boy Eng Seng** bgss@moe.edu.sg 6446 3301
+<b>Mr Boy Eng Seng</b> bgss@moe.edu.sg 6446 3301
 
-#### **Vice-Principal**
+##### **Vice-Principal**
 
-**Ms Sakinah Binte Mohamed Sarip** bgss@moe.edu.sg 6446 3301
+<b>Ms Sakinah Binte Mohamed Sarip</b> bgss@moe.edu.sg 6446 3301
 
-#### **Vice-Principal (Administration)**
+##### **Vice-Principal (Administration)**
 
-**Mr Lee Chee Chong** bgss@moe.edu.sg 6446 3301
+<b>Mr Lee Chee Chong</b> bgss@moe.edu.sg 6446 3301
