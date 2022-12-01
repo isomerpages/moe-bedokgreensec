@@ -29,4 +29,7 @@ School Counsellors
 
 ### **Special Educational Needs Officer**
 
-<b>Miss Nurliyana Bte Mohammed Ruslan</b> nurliyana_mohammed_ruslan@moe.edu.sg 6446 3301 ext 245
+<b>Miss Nurliyana Bte Mohammed Ruslan</b> nurliyana_mohammed_ruslan@moe.edu.sg                                       
+6446 3301 ext 245
+
+### **Education and Career Guidance (ECG) Counsellor**
