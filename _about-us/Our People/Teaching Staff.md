@@ -115,3 +115,7 @@ Teaching Staff
 <b>Ms Nurmuhaina Bte Bakar</b> nurmuhaina_bte_bakar@moe.edu.sg 6446 3301 ext 125
 
 ##### **Compassion 1**
+
+<b>Miss Vanessa Marie Lee Qui</b> vanessa_marie_lee_qui@moe.edu.sg 6446 3301 ext 239
+
+<b>Mr Lee Hang Chai</b> lee_hang_chai@moe.edu.sg 6446 3301 ext 244
