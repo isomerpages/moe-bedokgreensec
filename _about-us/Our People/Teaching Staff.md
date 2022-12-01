@@ -125,3 +125,15 @@ Teaching Staff
 <b>Mr Chiu Bang Ern, Glynne</b> chiu_bang_ern_glynne@moe.edu.sg 6446 3301 ext 240
 
 <b>Miss See Wee Ching Kymberly</b> see_wee_ching_kymberly@moe.edu.sg 6446 3301 ext 238
+
+##### **Compassion 3**
+
+<b>Mdm Siti Aishah Bte Mohd Jamaludin</b> siti_aishah_mohd_jamaludin@moe.edu.sg 6446 3301 ext 228
+
+<b>Ms Lynn Kweh</b> kweh_bee_ginn@moe.edu.sg 6446 3301 ext 232
+
+##### **Compassion 4**
+
+<b>Mr Emrizal Bin Mohamed Suhaimi</b> emrizal_mohamed_suhaimi@moe.edu.sg 6446 3301 ext 221
+
+<b>Miss Ang Wan Yu Florence</b> ang_wan_yu_florence@moe.edu.sg 6446 3301 ext 210
