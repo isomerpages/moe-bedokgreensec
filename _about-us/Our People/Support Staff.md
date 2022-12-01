@@ -41,3 +41,10 @@ mohamad_zailani_dollah_sumari@moe.edu.sg 6446 3301 ext 139
 
 
 ### **ICT Associate**
+
+
+### **Desktop Engineer**
+
+<b>Ms Scarlet Yuyian</b>
+
+<b>Mr Muhammad Fadhli Bin Rosli</b>
