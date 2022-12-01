@@ -70,3 +70,8 @@ Mdm Norlela Bte Kitang</b>
 <b>Mr Ong Hock Seng</b> 
 
 <b>Mr Yusof Bin Ali</b>
+
+
+### **Nexus Librarian**
+
+<b>Mdm Rosita Bte Yusoff</b>
