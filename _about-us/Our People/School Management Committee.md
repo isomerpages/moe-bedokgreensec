@@ -87,3 +87,7 @@ School Management Committee
 
 
 ### **Subject Heads and Level Heads**
+
+##### **Subject Head (Student Management)** 
+
+<b>Mrs Fan-Koh Hsiao Lin</b> koh_hsiao_lin@moe.edu.sg 6446 3301 ext 211
