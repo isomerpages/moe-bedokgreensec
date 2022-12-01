@@ -174,3 +174,16 @@ Teaching Staff
 <b>Mr Kenson Go Qing Lin</b> go_qing_lin_kenson@moe.edu.sg 6446 3301 ext 232
 
 <b>Mr Tan Chai Choon</b> tan_chai_choon@moe.edu.sg 6446 3301 ext 241
+
+
+##### **Humility 2**
+
+<b>Miss Norhayati Bte Abdul Rahim</b> norhayati_abdul_rahim@moe.edu.sg 6446 3301 ext 237
+
+<b>Mr Teo Chun Min</b> teo_chun_min@moe.edu.sg 6446 3301 ext 206
+
+##### **Humility 3**
+
+<b>Mrs Liew Siew Bee</b> ong_siew_bee@moe.edu.sg 6446 3301 ext 222
+
+<b>Mr Lee Jie Hao Hendrik</b> hendrik_lee_jie_hao@moe.edu.sg 6446 3301 ext 214
