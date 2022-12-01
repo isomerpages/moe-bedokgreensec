@@ -38,3 +38,7 @@ Teaching Staff
 
 
 ##### **Resilience 4**
+
+<b>Mr Ng Kim Tu</b> ng_kim_tu@moe.edu.sg 6446 3301 ext 226
+
+<b>Mdm Rika Herdiyani Bte Amrun</b> rika_herdiyani_amrun@moe.edu.sg 6446 3301 ext 220
