@@ -68,3 +68,14 @@ School Management Committee
 ##### **Assistant Year Head (Sec 1)** 
 
 <b>Mdm Salenah Bte Mohd Salleh</b> salenah_mohamed_salleh@moe.edu.sg 6446 3301 ext 124
+
+##### **Year Head (Sec 2 & Lower Sec)**
+
+<b>Mr Tan Yang Hui</b> tan_yang_hui@moe.edu.sg 6446 3301 ext 135
+
+
+##### **Assistant Year Heads (Sec 3)**
+
+<b>Mr Hafiedz-Ul Ashadi Bin Tamrin</b> hafiedz-ul_ashadi_tain@moe.edu.sg 6446 3301 ext 127
+
+<b>Ms Nurmuhaina Bte Bakar</b> nurmuhaina_bte_bakar@moe.edu.sg 6446 3301 ext 125
