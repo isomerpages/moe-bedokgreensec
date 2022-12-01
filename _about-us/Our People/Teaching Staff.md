@@ -153,3 +153,6 @@ Teaching Staff
 <b>Mr Muhammad Nur Alim Salim</b> muhammad_nur_alim_salim@moe.edu.sg 6446 3301 ext 212
 
 <b>Ms Nurshafiqah Bte Mohamed Shadiq</b> nurshafiqah_mohamed_shadiq@moe.edu.sg 6446 3301 ext 212
+
+
+##### **Compassion 7**
