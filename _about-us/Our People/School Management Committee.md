@@ -61,3 +61,6 @@ School Management Committee
 ##### **HOD (ICT)**
 
 <b>Miss Yeow Pei Lin Alexis</b> yeow_pei_lin@moe.edu.sg 6446 3301 ext 120
+
+
+### **Year Heads**
