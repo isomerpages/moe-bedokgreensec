@@ -206,3 +206,15 @@ Teaching Staff
 <b>Mr Kuah Peng Yan</b> kuah_peng_yan@moe.edu.sg 6446 3301 ext 213
 
 <b>Ms Lee Xin Yi Jade</b> jade_lee_xin_yi@moe.edu.sg 6446 3301 ext 242
+
+
+##### **Humility 7**
+
+<b>Mr Lee Kian Hui Gregory</b> lee_kian_hui_gregory@moe.edu.sg 6446 3301 ext 167
+
+<b>Miss Goh Sok Hui</b> goh_sok_hui@moe.edu.sg 6446 3301 ext 238
+
+
+##### **Humility 8**
+
+<b>Miss Sew Pui Huang</b> sew_pui_huang@moe.edu.sg 6446 3301 ext 224
