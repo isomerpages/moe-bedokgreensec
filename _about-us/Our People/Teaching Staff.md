@@ -92,3 +92,6 @@ Teaching Staff
 <b>Mr Sebastian Goh Wei Ying</b> sebastian_goh_wei_ying@moe.edu.sg 6446 3301 ext 242
 
 <b>Ms Ruqayyah Bte Mohamed Idrus Z</b> ruqayyah_mohamed_idrus_zamzam@moe.edu.sg 6446 3301 ext 220
+
+##### **Integrity 6**
+
