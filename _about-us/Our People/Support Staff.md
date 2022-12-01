@@ -57,3 +57,16 @@ Mdm Indraghandi d/o Letehimiman
 Mdm Kesumawati Binte Saimon  
 Mdm Lim Ah Geok  
 Mdm Norlela Bte Kitang</b>
+
+
+### **Technical Support Officers**
+
+<b>Mr Abdul Rashid Bin Mohd Ibrahim 
+
+Mr Hamli Bin Abdul Ghani
+
+Miss Maria Bte Kamis
+
+Mr Ong Hock Seng 
+
+Mr Yusof Bin Ali</b>
