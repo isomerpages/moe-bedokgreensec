@@ -137,3 +137,10 @@ Teaching Staff
 <b>Mr Emrizal Bin Mohamed Suhaimi</b> emrizal_mohamed_suhaimi@moe.edu.sg 6446 3301 ext 221
 
 <b>Miss Ang Wan Yu Florence</b> ang_wan_yu_florence@moe.edu.sg 6446 3301 ext 210
+
+
+##### **Compassion 5**
+
+<b>Miss Xu Zhenyi</b> xu_zhenyi@moe.edu.sg 6446 3301 ext 217
+
+<b>Mr Goh Sor Ee Lloyd</b> sor_ee_lloyd_goh@moe.edu.sg 6446 3301 ext 207
