@@ -20,3 +20,8 @@ Support Staff
 		
 		
 ### **Operations Managers**
+
+<b>Mr Mohammad Suhaini Bin Mohd Yatim</b> mohammad_suhaini_mohammad_yatim@moe.edu.sg 6446 3301 ext 116
+
+<b>Mr Mohamad Zailani bin Dollah Sumar</b>
+mohamad_zailani_dollah_sumari@moe.edu.sg 6446 3301 ext 139
