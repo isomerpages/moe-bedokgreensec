@@ -30,3 +30,8 @@ Teaching Staff
 <b>Mr Ng Teng Hui Adam</b> ng_teng_hui_adam@moe.edu.sg 6446 3301 ext 167
 
 ##### **Resilience 3**
+
+
+<b>Mr Ng Ghim Hong Vincent</b> ng_ghim_hong_vincent@moe.edu.sg 6446 3301 ext 168
+
+<b>Mdm Tay Peck Ling</b> tay_peck_ling@moe.edu.sg 6446 3301 ext 225
