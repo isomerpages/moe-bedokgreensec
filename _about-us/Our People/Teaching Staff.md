@@ -95,3 +95,13 @@ Teaching Staff
 
 ##### **Integrity 6**
 
+<b>Mdm Ratnah bte Rawi</b> ratnah_rawi@moe.edu.sg 6446 3301 ext 209
+
+<b>Ms Chen Jiao</b> chen_jiao@moe.edu.sg 6446 3301 ext 218
+
+
+##### **Integrity 7**
+
+<b>Miss Cher Wei Fen Jeslyn</b> cher_wei_fen_jeslyn@moe.edu.sg 6446 3301 ext 207
+
+<b>Mrs Lai-See Ngiap Yian</b> lai-see_ngiap_yian@moe.edu.sg 64463301 ext 234
