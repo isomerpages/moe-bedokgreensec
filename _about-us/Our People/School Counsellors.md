@@ -20,3 +20,8 @@ School Counsellors
 ### **School Counsellor (Adjunct)**
 
 <b>Ms Oh Ching Fen</b> oh_ching_fen@moe.edu.sg  6446 3301
+
+
+### **Student Welfare Officer**
+
+<b>Ms Sharifah Nur Binte Syed Aidrus</b>  sharifah_nur_aidrus_alhadad@moe.edu.sg  6446 3301 ext 142
