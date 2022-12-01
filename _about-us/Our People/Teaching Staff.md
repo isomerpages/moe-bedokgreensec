@@ -67,3 +67,19 @@ Teaching Staff
 <b>Ms Lee Su Wee</b> lee_su_wee@moe.edu.sg 6446 3301 ext 234
 
 <b>Miss Nooraini Bte Othman</b> nooraini_othman@moe.edu.sg 6446 3301 ext 222
+
+
+##### **Integrity 3**
+
+<b>Ms Shahira Bte Mohamed Sharif</b> shahira_mohamed_sharif@moe.edu.sg 6446 3301 ext 208
+
+<b>Miss Gao Anji</b> gao_anji@moe.edu.sg 6446 3301 ext 215
+
+<b>Miss Liow Min Yu</b> liow_min_yu@moe.edu.sg 6446 3301 ext 218
+
+
+##### **Integrity 4**
+
+<b>Mr Peh Jin Bao</b> peh_jin_bao@moe.edu.sg 6446 3301 ext 234
+
+<b>Miss Leow Dai Jing</b> leow_dai_jing@moe.edu.sg 6446 3301 ext 224
