@@ -55,3 +55,11 @@ Teaching Staff
 #### Year Head (Sec 2 & Lower Sec)
 
 <b>Mr Ethan Tan Yang Hui</b> tan_yang_hui@moe.edu.sg 6446 3301 ext 135
+
+##### **Integrity 1**
+
+<b>Mdm Seow Peng Leng</b> seow_peng_leng@moe.edu.sg 6446 3301 ext 216
+
+<b>Mr Ng Yu Zhe Yonatan</b> yonatan_ng_yu_zhe@moe.edu.sg 6446 3301 ext 168
+
+##### **Integrity 2**
