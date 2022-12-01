@@ -25,3 +25,8 @@ School Counsellors
 ### **Student Welfare Officer**
 
 <b>Ms Sharifah Nur Binte Syed Aidrus</b>  sharifah_nur_aidrus_alhadad@moe.edu.sg  6446 3301 ext 142
+
+
+### **Special Educational Needs Officer**
+
+<b>Miss Nurliyana Bte Mohammed Ruslan</b> nurliyana_mohammed_ruslan@moe.edu.sg 6446 3301 ext 245
