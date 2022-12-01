@@ -101,3 +101,18 @@ School Management Committee
 
 <b>Mrs Lee-Goh Chui Ting</b> goh_chui_ting@moe.edu.sg 6446 3301 ext 231
 
+##### **Subject Head (Nutrition and Food Science & Design and Technology)**
+
+<b>Mdm Siti Fatimah Bte Haji Mohson</b> siti_fatimah_haji_mohson@moe.edu.sg 6446 3301 ext 211
+
+##### **Subject Head (Talent Development)**
+
+<b>Miss Tan Chu Yan</b> tan_chu_yan@moe.edu.sg 6446 3301 ext 223
+
+##### **Level Head (Mathematics)**
+
+<b>Mr Teo Keng Nam James</b> teo_keng_nam_james@moe.edu.sg 6446 3301 ext 223
+
+##### **Level Head (English Language & Literature)**
+
+<b>Ms Khairunnisa Bte Abdul Rashid</b> khairunnisa_abdul_rashid@moe.edu.sg 6446 3301 ext 235
