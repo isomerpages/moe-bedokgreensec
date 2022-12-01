@@ -15,3 +15,8 @@ School Counsellors
 <b>Ms Tan Toh Khin Louisa</b>  tan_toh_khin_louisa@moe.edu.sg  6446 3301 ext 165
 
 <b>Miss Loke Tshee Yeen</b> loke_tshee_yeen@moe.edu.sg 6446 3301 ext 251
+
+
+### **School Counsellor (Adjunct)**
+
+<b>Ms Oh Ching Fen</b> oh_ching_fen@moe.edu.sg  6446 3301
