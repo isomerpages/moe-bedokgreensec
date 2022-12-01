@@ -160,3 +160,10 @@ Teaching Staff
 <b>Mr Chua Wei Guang Andy</b> chua_wei_guang_andy@moe.edu.sg 6446 3301 ext 167
 
 <b>Miss Yan Hui Yu Joey</b> yan_hui_yu@moe.edu.sg 6446 3301 ext 245
+
+
+### Secondary 4 and 5
+
+#### Year Head (Sec 4 & Sec 5 & Upper Sec)
+
+<b>Miss Seow Xue Ling Sheryl</b> seow_xue_ling@moe.edu.sg 6446 3301 ext 122
