@@ -28,3 +28,5 @@ Teaching Staff
 <b>Mrs Tang-Lee Choon Tien</b> lee_choon_tien@moe.edu.sg 6446 3301 ext 205
 
 <b>Mr Ng Teng Hui Adam</b> ng_teng_hui_adam@moe.edu.sg 6446 3301 ext 167
+
+##### **Resilience 3**
