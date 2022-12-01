@@ -49,3 +49,9 @@ Teaching Staff
 <b>Ms Siti Nadiah Bte Ramli</b> siti_nadiah_ramli@moe.edu.sg 6446 3301 ext 200
 
 <b>Mdm Wong Yuyi Adriana</b> wong_yuyi_adriana@moe.edu.sg 6446 3301 ext 242
+
+### Secondary 2
+
+#### Year Head (Sec 2 & Lower Sec)
+
+<b>Mr Ethan Tan Yang Hui</b> tan_yang_hui@moe.edu.sg 6446 3301 ext 135
