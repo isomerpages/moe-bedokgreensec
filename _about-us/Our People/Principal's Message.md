@@ -21,7 +21,7 @@ Academically, BGSS students also perform very well. 1 in 3 students achieved a D
 
 The goal is not to chase medals and grades. The goal is to build <i>confidence, self-efficacy</i>, and a <i>growth mindset</i>. The best gifts that we can give to our students are these qualities that can help them thrive in an uncertain and complex future.
 
-We celebrated our 21st anniversary this year. This is also the last year for us before we merge with Ping Yi Secondary School in 2023. Every opportunity comes with challenges, and every challenge comes with opportunities. The school will leverage on these opportunities to grow, and we will overcome challenges with optimism and resolve. During the past year, both schools have been preparing actively for the merger. My confidence is that the merger will take place smoothly, and that the merged school will be <i>bigger</i>, <i>bolder</i> and <i>better</i> than the existing one.
+We celebrated our 21st anniversary this year. This is also the last year for us before we merge with Ping Yi Secondary School in 2023. Every opportunity comes with challenges, and every challenge comes with opportunities. The school will leverage on these opportunities to grow, and we will overcome challenges with optimism and resolve. During the past year, both schools have been preparing actively for the merger. My confidence is that the merger will take place smoothly, and that the merged school will be <i>bigger</i>, <i>bolder</i> and <i>better</i>  than the existing one.
 
 Boy Eng Seng  
 Principal
