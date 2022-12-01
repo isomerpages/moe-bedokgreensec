@@ -33,3 +33,5 @@ School Counsellors
 6446 3301 ext 245
 
 ### **Education and Career Guidance (ECG) Counsellor**
+
+<b>Ms Samantha Woo</b> woo_wai_yeng@schools.gov.sg 6446 3301
