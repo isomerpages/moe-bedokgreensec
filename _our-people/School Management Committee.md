@@ -1,6 +1,6 @@
 ---
 title: School Management Committee
-permalink: /smc/permalink
+permalink: /smc/permalink/
 description: ""
 ---
 **School Leaders**
@@ -11,45 +11,44 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-wye5{color:#3A3A3A;text-align:left;vertical-align:bottom}
-.tg .tg-nce4{background-color:#ffffff;border-color:inherit;color:#FFF;font-weight:bold;text-align:left;vertical-align:bottom}
-.tg .tg-j6zm{font-weight:bold;text-align:left;vertical-align:bottom}
-.tg .tg-7zrl{text-align:left;vertical-align:bottom}
-.tg .tg-t24n{color:#3A3A3A;text-align:left;vertical-align:top}
+.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
+.tg .tg-cctd{background-color:#FFF;color:#FFF;font-weight:bold;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-sc4m{background-color:#FFF;color:#323232;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ryel{background-color:#FFF;color:#1A202C;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-nce4"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">Position</span></th>
-    <th class="tg-j6zm"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">Person</span></th>
-    <th class="tg-j6zm"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">Email</span> </th>
-    <th class="tg-j6zm"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">Phone</span></th>
+    <th class="tg-cctd"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">Position</span></th>
+    <th class="tg-sc4m"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">Person</span></th>
+    <th class="tg-sc4m"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">Email</span></th>
+    <th class="tg-sc4m"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">Phone</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-7zrl"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black">Principal</span></td>
-    <td class="tg-wye5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#3A3A3A">Mr Boy Eng Seng </span></td>
-    <td class="tg-t24n">bgss@moe.edu.sg</td>
-    <td class="tg-t24n">6446 3301</td>
+    <td class="tg-ryel"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black">Principal</span></td>
+    <td class="tg-dox4">Mr Shaw Swee Tat</td>
+    <td class="tg-dox4"><span style="color:#3A3A3A">bgss@moe.edu.sg</span></td>
+    <td class="tg-dox4"><span style="color:#3A3A3A">6446 3301</span></td>
   </tr>
   <tr>
-    <td class="tg-7zrl"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black">Vice Principal</span></td>
-    <td class="tg-wye5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#3A3A3A">Ms Foo Sheue Feng</span></td>
-    <td class="tg-wye5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#3A3A3A">bgss@moe.edu.sg</span></td>
-    <td class="tg-t24n">6446 3301</td>
+    <td class="tg-ryel"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black">Vice Principal</span></td>
+    <td class="tg-dox4">Ms Sakinah Binte Mohamed Sarip</td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#3A3A3A">bgss@moe.edu.sg</span></td>
+    <td class="tg-dox4"><span style="color:#3A3A3A">6446 3301</span></td>
   </tr>
   <tr>
-    <td class="tg-7zrl"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black">Vice Principal</span></td>
-    <td class="tg-wye5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#3A3A3A">Ms Sakinah Binte Mohamed Sarip</span></td>
-    <td class="tg-wye5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#3A3A3A">bgss@moe.edu.sg</span></td>
-    <td class="tg-t24n">6446 3301</td>
+    <td class="tg-ryel"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black">Vice Principal</span></td>
+    <td class="tg-dox4">Mr Leonard Cheong</td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#3A3A3A">bgss@moe.edu.sg</span></td>
+    <td class="tg-dox4"><span style="color:#3A3A3A">6446 3301</span></td>
   </tr>
   <tr>
-    <td class="tg-7zrl"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black">Vice Principal (Administration)</span></td>
-    <td class="tg-wye5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#3A3A3A">Mr Lee Chee Chong</span></td>
-    <td class="tg-wye5"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#3A3A3A">bgss@moe.edu.sg</span></td>
-    <td class="tg-t24n">6446 3301</td>
+    <td class="tg-ryel"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black">Vice Principal (Administration)</span></td>
+    <td class="tg-dox4">Mr Lee Chee Chong</td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#3A3A3A">bgss@moe.edu.sg</span></td>
+    <td class="tg-dox4"><span style="color:#3A3A3A">6446 3301</span></td>
   </tr>
 </tbody>
 </table>
@@ -197,67 +196,61 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-v1w0{background-color:#ffffff;border-color:inherit;color:#000000;font-weight:bold;text-align:left;vertical-align:bottom}
-.tg .tg-j6zm{font-weight:bold;text-align:left;vertical-align:bottom}
-.tg .tg-7zrl{text-align:left;vertical-align:bottom}
+.tg .tg-y1yk{background-color:#FFF;color:#1A202C;font-weight:bold;text-align:left;text-decoration:underline;vertical-align:bottom}
+.tg .tg-cxo0{background-color:#FFF;color:#323232;font-weight:bold;text-align:left;vertical-align:bottom}
+.tg .tg-d9a5{background-color:#FFF;color:#1A202C;text-align:left;vertical-align:bottom}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-v1w0">Position</th>
-    <th class="tg-j6zm">Person</th>
-    <th class="tg-j6zm">Email </th>
-    <th class="tg-j6zm">Phone</th>
+    <th class="tg-y1yk"><span style="font-weight:bold;color:#000;background-color:#FFF">Position</span></th>
+    <th class="tg-cxo0"><span style="font-weight:bold;color:#323232">Person</span></th>
+    <th class="tg-cxo0"><span style="font-weight:bold;color:#323232">Email</span></th>
+    <th class="tg-cxo0"><span style="font-weight:bold;color:#323232">Phone</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;<span style="font-weight:inherit;font-style:inherit">Subject Head (Student Management) </span></td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;Mrs Fan-Koh Hsiao Lin </td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;koh_hsiao_lin@moe.edu.sg</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;6446&nbsp;&nbsp;&nbsp;3301 ext 211</td>
+    <td class="tg-d9a5">   <br>   <span style="font-weight:inherit;font-style:inherit">Subject Head (Student Management)</span></td>
+    <td class="tg-d9a5">Mrs Fan-Koh Hsiao Lin</td>
+    <td class="tg-d9a5">   <br>koh_hsiao_lin@moe.edu.sg</td>
+    <td class="tg-d9a5">   <br>6446 3301 ext 211</td>
   </tr>
   <tr>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;<span style="font-weight:inherit;font-style:inherit">Level Head (English Language &amp; Literature)</span></td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;Ms Khairunnisa Bte Abdul Rashid</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;khairunnisa_abdul_rashid@moe.edu.sg</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;6446&nbsp;&nbsp;&nbsp;3301 ext 235</td>
+    <td class="tg-d9a5">   <br>   <span style="font-weight:inherit;font-style:inherit">Level Head (English Language &amp; Literature)</span></td>
+    <td class="tg-d9a5">Ms Khairunnisa Bte Abdul Rashid</td>
+    <td class="tg-d9a5">   <br>khairunnisa_abdul_rashid@moe.edu.sg</td>
+    <td class="tg-d9a5">   <br>6446 3301 ext 235</td>
   </tr>
   <tr>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;<span style="font-weight:inherit;font-style:inherit">Subject Head (Social Studies)</span></td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;Mrs Lee-Goh Chui Ting</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;goh_chui_ting@moe.edu.sg</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;6446&nbsp;&nbsp;&nbsp;3301 ext 231</td>
+    <td class="tg-d9a5">   <br>   <span style="font-weight:inherit;font-style:inherit">Subject Head (Social Studies)</span></td>
+    <td class="tg-d9a5">Mrs Lee-Goh Chui Ting</td>
+    <td class="tg-d9a5">   <br>goh_chui_ting@moe.edu.sg</td>
+    <td class="tg-d9a5">   <br>6446 3301 ext 231</td>
   </tr>
   <tr>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;<span style="font-weight:inherit;font-style:inherit">Subject Head (Malay Language)</span></td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;Mdm Noor Afidah Bte Abdul Rahman</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;noor_afidah_abdul_rahman@moe.edu.sg</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;6446&nbsp;&nbsp;&nbsp;3301 ext 219</td>
+    <td class="tg-d9a5">   <br>   <span style="font-weight:inherit;font-style:inherit">Subject Head (Nutrition and Food Science &amp; Design and Technology)</span></td>
+    <td class="tg-d9a5">   <br>Mdm Siti Fatimah Bte Haji Mohson</td>
+    <td class="tg-d9a5">siti_fatimah_haji_mohson@moe.edu.sg</td>
+    <td class="tg-d9a5">   <br>6446 3301 ext 211</td>
   </tr>
   <tr>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;<span style="font-weight:inherit;font-style:inherit">Subject Head (Nutrition and Food Science &amp; Design and&nbsp;&nbsp;&nbsp;Technology)</span></td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;Mdm Siti Fatimah Bte Haji Mohson</td>
-    <td class="tg-7zrl">siti_fatimah_haji_mohson@moe.edu.sg</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;6446&nbsp;&nbsp;&nbsp;3301 ext 211</td>
+    <td class="tg-d9a5">   <br>   <span style="font-weight:inherit;font-style:inherit">Subject Head (Talent Development)</span></td>
+    <td class="tg-d9a5">   <br>Miss Tan Chu Yan</td>
+    <td class="tg-d9a5">   <br> an_chu_yan@moe.edu.sg</td>
+    <td class="tg-d9a5">   <br>6446 3301 ext 223</td>
   </tr>
   <tr>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;<span style="font-weight:inherit;font-style:inherit">Subject Head (Talent Development)</span></td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;Miss Tan Chu Yan </td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;tan_chu_yan@moe.edu.sg</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;6446&nbsp;&nbsp;&nbsp;3301 ext 223</td>
+    <td class="tg-d9a5">   <br>   <span style="font-weight:inherit;font-style:inherit">Level Head (Mathematics)</span></td>
+    <td class="tg-d9a5">   <br>Mr Teo Keng Nam James</td>
+    <td class="tg-d9a5">   <br>teo_keng_nam_james@moe.edu.sg</td>
+    <td class="tg-d9a5">   <br>6446 3301 ext 223</td>
   </tr>
   <tr>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;<span style="font-weight:inherit;font-style:inherit">Level Head (Mathematics)</span></td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;Mr Teo Keng Nam James </td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;teo_keng_nam_james@moe.edu.sg</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;6446&nbsp;&nbsp;&nbsp;3301 ext 223</td>
-  </tr>
-  <tr>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;<span style="font-weight:inherit;font-style:inherit">Subject Head (Student Leadership)</span></td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;Mr Wong Yong Jie</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;wong_yong_jie@moe.edu.sg</td>
-    <td class="tg-7zrl">&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;6446&nbsp;&nbsp;&nbsp;3301 ext 169</td>
+    <td class="tg-d9a5">   <br>   <span style="font-weight:inherit;font-style:inherit">Subject Head (Student Leadership)</span></td>
+    <td class="tg-d9a5">   <br>Mr Wong Yong Jie</td>
+    <td class="tg-d9a5">   <br>wong_yong_jie@moe.edu.sg</td>
+    <td class="tg-d9a5">   <br><span style="font-weight:400;font-style:normal">6446 3301 ext 169</span></td>
   </tr>
 </tbody>
 </table>
