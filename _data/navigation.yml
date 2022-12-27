@@ -1,13 +1,55 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/BGSS-School-Crest.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About Us
+    url: /about-us/permalink
+    sublinks:
+      - title: Our Vision, Mission, Values
+        url: /about-us/permalink
+      - title: Our Heritage
+        url: /our-heritage/permalink
+      - title: Our People
+        url: /message/permalink
+      - title: Our Contact
+        url: /our-contact/permalink
+  - title: Academic Curriculum
+    url: /aesthetics/permalink
+    sublinks:
+      - title: Academic
+        url: /aesthetics/permalink
+      - title: "Subject-based Banding "
+        url: /sbb/permalink
+  - title: "Student Development "
+    url: /student-development/Co-Curricular-Activities/permalink
+    sublinks:
+      - title: Co-curricular Activites
+        url: /student-development/Co-Curricular-Activities/permalink
+      - title: Student Leadership Programme
+        url: /student-development/Student-Councillors/permalink
+      - title: CCE
+        url: /student-development/CCE/permalink
+      - title: "Student Link "
+        url: /student-development/uniform/permalink
+      - title: Talent Development Program
+        url: /tdp/permalink
+      - title: Level Program
+        url: /student-development/camps/permalink
+  - title: Our Achievements
+    url: /permalink
+    sublinks:
+      - title: Our School Achievements
+        url: /schoolachievements/permalink
+      - title: Our Academic Achievements
+        url: /academicachievements/permalink
+      - title: Our CCA Achievements
+        url: /ccaachievements/permalink
+      - title: Our Staff Achievements
+        url: staffachievements/permalink
+      - title: Our Alumni Achievements
+        url: /alumniachievements/permalink
+  - title: Our Partners
+    url: /advisory/permalink
+    sublinks:
+      - title: "School Advisory Committee "
+        url: /advisory/permalink
+      - title: Parents
+        url: /psg/permalink
