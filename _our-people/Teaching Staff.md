@@ -11,82 +11,97 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vwo1{background-color:#FFF;border-color:inherit;color:#323232;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-b5eh{background-color:#FFF;border-color:inherit;color:#323232;font-weight:bold;text-align:left;text-decoration:underline;
-  vertical-align:middle}
-.tg .tg-spf6{background-color:#FFF;border-color:inherit;color:#1A202C;text-align:left;vertical-align:middle}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-cj27{background-color:#FFF;font-weight:bold;text-align:center;text-decoration:underline;vertical-align:top}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-b5eh"><span style="font-weight:bold;color:#323232">Position</span></th>
-    <th class="tg-vwo1"><span style="font-weight:bold;color:#323232">Person</span></th>
-    <th class="tg-vwo1"><span style="font-weight:bold;color:#323232">Email</span></th>
-    <th class="tg-vwo1"><span style="font-weight:bold;color:#323232">Phone</span></th>
+    <th class="tg-cj27"><span style="font-weight:700;font-style:normal;text-decoration:underline;color:#000;background-color:transparent">Position</span></th>
+    <th class="tg-9hzb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Person</span></th>
+    <th class="tg-9hzb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Email</span></th>
+    <th class="tg-9hzb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Phone</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-spf6"><span style="font-weight:inherit;font-style:inherit">Assistant Year Head (Sec 1)</span>     </td>
-    <td class="tg-spf6">Mdm Salenah Bte Mohd Salleh</td>
-    <td class="tg-spf6">salenah_mohamed_salleh@moe.edu.sg</td>
-    <td class="tg-spf6">6446 3301 ext 124</td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Year Head (Sec 1 and Lower Sec)</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mrs Joyce Yang</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">goh_xianhui_joyce@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 122</span></td>
   </tr>
   <tr>
-    <td class="tg-spf6" rowspan="2">Resilience 1</td>
-    <td class="tg-spf6">Mr Tan Chee Seng Terence</td>
-    <td class="tg-spf6">tan_chee_seng_terence@moe.edu.sg</td>
-    <td class="tg-spf6">6446 3301 ext 238</td>
+    <td class="tg-ktyi" rowspan="3"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Resilience 1</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mdm Azian Binte Zaini</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">azian_zaini@moe.edu.sg </span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 205</span></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Miss Noor Farhanah Bte Mohd Rahman</td>
-    <td class="tg-0pky">noor_farhanah_mohd_rahman@moe.edu.sg</td>
-    <td class="tg-0pky">6446 3301 ext 221</td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Miss Marie Anne Chia Jin Ling</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">marie_anne_chia@moe.edu.sg </span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 209</span></td>
   </tr>
   <tr>
-    <td class="tg-spf6" rowspan="2">Resilience 2</td>
-    <td class="tg-spf6">Mrs Tang-Lee Choon Tien</td>
-    <td class="tg-spf6">lee_choon_tien@moe.edu.sg</td>
-    <td class="tg-spf6">6446 3301 ext 205</td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mrs Yeo Swee Leng</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">tan_swee_leng@moe.edu.sg</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 203</span></td>
   </tr>
   <tr>
-    <td class="tg-spf6">Mr Ng Teng Hui Adam</td>
-    <td class="tg-spf6">ng_teng_hui_adam@moe.edu.sg</td>
-    <td class="tg-spf6">6446 3301 ext 167</td>
+    <td class="tg-ktyi" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Resilience 2</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Miss Khairunnisa Bte Abdul Rashid</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">khairunnisa_abdul_rashid@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 235</span></td>
   </tr>
   <tr>
-    <td class="tg-spf6" rowspan="2">Resilience 3</td>
-    <td class="tg-spf6">Mr Ng Ghim Hong Vincent</td>
-    <td class="tg-spf6">ng_ghim_hong_vincent@moe.edu.sg</td>
-    <td class="tg-spf6">6446 3301 ext 168</td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mdm Navamani d/o V Nagamuthu</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">navamani_v_nagamuthu@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 229</span></td>
   </tr>
   <tr>
-    <td class="tg-spf6">Mdm Tay Peck Ling</td>
-    <td class="tg-spf6">tay_peck_ling@moe.edu.sg</td>
-    <td class="tg-spf6">6446 3301 ext 225</td>
+    <td class="tg-ktyi" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Resilience 3</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mrs Liew Siew Bee</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">ong_siew_bee@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 222</span></td>
   </tr>
   <tr>
-    <td class="tg-spf6" rowspan="2">Resilience 4</td>
-    <td class="tg-spf6">Mr Ng Kim Tu</td>
-    <td class="tg-spf6"><span style="font-weight:400;font-style:normal">tay_peck_ling@moe.edu.sg</span></td>
-    <td class="tg-spf6">6446 3301 ext 226</td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mr Muhammad Nur Alim Bin Salim</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">muhammad_nur_alim_salim@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 255/256</span></td>
   </tr>
   <tr>
-    <td class="tg-spf6">Mdm Rika Herdiyani Bte Amrun</td>
-    <td class="tg-spf6">rika_herdiyani_amrun@moe.edu.sg</td>
-    <td class="tg-spf6">6446 3301 ext 22</td>
+    <td class="tg-ktyi" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Resilience 4</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Miss Gao Anji</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">gao_anji@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 215</span></td>
   </tr>
   <tr>
-    <td class="tg-spf6" rowspan="2">Resilience 5</td>
-    <td class="tg-spf6">Ms Siti Nadiah Bte Ramli</td>
-    <td class="tg-spf6">siti_nadiah_ramli@moe.edu.sg</td>
-    <td class="tg-spf6">6446 3301 ext 200</td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Miss Sri Rahayu Bte Yusop</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">sri_rahayu_yusop@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 219</span></td>
   </tr>
   <tr>
-    <td class="tg-spf6">Mdm Wong Yuyi Adriana</td>
-    <td class="tg-spf6">wong_yuyi_adriana@moe.edu.sg</td>
-    <td class="tg-spf6">6446 3301 ext 242</td>
+    <td class="tg-ktyi" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Resilience 5</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Miss Leow Dai Jing</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">leow_dai_jing@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 224</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Miss Noorhudah Binte Abd Wahid</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">noorhudah_abd_wahid@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 202</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Resilience 6</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Miss Ng Mei Chuen</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">ng_mei_chuen@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 233</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Ms Selena Jew Mei Li</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">jew_mei_li_selena@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 209</span></td>
   </tr>
 </tbody>
 </table>
@@ -99,133 +114,81 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vwo1{background-color:#FFF;border-color:inherit;color:#323232;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-b5eh{background-color:#FFF;border-color:inherit;color:#323232;font-weight:bold;text-align:left;text-decoration:underline;
-  vertical-align:middle}
-.tg .tg-spf6{background-color:#FFF;border-color:inherit;color:#1A202C;text-align:left;vertical-align:middle}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-cj27{background-color:#FFF;font-weight:bold;text-align:center;text-decoration:underline;vertical-align:top}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-b5eh"><span style="font-weight:bold;color:#323232">Position</span></th>
-    <th class="tg-vwo1"><span style="font-weight:bold;color:#323232">Person</span></th>
-    <th class="tg-vwo1"><span style="font-weight:bold;color:#323232">Email</span></th>
-    <th class="tg-vwo1"><span style="font-weight:bold;color:#323232">Phone</span></th>
+    <th class="tg-cj27"><span style="font-weight:700;font-style:normal;text-decoration:underline;color:#000;background-color:transparent">Position</span></th>
+    <th class="tg-9hzb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Person</span></th>
+    <th class="tg-9hzb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Email</span></th>
+    <th class="tg-9hzb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Phone</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-spf6">Year Head (Sec 2 &amp; Lower Sec)</td>
-    <td class="tg-spf6">Mr Ethan Tan Yang Hui</td>
-    <td class="tg-spf6">tan_yang_hui@moe.edu.sg</td>
-    <td class="tg-spf6">6446 3301 ext 135</td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Assistant Year Head (Sec 2)</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mdm Salenah Bte Mohd Salleh</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">salenah_mohamed_salleh@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 124</span></td>
   </tr>
   <tr>
-    <td class="tg-spf6" rowspan="2">Integrity 1</td>
-    <td class="tg-spf6">Mdm Seow Peng Leng</td>
-    <td class="tg-spf6">seow_peng_leng@moe.edu.sg</td>
-    <td class="tg-spf6">6446 3301 ext 216</td>
+    <td class="tg-ktyi" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Integrity 1</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Ms Tan Su-Min Denise</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">tan_su-min_denise@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 242</span></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Mr Ng Yu Zhe Yonatan</td>
-    <td class="tg-0pky">yonatan_ng_yu_zhe@moe.edu.sg</td>
-    <td class="tg-0pky">6446 3301 ext 168</td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mr Terence Tan Chee Seng</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">tan_chee_seng_terence@moe.edu.sg</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 238</span></td>
   </tr>
   <tr>
-    <td class="tg-spf6" rowspan="2">Resilience 2</td>
-    <td class="tg-spf6">Ms Lee Su Wee</td>
-    <td class="tg-spf6">lee_su_wee@moe.edu.sg</td>
-    <td class="tg-spf6">6446 3301 ext 234</td>
+    <td class="tg-ktyi" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Integrity 2</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mr Ng Teng Hui Adam</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">ng_teng_hui_adam@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 167</span></td>
   </tr>
   <tr>
-    <td class="tg-spf6">Miss Nooraini Bte Othman</td>
-    <td class="tg-spf6">nooraini_othman@moe.edu.sg</td>
-    <td class="tg-spf6">6446 3301 ext 222</td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mrs Tang-Lee Choon Tien</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">lee_choon_tien@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 205</span></td>
   </tr>
   <tr>
-    <td class="tg-spf6" rowspan="3">Integrity 3</td>
-    <td class="tg-spf6">Ms Shahira Bte Mohamed Sharif</td>
-    <td class="tg-spf6">shahira_mohamed_sharif@moe.edu.sg</td>
-    <td class="tg-spf6">6446 3301 ext 208</td>
+    <td class="tg-ktyi" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Integrity 3</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mdm Nooraini Bte Othman</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">nooraini_othman@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 222</span></td>
   </tr>
   <tr>
-    <td class="tg-spf6">Miss Gao Anji</td>
-    <td class="tg-spf6">gao_anji@moe.edu.sg</td>
-    <td class="tg-spf6">6446 3301 ext 215</td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mdm Tay Peck Ling</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">tay_peck_ling@moe.edu.sg</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 225</span></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Miss Liow Min Yu</td>
-    <td class="tg-0lax">liow_min_yu@moe.edu.sg</td>
-    <td class="tg-0lax">6446 3301 ext 218</td>
+    <td class="tg-ktyi" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Integrity 4</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mr Ng Kim Tu</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">ng_kim_tu@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 226</span></td>
   </tr>
   <tr>
-    <td class="tg-spf6" rowspan="2">Integrity 4</td>
-    <td class="tg-spf6">Mr Peh Jin Bao</td>
-    <td class="tg-spf6">peh_jin_bao@moe.edu.sg</td>
-    <td class="tg-spf6">6446 3301 ext 234</td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mdm Rika Herdiyani Binte Amrun</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">rika_herdiyani_amrun@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 216</span></td>
   </tr>
   <tr>
-    <td class="tg-spf6">Miss Leow Dai Jing</td>
-    <td class="tg-spf6">leow_dai_jing@moe.edu.sg</td>
-    <td class="tg-spf6">6446 3301 ext 224</td>
+    <td class="tg-ktyi" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Integrity 5</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mrs Koh-Tan Li Leng</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">tan_li_leng_a@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 225</span></td>
   </tr>
   <tr>
-    <td class="tg-spf6" rowspan="3">Integrity 5</td>
-    <td class="tg-spf6">Mrs Lai-Mok Yee Wan</td>
-    <td class="tg-spf6">lai_kin_sen@moe.edu.sg</td>
-    <td class="tg-spf6">6446 3301 ext 209</td>
-  </tr>
-  <tr>
-    <td class="tg-spf6">Mr Sebastian Goh Wei Ying</td>
-    <td class="tg-spf6">sebastian_goh_wei_ying@moe.edu.sg</td>
-    <td class="tg-spf6">6446 3301 ext 242</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Ms Ruqayyah Bte Mohamed Idrus Z</td>
-    <td class="tg-0lax">ruqayyah_mohamed_idrus_zamzam@moe.edu.sg</td>
-    <td class="tg-0lax">6446 3301 ext 220</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax" rowspan="2">Integrity 6</td>
-    <td class="tg-0lax">Mdm Ratnah bte Rawi</td>
-    <td class="tg-0lax">ratnah_rawi@moe.edu.sg</td>
-    <td class="tg-0lax">6446 3301 ext 209</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Ms Chen Jiao</td>
-    <td class="tg-0lax">chen_jiao@moe.edu.sg</td>
-    <td class="tg-0lax">6446 3301 ext 218</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax" rowspan="2">Integrity 7</td>
-    <td class="tg-0lax">Miss Cher Wei Fen Jeslyn</td>
-    <td class="tg-0lax">cher_wei_fen_jeslyn@moe.edu.sg</td>
-    <td class="tg-0lax">6446 3301 ext 207</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Mrs Lai-See Ngiap Yian</td>
-    <td class="tg-0lax">lai-see_ngiap_yian@moe.edu.sg</td>
-    <td class="tg-0lax">64463301 ext 234</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mdm Siti Nadiah Binte Ramli</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">siti_nadiah_ramli@moe.edu.sg</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 200</span></td>
   </tr>
 </tbody>
 </table>
@@ -238,116 +201,151 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-vwo1{background-color:#FFF;border-color:inherit;color:#323232;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-b5eh{background-color:#FFF;border-color:inherit;color:#323232;font-weight:bold;text-align:left;text-decoration:underline;
-  vertical-align:middle}
-.tg .tg-spf6{background-color:#FFF;border-color:inherit;color:#1A202C;text-align:left;vertical-align:middle}
+.tg .tg-cj27{background-color:#FFF;font-weight:bold;text-align:center;text-decoration:underline;vertical-align:top}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-b5eh"><span style="font-weight:bold;color:#323232">Position</span></th>
-    <th class="tg-vwo1"><span style="font-weight:bold;color:#323232">Person</span></th>
-    <th class="tg-vwo1"><span style="font-weight:bold;color:#323232">Email</span></th>
-    <th class="tg-vwo1"><span style="font-weight:bold;color:#323232">Phone</span></th>
+    <th class="tg-cj27"><span style="font-weight:700;font-style:normal;text-decoration:underline;color:#000;background-color:transparent">Position</span></th>
+    <th class="tg-9hzb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Person</span></th>
+    <th class="tg-9hzb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Email</span></th>
+    <th class="tg-9hzb"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Phone</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-spf6" rowspan="2">Assistant Year Heads (Sec 3)</td>
-    <td class="tg-spf6">Mr Hafiedz-Ul Ashadi Bin Tamrin</td>
-    <td class="tg-spf6">hafiedz-ul_ashadi_tain@moe.edu.sg</td>
-    <td class="tg-spf6">6446 3301 ext 127</td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Year Head (Sec 3 &amp; Upper Sec)</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mr Tan Yang Hui Ethan</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">tan_yang_hui@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 135</span></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Ms Nurmuhaina Bte Bakar</td>
-    <td class="tg-0lax">nurmuhaina_bte_bakar@moe.edu.sg</td>
-    <td class="tg-0lax">6446 3301 ext 125</td>
+    <td class="tg-ktyi" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Compassion 1</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Miss Cher Wei Fen Jeslyn</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">cher_wei_fen_jeslyn@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 207</span></td>
   </tr>
   <tr>
-    <td class="tg-spf6" rowspan="2">Compassion 1</td>
-    <td class="tg-spf6">Miss Vanessa Marie Lee Qui</td>
-    <td class="tg-spf6">vanessa_marie_lee_qui@moe.edu.sg</td>
-    <td class="tg-spf6">6446 3301 ext 239</td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mr Tan Lian Beng</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">tan_lian_beng@moe.edu.sg</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 255/256</span></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Mr Lee Hang Chai</td>
-    <td class="tg-0pky">lee_hang_chai@moe.edu.sg</td>
-    <td class="tg-0pky">6446 3301 ext 244</td>
+    <td class="tg-ktyi" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Compassion 2</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mdm Chen Jiao</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">chen_jiao@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 212</span></td>
   </tr>
   <tr>
-    <td class="tg-spf6" rowspan="2">Compassion 2</td>
-    <td class="tg-spf6">Mr Chiu Bang Ern, Glynne</td>
-    <td class="tg-spf6">chiu_bang_ern_glynne@moe.edu.sg</td>
-    <td class="tg-spf6">6446 3301 ext 240</td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mrs Lai- See Ngiap Yian</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">lai-see_ngiap_yian@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 234</span></td>
   </tr>
   <tr>
-    <td class="tg-spf6">Miss See Wee Ching Kymberly</td>
-    <td class="tg-spf6">see_wee_ching_kymberly@moe.edu.sg</td>
-    <td class="tg-spf6">6446 3301 ext 238</td>
+    <td class="tg-ktyi" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Compassion 3</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Ms Jade Lee Xin Yi</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">jade_lee_xin_yi@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 243</span></td>
   </tr>
   <tr>
-    <td class="tg-spf6" rowspan="2">Compassion 3</td>
-    <td class="tg-spf6">Mdm Siti Aishah Bte Mohd Jamaludin</td>
-    <td class="tg-spf6">siti_aishah_mohd_jamaludin@moe.edu.sg</td>
-    <td class="tg-spf6">6446 3301 ext 228</td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mr Mohd Ghazali B Ibrahim</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">mohd_ghazali_b_ibrahim@moe.edu.sg</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 221</span></td>
   </tr>
   <tr>
-    <td class="tg-spf6">Ms Lynn Kweh</td>
-    <td class="tg-spf6">kweh_bee_ginn@moe.edu.sg</td>
-    <td class="tg-spf6">6446 3301 ext 232</td>
+    <td class="tg-ktyi" rowspan="3"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Compassion 4</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Ms Lee Su Wee</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">lee_su_wee@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 234</span></td>
   </tr>
   <tr>
-    <td class="tg-spf6" rowspan="2">Compassion 4</td>
-    <td class="tg-spf6">Mr Emrizal Bin Mohamed Suhaimi</td>
-    <td class="tg-spf6">emrizal_mohamed_suhaimi@moe.edu.sg</td>
-    <td class="tg-spf6">6446 3301 ext 221</td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mr Periasamy s/o A Mari</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">periasamy_a_mari@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 245</span></td>
   </tr>
   <tr>
-    <td class="tg-spf6">ang_wan_yu_florence@moe.edu.sg</td>
-    <td class="tg-spf6">leow_dai_jing@moe.edu.sg</td>
-    <td class="tg-spf6">6446 3301 ext 210</td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mr Whey Kin Pheng</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">whey_kin_pheng@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 203</span></td>
   </tr>
   <tr>
-    <td class="tg-spf6" rowspan="2">Compassion 5</td>
-    <td class="tg-spf6">Miss Xu Zhenyi</td>
-    <td class="tg-spf6">xu_zhenyi@moe.edu.sg</td>
-    <td class="tg-spf6">6446 3301 ext 217</td>
+    <td class="tg-ktyi" rowspan="3"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Compassion 5</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mr Kuah Peng Yan</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">kuah_peng_yan@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 255/256</span></td>
   </tr>
   <tr>
-    <td class="tg-spf6">Mr Goh Sor Ee Lloyd</td>
-    <td class="tg-spf6">sor_ee_lloyd_goh@moe.edu.sg</td>
-    <td class="tg-spf6">6446 3301 ext 207</td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mr Lai Sam Hoo</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">lai_sam_hoo@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 255/256</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1" rowspan="3">Compassion 6</td>
-    <td class="tg-0lax">Mr Kamaruddin Bin Mohd Ibrahim</td>
-    <td class="tg-0lax">kamaruddin_mohd_ibrahim@moe.edu.sg</td>
-    <td class="tg-0lax">6446 3301 ext 214</td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mdm Lim Moi Yin</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">lim_moi_yin@moe.edu.sg</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 220</span><br></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Mr Muhammad Nur Alim Salim</td>
-    <td class="tg-0lax">muhammad_nur_alim_salim@moe.edu.sg</td>
-    <td class="tg-0lax">6446 3301 ext 212</td>
+    <td class="tg-ktyi" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">   Compassion 6</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Miss Pow Wee Wee</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">pow_wee_wee@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 224</span></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Ms Nurshafiqah Bte Mohamed Shadiq</td>
-    <td class="tg-0lax">nurshafiqah_mohamed_shadiq@moe.edu.sg</td>
-    <td class="tg-0lax">6446 3301 ext 212</td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Ms Siti Filzah Binte Ishak</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">siti_filzah_ishak@moe.edu.sg</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 233</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1" rowspan="2">Compassion 7</td>
-    <td class="tg-0lax">Mr Chua Wei Guang Andy</td>
-    <td class="tg-0lax">chua_wei_guang_andy@moe.edu.sg</td>
-    <td class="tg-0lax">6446 3301 ext 167</td>
+    <td class="tg-0lax" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">   Compassion 7</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mr Mohd Rafi B Ani</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">mohd_rafi_b_ani@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 238</span></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Miss Yan Hui Yu Joey</td>
-    <td class="tg-0lax">yan_hui_yu@moe.edu.sg</td>
-    <td class="tg-0lax">6446 3301 ext 245</td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mdm Seow Peng Leng</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">seow_peng_leng@moe.edu.sg</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 216</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" rowspan="3"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">   Compassion 8</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mdm Anisa Bte Ali</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">anisa_ali@moe.edu.sg</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 226</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Miss Jeviene Kok Jie Wei</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">kok_jie_wei_jeviene@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 206</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mr Teng Soon Heng, Nigel</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">teng_soon_heng_nigel@moe.edu.sg</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 201</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">   Compassion 9</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mr Goh Tiong Ann</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">goh_tiong_ann@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 240</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Miss Ong Wei Ling</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">ong_wei_ling@moe.edu.sg</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 223</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">   Compassion 10</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mdm Khor Sze Siang</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">khor_sze_siang@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 213</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mr Lee Kian Hui Gregory</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">lee_kian_hui_gregory@moe.edu.sg</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 167</span></td>
   </tr>
 </tbody>
 </table>
@@ -360,248 +358,159 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-vwo1{background-color:#FFF;border-color:inherit;color:#323232;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-b5eh{background-color:#FFF;border-color:inherit;color:#323232;font-weight:bold;text-align:left;text-decoration:underline;
-  vertical-align:middle}
-.tg .tg-spf6{background-color:#FFF;border-color:inherit;color:#1A202C;text-align:left;vertical-align:middle}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-ezyw{background-color:#FFF;color:#323232;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-a3mm{background-color:#FFF;color:#323232;font-weight:bold;text-align:center;text-decoration:underline;vertical-align:top}
+.tg .tg-ryel{background-color:#FFF;color:#1A202C;text-align:left;vertical-align:top}
+.tg .tg-06je{background-color:#FFF;color:#484848;text-align:left;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-b5eh"><span style="font-weight:bold;color:#323232">Position</span></th>
-    <th class="tg-vwo1"><span style="font-weight:bold;color:#323232">Person</span></th>
-    <th class="tg-vwo1"><span style="font-weight:bold;color:#323232">Email</span></th>
-    <th class="tg-vwo1"><span style="font-weight:bold;color:#323232">Phone</span></th>
+    <th class="tg-a3mm"><span style="font-weight:700;font-style:normal;text-decoration:underline;color:#323232;background-color:transparent">Position</span></th>
+    <th class="tg-ezyw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#323232;background-color:transparent">Person</span></th>
+    <th class="tg-ezyw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#323232;background-color:transparent">Email</span></th>
+    <th class="tg-ezyw"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#323232;background-color:transparent">Phone</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-spf6">Year Head (Sec 4 &amp; Sec 5 &amp; Upper Sec)</td>
-    <td class="tg-spf6">Miss Seow Xue Ling Sheryl</td>
-    <td class="tg-spf6">seow_xue_ling@moe.edu.sg</td>
-    <td class="tg-spf6">6446 3301 ext 122</td>
+    <td class="tg-ryel"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A202C;background-color:transparent">Assistant Year Head (Sec 4 &amp; 5)</span></td>
+    <td class="tg-ryel"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A202C;background-color:transparent">Mr Hafiedz-Ul Ashadi Bin Tamrin</span></td>
+    <td class="tg-ryel"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A202C;background-color:transparent">hafiedz-ul_ashadi_tain@moe.edu.sg</span></td>
+    <td class="tg-ryel"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A202C;background-color:transparent">6446 3301 ext 127</span></td>
   </tr>
   <tr>
-    <td class="tg-spf6" rowspan="2">Humility 1</td>
-    <td class="tg-spf6">Mr Kenson Go Qing Lin</td>
-    <td class="tg-spf6">go_qing_lin_kenson@moe.edu.sg</td>
-    <td class="tg-spf6">6446 3301 ext 232</td>
+    <td class="tg-ryel" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A202C;background-color:transparent">Humility 1</span></td>
+    <td class="tg-06je"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mr Lee Hang Chai</span><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A202C;background-color:transparent"> </span></td>
+    <td class="tg-ryel"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A202C;background-color:transparent">lee_hang_chai@moe.edu.sg</span></td>
+    <td class="tg-ryel"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A202C;background-color:transparent">6446 3301 ext 244</span></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Mr Tan Chai Choon</td>
-    <td class="tg-0pky">tan_chai_choon@moe.edu.sg</td>
-    <td class="tg-0pky">6446 3301 ext 241</td>
+    <td class="tg-ryel"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A202C;background-color:transparent">Ms Vanessa Marie Lee Qui</span></td>
+    <td class="tg-06je"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">vanessa_marie_lee_qui@moe.edu.sg</span></td>
+    <td class="tg-06je"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">6446 3301 ext 239</span></td>
   </tr>
   <tr>
-    <td class="tg-spf6" rowspan="2">Humility 2</td>
-    <td class="tg-spf6">Miss Norhayati Bte Abdul Rahim</td>
-    <td class="tg-spf6">norhayati_abdul_rahim@moe.edu.sg</td>
-    <td class="tg-spf6">6446 3301 ext 237</td>
+    <td class="tg-ryel" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A202C;background-color:transparent">Humility 2</span></td>
+    <td class="tg-ryel"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A202C;background-color:transparent">Mr Chiu Bang Ern Glynne</span></td>
+    <td class="tg-ryel"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A202C;background-color:transparent">chiu_bang_ern_glynne@moe.edu.sg</span></td>
+    <td class="tg-ryel"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A202C;background-color:transparent">6446 3301 ext 242</span></td>
   </tr>
   <tr>
-    <td class="tg-spf6">Mr Teo Chun Min</td>
-    <td class="tg-spf6">teo_chun_min@moe.edu.sg</td>
-    <td class="tg-spf6">6446 3301 ext 206</td>
+    <td class="tg-ktyi"><br><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A202C;background-color:transparent">Miss See Wee Ching Kymberly</span><br></td>
+    <td class="tg-ryel"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A202C;background-color:transparent">see_wee_ching_kymberly@moe.edu.sg</span></td>
+    <td class="tg-ryel"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A202C;background-color:transparent">6446 3301 ext 237</span></td>
   </tr>
   <tr>
-    <td class="tg-spf6" rowspan="2">Humility 3</td>
-    <td class="tg-spf6">Mrs Liew Siew Bee</td>
-    <td class="tg-spf6">ong_siew_bee@moe.edu.sg</td>
-    <td class="tg-spf6">6446 3301 ext 222</td>
+    <td class="tg-ryel" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A202C;background-color:transparent">Humility 3</span></td>
+    <td class="tg-ryel"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A202C;background-color:transparent">Ms Kweh Bee Ginn Lynn</span></td>
+    <td class="tg-ryel"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A202C;background-color:transparent">kweh_bee_ginn@moe.edu.sg</span></td>
+    <td class="tg-ryel"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A202C;background-color:transparent">6446 3301 ext 232</span></td>
   </tr>
   <tr>
-    <td class="tg-spf6">Mr Lee Jie Hao Hendrik</td>
-    <td class="tg-spf6">hendrik_lee_jie_hao@moe.edu.sg</td>
-    <td class="tg-spf6">6446 3301 ext 214</td>
+    <td class="tg-ryel"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A202C;background-color:transparent">Mdm Siti Aishah Bte Mohd Jamaludin</span></td>
+    <td class="tg-ryel"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A202C;background-color:transparent">siti_aishah_mohd_jamaludin@moe.edu.sg</span></td>
+    <td class="tg-ryel"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A202C;background-color:transparent">6446 3301 ext 228</span></td>
   </tr>
   <tr>
-    <td class="tg-spf6" rowspan="2">Humility 4</td>
-    <td class="tg-spf6">Mr Teng Soon Heng Nigel</td>
-    <td class="tg-spf6">teng_soon_heng_nigel@moe.edu.sg</td>
-    <td class="tg-spf6">6446 3301 ext 201</td>
+    <td class="tg-ryel" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A202C;background-color:transparent">Humility 4</span></td>
+    <td class="tg-ryel"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A202C;background-color:transparent">Miss Ang Wan Yu, Florence</span></td>
+    <td class="tg-ryel"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A202C;background-color:transparent">ang_wan_yu_florence@moe.edu.sg</span></td>
+    <td class="tg-ryel"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A202C;background-color:transparent">6446 3301 ext 236</span></td>
   </tr>
   <tr>
-    <td class="tg-spf6">Ms Shahida Begum Angullia Binti Musa</td>
-    <td class="tg-spf6">shahida_begum_angullia_musa@moe.edu.sg</td>
-    <td class="tg-spf6">6446 3301 ext 244</td>
+    <td class="tg-ryel"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A202C;background-color:transparent">Mr Emrizal Bin Mohamed Suhaimi</span></td>
+    <td class="tg-ryel"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A202C;background-color:transparent">emrizal_mohamed_suhaimi@moe.edu.sg</span></td>
+    <td class="tg-ryel"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A202C;background-color:transparent">6446 3301 ext 221</span></td>
   </tr>
   <tr>
-    <td class="tg-spf6">Humility 5</td>
-    <td class="tg-spf6">Ms Siti Filzah Binte Ishak</td>
-    <td class="tg-spf6">siti_filzah_ishak@moe.edu.sg</td>
-    <td class="tg-spf6">6446 3301 ext 233</td>
+    <td class="tg-ryel" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A202C;background-color:transparent">Humility 5</span></td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A202C;background-color:transparent">Mr Goh Sor Ee Lloyd</span></td>
+    <td class="tg-ryel"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A202C;background-color:transparent">sor_ee_lloyd_goh@moe.edu.sg</span></td>
+    <td class="tg-ryel"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A202C;background-color:transparent">6446 3301 ext 207</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1" rowspan="2">Humility 6</td>
-    <td class="tg-0lax">Mr Kuah Peng Yan</td>
-    <td class="tg-0lax">kuah_peng_yan@moe.edu.sg</td>
-    <td class="tg-0lax">6446 3301 ext 213</td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A202C;background-color:transparent">Miss Shahida Begum Angullia</span></td>
+    <td class="tg-ryel"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A202C;background-color:transparent">shahida_begum_angullia_musa@moe.edu.sg</span></td>
+    <td class="tg-ryel"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#1A202C;background-color:transparent">6446 3301 ext 244</span></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Ms Lee Xin Yi Jade</td>
-    <td class="tg-0lax">jade_lee_xin_yi@moe.edu.sg</td>
-    <td class="tg-0lax">6446 3301 ext 242</td>
+    <td class="tg-06je" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Humility 6</span></td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Ms Nurshafiqah Binte Mohamed Shadiq</span></td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">nurshafiqah_mohamed_shadiq@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">6446 3301 ext 255/256</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1" rowspan="2">Humility 7</td>
-    <td class="tg-0lax">Mr Lee Kian Hui Gregory</td>
-    <td class="tg-0lax">lee_kian_hui_gregory@moe.edu.sg</td>
-    <td class="tg-0lax">6446 3301 ext 167</td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mr Peh Jin Bao</span></td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">peh_jin_bao@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">6446 3301 ext 212</span></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Miss Goh Sok Hui</td>
-    <td class="tg-0lax">goh_sok_hui@moe.edu.sg</td>
-    <td class="tg-0lax">6446 3301 ext 238</td>
+    <td class="tg-06je" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Humility 7</span></td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mr Chua Wei Guang Andy</span></td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">chua_wei_guang_andy@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">6446 3301 ext 167</span></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Humility 8</td>
-    <td class="tg-0lax">Miss Sew Pui Huang</td>
-    <td class="tg-0lax">sew_pui_huang@moe.edu.sg</td>
-    <td class="tg-0lax">6446 3301 ext 224</td>
-  </tr>
-</tbody>
-</table>
-
-**Other Teachers**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vwo1{background-color:#FFF;border-color:inherit;color:#323232;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-b5eh{background-color:#FFF;border-color:inherit;color:#323232;font-weight:bold;text-align:left;text-decoration:underline;
-  vertical-align:middle}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-b5eh"><span style="font-weight:bold;color:#323232">Position</span></th>
-    <th class="tg-vwo1"><span style="font-weight:bold;color:#323232">Person</span></th>
-    <th class="tg-vwo1"><span style="font-weight:bold;color:#323232">Email</span></th>
-    <th class="tg-vwo1"><span style="font-weight:bold;color:#323232">Phone</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax">Senior Teacher (Special Educational Needs)</td>
-    <td class="tg-0lax">Mr Leow Wee Meng Frankie</td>
-    <td class="tg-0lax">leow_wee_meng_frankie@moe.edu.sg</td>
-    <td class="tg-0lax">6446 3301 ext 210</td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Miss Yan Hui Yu Joey</span></td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">yan_hui_yu@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">6446 3301 ext 240</span></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Senior Teacher (Physics)</td>
-    <td class="tg-0lax">Mr Lim Jit Wei David</td>
-    <td class="tg-0lax">david_lim_jit_wei@moe.edu.sg</td>
-    <td class="tg-0lax">6446 3301 ext 204</td>
+    <td class="tg-06je" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Humility 8</span></td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Miss Nurhidayah Binte Razali</span></td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">nurhidayah_razali@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">6446 3301 ext 237</span></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Senior Teacher (Mathematics)</td>
-    <td class="tg-0lax">Miss Ong Wei Ling</td>
-    <td class="tg-0lax">ong_wei_ling@moe.edu.sg</td>
-    <td class="tg-0lax">6446 3301 ext 227</td>
-  </tr>
-</tbody>
-</table>
-
-**Non Form Teachers**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-t24n{color:#3A3A3A;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1wig"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">Position</span></th>
-    <th class="tg-1wig"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">Person</span></th>
-    <th class="tg-1wig"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">Email</span> </th>
-    <th class="tg-1wig"><span style="font-weight:700;font-style:normal;text-decoration:none;color:black">Phone</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-t24n"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black">Non-Form Teacher</span></td>
-    <td class="tg-t24n"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#3A3A3A">Mdm Azian Bte Zaini </span></td>
-    <td class="tg-t24n">azian_zaini@moe.edu.sg</td>
-    <td class="tg-t24n">6446 3301 ext 205</td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mr Teo Tong Hua</span></td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">teo_tong_hua@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">6446 3301 ext 255/256</span></td>
   </tr>
   <tr>
-    <td class="tg-t24n"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black">Non-Form Teacher</span></td>
-    <td class="tg-t24n"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#3A3A3A">Mdm Chng Mei Li </span></td>
-    <td class="tg-t24n">chng_mei_li@moe.edu.sg</td>
-    <td class="tg-t24n">6446 3301 ext 216</td>
+    <td class="tg-06je" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Humility 9</span></td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mdm Melinda Foo Ai-Ping</span></td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">foo_ai-ping_melinda@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">6446 3301 ext 232</span></td>
   </tr>
   <tr>
-    <td class="tg-t24n"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black">Non-Form Teacher</span></td>
-    <td class="tg-t24n"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#3A3A3A">Mrs Helen Lim</span></td>
-    <td class="tg-t24n">lim_helen@moe.edu.sg</td>
-    <td class="tg-t24n">6446 3301 ext 218</td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mr Syed Danial Bin Syed Taha</span></td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">syed_danial@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">6446 3301 ext 239</span></td>
   </tr>
   <tr>
-    <td class="tg-t24n"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black">Non-Form Teacher</span></td>
-    <td class="tg-t24n"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#3A3A3A">Mdm Hsu Sieh Chung </span></td>
-    <td class="tg-t24n">hsu_sieh_chung@moe.edu.sg</td>
-    <td class="tg-t24n">6446 3301 ext 171</td>
+    <td class="tg-06je" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Humility 10</span></td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mr Ashley Ong Chun Aun</span></td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">ong_chun_aun_ashley@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">6446 3301 ext 168</span></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black">Non-Form Teacher</span></td>
-    <td class="tg-t24n"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#3A3A3A">Mrs Koh-Tan Li Leng </span></td>
-    <td class="tg-t24n">tan_li_leng_a@moe.edu.sg</td>
-    <td class="tg-t24n">6446 3301 ext 225</td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Ms Charis Cheong Pui Shan</span></td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">cheong_pui_shan_charis@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">6446 3301 ext 235</span></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black">Non-Form Teacher</span></td>
-    <td class="tg-t24n"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#3A3A3A">Ms Kursiah Bte A Latif </span></td>
-    <td class="tg-t24n">kursiah_a_latif@moe.edu.sg </td>
-    <td class="tg-t24n">6446 3301 ext 171</td>
+    <td class="tg-06je" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Humility 11</span></td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mr Awalludin Bin Abdul Jabbar</span></td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">awalludin_abdul_jabbar@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">6446 3301 ext 217</span></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black">Non-Form Teacher</span></td>
-    <td class="tg-t24n"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#3A3A3A">Ms Lui Biru Angel </span></td>
-    <td class="tg-t24n">lui_biru@moe.edu.sg</td>
-    <td class="tg-t24n">6446 3301 ext 206</td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mrs Janice Lau</span></td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">chan_yan_ling_janice@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">6446 3301 ext 167</span></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black">Non-Form Teacher</span></td>
-    <td class="tg-t24n"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#3A3A3A">Mr Mohamed B Hj Apandi </span></td>
-    <td class="tg-t24n">mohamed_haji_apandi@moe.edu.sg</td>
-    <td class="tg-t24n">6446 3301 ext 171</td>
+    <td class="tg-06je" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Humility 12</span></td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Ms Goh Layna</span></td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">goh_layna@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">6446 3301 ext 223</span></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black">Non-Form Teacher</span></td>
-    <td class="tg-t24n"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#3A3A3A">Miss Ong Quee Hong </span></td>
-    <td class="tg-t24n">ong_quee_hong@moe.edu.sg</td>
-    <td class="tg-t24n">6446 3301 ext 171</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black">Non-Form Teacher</span></td>
-    <td class="tg-t24n"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#3A3A3A">Mdm Sharifah Feruz Bte Syed Ali </span></td>
-    <td class="tg-t24n">sharifah_feruz_syed_ali@moe.edu.sg</td>
-    <td class="tg-t24n">6446 3301 ext 201</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black">Non-Form Teacher</span></td>
-    <td class="tg-t24n"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#3A3A3A">Mdm Teo Ah Tiok </span></td>
-    <td class="tg-t24n">teo_ah_tiok@moe.edu.sg</td>
-    <td class="tg-t24n">6446 3301 ext 171</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black">Non-Form Teacher</span></td>
-    <td class="tg-t24n"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#3A3A3A">Miss Zubaidah Binte Ibrahim </span></td>
-    <td class="tg-t24n">zubaidah_ibrahim@moe.edu.sg</td>
-    <td class="tg-t24n">6446 3301 ext 213</td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">Mrs Lee-Goh Chui Ting</span></td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">goh_chui_ting@moe.edu.sg</span></td>
+    <td class="tg-ktyi"><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#484848;background-color:transparent">6446 3301 ext 243</span></td>
   </tr>
 </tbody>
 </table>
