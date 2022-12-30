@@ -1,8 +1,0 @@
-collections:
-  our-people:
-    output: true
-    order:
-      - School Management Committee.md
-      - Teaching Staff.md
-      - School Counsellors.md
-      - Support Staff.md
