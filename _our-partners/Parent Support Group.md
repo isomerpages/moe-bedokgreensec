@@ -1,12 +1,11 @@
 ---
 title: Parent Support Group
-permalink: /psg/permalink
+permalink: /psg/permalink/
 description: ""
 ---
 ![](/images/our-partners-banner.jpg)
 
-*“At the end of the day, the most overwhelming key to a child's success is the positive involvement of parents.”*
-
+*“At the end of the day, the most overwhelming key to a child's success is the positive involvement of parents.”*<br>
 **Jane D. Hull**
 
 **Our Vision**
