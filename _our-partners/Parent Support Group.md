@@ -10,7 +10,7 @@ description: ""
 
 **Our Vision**
 
-With Passion, Synergy & Growth, we want to be the best parents we can be by establishing a collaborative partnership with the school for the growth and learning of our children.
+With **Passion**, **Synergy** & **Growth**, we want to be the best parents we can be by establishing a collaborative partnership with the school for the growth and learning of our children.
 
 
 **Our Mission**
@@ -21,9 +21,9 @@ As parents, we grow together in knowledge and wisdom so as to nurture and suppor
 
 **Our Programmes**
 
-Family Matters@ School Programme (Triple P Programme)
-Dads For Life Event
-Parent- Child Bonding Events ( Under One Roof Grant )
+1. Family Matters@ School Programme (Triple P Programme)
+2. Dads For Life Event
+3. Parent- Child Bonding Events ( Under One Roof Grant )
 
 **PSG Executive Committee Members**
 <style type="text/css">
