@@ -1,9 +1,8 @@
 ---
 title: Our Staff Achievements
-permalink: /staffachievements/permalink
+permalink: /staffachievements/permalink/
 description: ""
 ---
-
 ![](/images/bgss6.jpg)
 
 
@@ -11,7 +10,10 @@ description: ""
 
 *Anugerah Arif Budiman Perangsang (AGAB 2015)*
 
-![](/images/NurAbidah.jpg)
+
+<img src="/images/NurAbidah.jpg"  
+     style="width:45%">
+
 
 Over the years, I have come to realise that what keeps me going are my students and my colleagues.
 
@@ -25,7 +27,11 @@ Inspired by the dynamic energy of colleagues in my Mother Tongue Language Depart
 
 *EcoFriend Award, Educational Category, 2014*
 
-![](/images/Mrs-Tang.jpg)
+
+<img src="/images/Mrs-Tang.jpg"  
+     style="width:45%">
+
+
 
 This award is given by National Environment Agency (NEA) to recognize and acknowledge the green efforts of individuals towards our Clean and Green environment.
 
@@ -40,7 +46,10 @@ My dream is for everyone to adopt the 3Rs in environmental conservation as a lif
 
 *Outstanding Computing Teacher Award 2018*
 
-![](/images/Mr-Frankie-Leow.jpg)
+
+<img src="/images/Mr-Frankie-Leow.jpg"  
+     style="width:45%">
+
 
 It is the connections and interactions that I have with my students that inspire me and keep me passionate about my subject. I believe that between a student’s aspirations and fulfilment lies a teacher. Hence, I want my students to experience success in their learning of the computer applications curriculum and to be able to transfer this learning not only across subjects, but beyond school and into their life. Although success, is not the same for, and mean differently for everyone, but I believe all teachers are the lighthouses that guide and nurture our students to enjoy what they are learning, overcome whatever challenges they might face and find their own paths towards success. And it is this sense of satisfaction that I have when I know that through my role as a teacher, I made a difference to my students’ life and helped them to believe in themselves and grow, makes it all worthwhile.
 
@@ -48,10 +57,10 @@ It is the connections and interactions that I have with my students that inspire
 
 *President’s Award for Teachers (PAT) 2013*
 
-![](/images/Mr-Lee-Beng-Wah.jpg)
+
+<img src="/images/Mr-Lee-Beng-Wah.jpg"  
+     style="width:45%">
 
 Mr Lee Beng Wah is HOD/CCE at Bedok Green Secondary School. He is known for his commitment to his profession and his care for his students. He strongly believes that every educator is in a position to make a difference. As a passionate educator, Mr Lee seeks to pass on the love and appreciation of Literature to his students by making his lessons come alive and engaging them in role-playing and learning about poetry through song lyrics.
 
 Mr Lee commands a high level of respect from his students and is able to influence them positively. He shares with his students his life experiences and encourages them to adopt a positive attitude towards life. "I believe that we reach out to students not just through our subjects, but even in our daily interactions with them," said Mr Lee, who treasures the moments of interaction with his students along the hallways, in the canteen or even when he bumps into them outside of school. "These are the moments when I would pause to talk to students and find out how they are doing. It's not just about their studies, but their lives as a whole. It takes time, effort and energy but this is what we as teachers do," said Mr Lee.
-
-
