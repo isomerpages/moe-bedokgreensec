@@ -1,15 +1,14 @@
 ---
 title: Mathematics
-permalink: /maths/permalink
+permalink: /maths/permalink/
 description: ""
 third_nav_title: Subjects
 ---
-
-
-
 ![](/images/Maths-1-e1570173142977.jpg)
-**Mathematics
-"The essence of Mathematics lies in its freedom.”
+
+**Mathematics**
+
+**"The essence of Mathematics lies in its freedom.”<br>
 Georg Cantor**
 
 What does the area under a curve have to do with the cardiac output of the human heart? Our Mathematics programme will create meaningful learning experiences for you to better appreciate the beauty of Mathematics. You will also see first-hand how classroom learning is deeply connected with authentic real-world situations, and how mathematical applications abound everywhere.
