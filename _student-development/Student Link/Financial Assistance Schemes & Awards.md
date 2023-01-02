@@ -1,6 +1,6 @@
 ---
 title: Financial Assistance Schemes & Awards
-permalink: /student-development/fas/permalink
+permalink: /student-development/fas/permalink/
 description: ""
 third_nav_title: Student Link
 ---
@@ -23,7 +23,7 @@ Financial assistance offered by the Ministry of Education and the School Advisor
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-mmd2"></th>
+    <th class="tg-mmd2"><span style="font-weight:bold;font-style:inherit">Scheme</span></th>
     <th class="tg-mmd2"><span style="font-weight:bold;font-style:inherit">Quantum</span></th>
     <th class="tg-mmd2"><span style="font-weight:bold;font-style:inherit">Eligibility</span></th>
     <th class="tg-mmd2"><span style="font-weight:bold;font-style:inherit">Application Period</span></th>
@@ -31,39 +31,22 @@ Financial assistance offered by the Ministry of Education and the School Advisor
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ehl1" rowspan="2"><span style="font-weight:inherit;font-style:inherit">Ministry of Education (MOE) Financial Assistance Scheme</span></td>
-    <td class="tg-ehl1"><span style="font-weight:inherit;font-style:inherit">Full waiver of school fees and standard miscellaneous fees</span><br><br><span style="font-weight:inherit;font-style:inherit"> </span><br><span style="font-weight:inherit;font-style:inherit">$15 Transport Subsidy</span><br><span style="font-weight:inherit;font-style:inherit"> </span><br><span style="font-weight:inherit;font-style:inherit">Textbook grant</span><br><span style="font-weight:inherit;font-style:inherit"> </span><br><span style="font-weight:inherit;font-style:inherit">School attire</span><br><span style="font-weight:inherit;font-style:inherit"> </span></td>
-    <td class="tg-ehl1"><span style="font-weight:inherit;font-style:inherit">Singapore citizens Gross household income not exceeding $2750 a month or the family per capita income (PCI) does not exceed $690 per month</span></td>
-    <td class="tg-ehl1"><span style="font-weight:inherit;font-style:inherit">Throughout the year</span><br><br><span style="font-weight:inherit;font-style:inherit"> </span><br><span style="font-weight:inherit;font-style:inherit">Oct - Dec for textbook grant</span><br><span style="font-weight:inherit;font-style:inherit"> </span><br><span style="font-weight:inherit;font-style:inherit">Feb - Mar for examination fees</span><br><span style="font-weight:inherit;font-style:inherit"> </span></td>
+    <td class="tg-ehl1"><span style="font-weight:inherit;font-style:inherit">Ministry of Education (MOE) Financial Assistance Scheme</span></td>
+    <td class="tg-ehl1"><span style="font-weight:inherit;font-style:inherit">Full waiver of school fees and standard</span><br><span style="font-weight:inherit;font-style:inherit">miscellaneous fees</span><br><br><span style="font-weight:inherit;font-style:inherit">$17 Transport Subsidy*</span><br><span style="font-weight:inherit;font-style:inherit">Textbook grant</span><br><span style="font-weight:inherit;font-style:inherit">School attire</span><br><span style="font-weight:inherit;font-style:inherit">*Effective from 1 January 2023</span><br><span style="font-weight:inherit;font-style:inherit"> </span></td>
+    <td class="tg-ehl1"><span style="font-weight:inherit;font-style:inherit">Singapore citizens Gross household income not exceeding $3000 a month or the family per capita income (PCI) does not exceed $750 per month</span></td>
+    <td class="tg-ehl1"><span style="font-weight:inherit;font-style:inherit">Throughout the year</span><br><br><span style="font-weight:inherit;font-style:inherit">Oct - Dec for textbook grant</span><br><span style="font-weight:inherit;font-style:inherit">Feb - Mar for examination fees</span><br><span style="font-weight:inherit;font-style:inherit"> </span></td>
   </tr>
   <tr>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Full waiver of 1st tier miscellaneous fees</span><br><br><span style="font-weight:inherit;font-style:inherit"> </span><br><span style="font-weight:inherit;font-style:inherit">Textbook grant</span><br><span style="font-weight:inherit;font-style:inherit"> </span><br><span style="font-weight:inherit;font-style:inherit">School attire</span><br><span style="font-weight:inherit;font-style:inherit"> </span></td>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Singapore citizens or permanent residents Gross household income not exceeding $3300 a month or the family per capita income (PCI) more than $690 but does not exceed</span><br><br><span style="font-weight:inherit;font-style:inherit">$825 per month</span><br><span style="font-weight:inherit;font-style:inherit"> </span></td>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Throughout the year</span><br><br><span style="font-weight:inherit;font-style:inherit"> </span><br><span style="font-weight:inherit;font-style:inherit">Oct - Dec  for textbook grant</span><br><span style="font-weight:inherit;font-style:inherit"> </span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">School Advisory Committee (SAC) Financial Assistance Scheme</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Full waiver of 1st tier miscellaneous fees</span><br><br><span style="font-weight:inherit;font-style:inherit">Textbook grant</span><br><span style="font-weight:inherit;font-style:inherit">School attire</span><br><span style="font-weight:inherit;font-style:inherit"> </span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Singapore citizens or permanent residents Gross household income not exceeding $4000 a month or the family per capita income (PCI) more than $750 but does not exceed $1000 per month.</span><br><br><span style="font-weight:inherit;font-style:inherit"> </span><br><span style="font-weight:inherit;font-style:inherit"> </span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Throughout the year</span><br><br><span style="font-weight:inherit;font-style:inherit">Oct - Dec for textbook grant</span><br><span style="font-weight:inherit;font-style:inherit"> </span></td>
   </tr>
   <tr>
     <td class="tg-ehl1"><span style="font-weight:inherit;font-style:inherit">Meal Allowance via Ministry Of Education and School Advisory Committee Fund</span><br><br><span style="font-weight:inherit;font-style:inherit"> </span></td>
-    <td class="tg-ehl1"><span style="font-weight:inherit;font-style:inherit">$5.80 per school day meal allowance subsidy</span></td>
+    <td class="tg-ehl1"><span style="font-weight:inherit;font-style:inherit">$7.00* per school day meal allowance subsidy</span><br><br><span style="font-weight:inherit;font-style:inherit">*Effective from 1 January 2023</span></td>
     <td class="tg-ehl1"><span style="font-weight:inherit;font-style:inherit">For all MOE FAS and SAC FAS students</span></td>
     <td class="tg-ehl1"><span style="font-weight:inherit;font-style:inherit">Throughout the school terms</span></td>
-		<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-nzmi{background-color:#FFF;color:#3A3A3A;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">School Advisory Committee (SAC) Financial Assistance Scheme</span></td>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Full waiver of 1st tier miscellaneous fees</span><br><br><span style="font-weight:inherit;font-style:inherit"> </span><br><span style="font-weight:inherit;font-style:inherit">Textbook grant</span><br><span style="font-weight:inherit;font-style:inherit"> </span><br><span style="font-weight:inherit;font-style:inherit">School attire</span><br><span style="font-weight:inherit;font-style:inherit"> </span></td>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Singapore citizens or permanent residents Gross household income not exceeding $3300 a month or the family per capita income (PCI) more than $690 but does not exceed</span><br><br><span style="font-weight:inherit;font-style:inherit">$825 per month</span><br><span style="font-weight:inherit;font-style:inherit"> </span></td>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Throughout the year</span><br><br><span style="font-weight:inherit;font-style:inherit"> </span><br><span style="font-weight:inherit;font-style:inherit">Oct - Dec  for textbook grant</span><br><span style="font-weight:inherit;font-style:inherit"> </span></td>
-  </tr>
-</thead>
-</table>
   </tr>
 </tbody>
 </table>
@@ -214,8 +197,3 @@ Nominee has shown exemplary leadership qualities during his/her her schooling ye
  
 
 Nominations are made through teachers in the school.
-
-
-
-
-
