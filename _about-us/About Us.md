@@ -1,6 +1,6 @@
 ---
 title: About Us
-permalink: /about-us/permalink
+permalink: /about-us/permalink/
 description: ""
 ---
 **Our Vision, Mission, Motto and Values**
@@ -8,7 +8,10 @@ description: ""
 
 **Our School Crest**
 
-![](/images/BGSS-School-Crest.jpg)
+
+<img src="/images/BGSS-School-Crest.jpg"  
+     style="width:35%">
+
 
 The bamboo represents growth, hardiness, uprightness and strength. The diamond represents beauty and excellence.
 
@@ -22,27 +25,29 @@ To provide a nurturing environment where pupils are imbued with sound values, a 
 
 **Our Motto**
 
-Believe and Grow
-Our BGSS Students
-BGSS students are courageous individuals
-who overcome challenges with resilience.
-They uphold integrity by being true to self and others,
-and show compassion through kindness and empathy.
-They are humble and reflective,
-always keen to learn and grow.
+**Believe and Grow**
 
-BGSS students are confident leaders
-who fulfill their duties with pride.
-They hold themselves to high standards,
-lead with conviction
-and serve with passion.
 
-BGSS students are inventive thinkers,
-constantly anchored in values and driven by purpose.
-They pursue their dreams with zest
-and build their future with hope.
-With their strengths and talents,
-they contribute to building
+**Our BGSS Students**<br>
+BGSS students are courageous individuals<br>
+who overcome challenges with resilience.<br>
+They uphold integrity by being true to self and others,<br>
+and show compassion through kindness and empathy.<br>
+They are humble and reflective,<br>
+always keen to learn and grow.<br>
+
+BGSS students are confident leaders<br>
+who fulfill their duties with pride.<br>
+They hold themselves to high standards,<br>
+lead with conviction<br>
+and serve with passion.<br>
+
+BGSS students are inventive thinkers,<br>
+constantly anchored in values and driven by purpose.<br>
+They pursue their dreams with zest<br>
+and build their future with hope.<br>
+With their strengths and talents,<br>
+they contribute to building<br>
 a fair, just and inclusive society.
 
 **Our RICH Values**
