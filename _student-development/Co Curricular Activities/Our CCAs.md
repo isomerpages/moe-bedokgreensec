@@ -18,7 +18,10 @@ Simply click on any one of our CCAs to find out more about them!!
 
 **Club and Societies**
 
-![](/images/Clubs-Societies-icon-300x300.jpg)
+
+<img src="/images/Clubs-Societies-icon-300x300.jpg"  
+     style="width:45%">
+
 
 * ENVIRONMENT CLUB
 * INFOCOMM CLUB
@@ -26,7 +29,9 @@ Simply click on any one of our CCAs to find out more about them!!
 * YOUTH FLYING CLUB
 
 **Physical Sports**
-![](/images/Physical-Sports-icon-300x300.jpg)
+
+<img src="/images/Physical-Sports-icon-300x300.jpg"  
+     style="width:45%">
 
 * BADMINTON
 * BASKETBALL
@@ -37,7 +42,8 @@ Simply click on any one of our CCAs to find out more about them!!
 
 **Visual & Performing Arts**
 
-![](/images/Visual-Performing-Arts-icon-300x300.jpg)
+<img src="/images/Visual-Performing-Arts-icon-300x300.jpg"  
+     style="width:45%">
 
 * ART AND CRAFT
 * CHOIR
@@ -47,7 +53,9 @@ Simply click on any one of our CCAs to find out more about them!!
 
 **Uniformed Groups**
 
-![](/images/Uniformed-Groups-icon-300x300.jpg)
+
+<img src="/images/Uniformed-Groups-icon-300x300.jpg"  
+     style="width:45%">
 
 * NCC (LAND)
 * NPCC
