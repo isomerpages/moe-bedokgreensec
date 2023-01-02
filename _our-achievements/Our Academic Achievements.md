@@ -1,23 +1,22 @@
 ---
 title: Our Academic Achievements
-permalink: /academicachievements/permalink
+permalink: /academicachievements/permalink/
 description: ""
 ---
-
 ![](/images/bgss4.jpg)
 
 **2021 GCE N Level Examination**
 
-* 5 subjects with 100% passes 
-* 67.7%% qualified for 5NA, 53.8% for Direct Entry Scheme to Poly (DPP), 6.2% for Polytechnic Foundation Programme (PFP).
+* <b>5 subjects with 100% passes</b> 
+* <b>67.7%</b> qualified for 5NA, <b>53.8%</b> for Direct Entry Scheme to Poly (DPP), <b>6.2%</b> for Polytechnic Foundation Programme (PFP).
 
 **2021 GCE O Level Examination**
 
-* 4 subjects with 100% passes 
+* <b>4 subjects with 100% passes </b>
 * Percentage qualify for:
-* Junior College: 1 in 5
-* Pre-University: 1 in 2
-* Polytechnic: 3 in 4
+   * Junior College: <b>1 in 5</b>
+   * Pre-University: <b>1 in 2</b>
+   * Polytechnic: <b>3 in 4</b>
 
 **Success Stories**
 
@@ -95,4 +94,4 @@ I once thought that being a Normal Technical student would mean that I would not
 
 **What are the best memories you have of BGSS?**  
 
-I remember one of my teachers coming to class with a big cake which had a picture of our class printed on it! This was a pleasant surprise to help us celebrate our graduation. That’s the most memorable time I have of my four years in Bedok Green Secondary School! 
+I remember one of my teachers coming to class with a big cake which had a picture of our class printed on it! This was a pleasant surprise to help us celebrate our graduation. That’s the most memorable time I have of my four years in Bedok Green Secondary School!
