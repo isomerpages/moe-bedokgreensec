@@ -175,8 +175,14 @@ Nominations are made through teachers in the school.
 
 Starting from 2022, the Keder Bin Mohamed Said Scholarship is awarded to outstanding students in recognition of their achievement and good character. This prestigious award aims to motivate students to strive for excellence. For more information and application, please click [here](https://go.gov.sg/bgssbursary).
 
-Model Student Award
-Sustained Edusave Character Award (ECHA)
+
+**The Rogayah Binte Kadir Bursary**
+
+Starting from 2022, the Rogayah Binte Kadir Bursary aims to support and motivate students from less advantaged backgrounds. This bursary provides financial assistance to deserving students based on our eligibility criteria and assessed level of needs of the applications. For more information and application, please click [here.](https://go.gov.sg/bgssbursary)
+
+**Model Student Award**
+
+**Sustained Edusave Character Award (ECHA)**
 
 The Sustained Edusave Character Award (ECHA) is a school award given to students who have received the Edusave Character Award (ECHA) consecutively for two or more years, including their graduating year.
 
