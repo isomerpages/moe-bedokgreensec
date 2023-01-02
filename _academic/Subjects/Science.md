@@ -1,13 +1,12 @@
 ---
 title: Science
-permalink: /science/permalink
+permalink: /science/permalink/
 description: ""
 third_nav_title: Subjects
 ---
-
 ![](/images/science-frankie.jpg)
 
-**"Science is a way of thinking, much more than it is a body of knowledge.”
+**"Science is a way of thinking, much more than it is a body of knowledge.”<br>
 Carl Sagan**
 
 Just look around you; everything that you see is science. Even how you see, is science. For example, chemical reactions in fluorescent tubes release energy in the form of heat and light. Light rays travel from fluorescent tubes and bounces off tabletops into our eyes. Forces hold the table upright and gravity prevents it from floating. Our eyes detect the light rays and our brain interprets them to form an image of a table. The simple act of looking at a tabletop encompasses all three branches of Science.
