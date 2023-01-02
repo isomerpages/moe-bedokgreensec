@@ -46,11 +46,11 @@ Simply click on any one of our CCAs to find out more about them!!
 <img src="/images/Visual-Performing-Arts-icon-300x300.jpg"  
      style="width:35%">
 
-* ART AND CRAFT
-* CHOIR
-* CONCERT BAND
-* DANCE
-* DRAMA
+* [ART AND CRAFT](https://moe-bedokgreensec-staging.netlify.app/student-development/ArtandCraft/permalink)
+* [CHOIR](https://moe-bedokgreensec-staging.netlify.app/student-development/Choir/permalink)
+* [CONCERT BAND](https://moe-bedokgreensec-staging.netlify.app/student-development/ConcertBand/permalink)
+* [DANCE](https://moe-bedokgreensec-staging.netlify.app/student-development/Dance/permalink)
+* [DRAMA](https://moe-bedokgreensec-staging.netlify.app/student-development/Drama/permalink)
 
 **Uniformed Groups**
 
@@ -58,6 +58,6 @@ Simply click on any one of our CCAs to find out more about them!!
 <img src="/images/Uniformed-Groups-icon-300x300.jpg"  
      style="width:35%">
 
-* NCC (LAND)
-* NPCC
-* SAINT JOHN BRIGADE
+* [NCC (LAND)](https://moe-bedokgreensec-staging.netlify.app/student-development/ncc/permalink)
+* [NPCC](https://moe-bedokgreensec-staging.netlify.app/student-development/NPCC/permalink)
+* [SAINT JOHN BRIGADE](https://moe-bedokgreensec-staging.netlify.app/student-development/sjb/permalink)
