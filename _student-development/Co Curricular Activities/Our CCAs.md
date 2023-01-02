@@ -20,30 +20,31 @@ Simply click on any one of our CCAs to find out more about them!!
 
 
 <img src="/images/Clubs-Societies-icon-300x300.jpg"  
-     style="width:45%">
+     style="width:35%">
 
 
-* ENVIRONMENT CLUB
-* INFOCOMM CLUB
-* OUTDOOR ADVENTURE CLUB
-* YOUTH FLYING CLUB
+* [ENVIRONMENT CLUB](https://moe-bedokgreensec-staging.netlify.app/student-development/environment-club/permalink)
+* [INFOCOMMM CLUB](https://moe-bedokgreensec-staging.netlify.app/student-development/Infocomm-Club/permalink)
+* [OUTDOOR ADVENTURE CLUB](https://moe-bedokgreensec-staging.netlify.app/student-development/odac/permalink)
+* [YOUTH FLYING CLUB](https://moe-bedokgreensec-staging.netlify.app/student-development/yfc/permalink)
 
 **Physical Sports**
 
 <img src="/images/Physical-Sports-icon-300x300.jpg"  
-     style="width:45%">
+     style="width:35%">
 
-* BADMINTON
-* BASKETBALL
-* FOOTBALL
-* SOFTBALL
-* WUSHU
-* TCHOUKBALL
+* [BADMINTON](https://moe-bedokgreensec-staging.netlify.app/student-development/Badminton/permalink)
+* [BASKETBALL](https://moe-bedokgreensec-staging.netlify.app/student-development/Basketball/permalink)
+* [FOOTBALL](https://moe-bedokgreensec-staging.netlify.app/student-development/Football/permalink)
+* [SOFTBALL](https://moe-bedokgreensec-staging.netlify.app/student-development/Softball/permalink)
+* [TCHOUKBALL](https://moe-bedokgreensec-staging.netlify.app/student-development/Tchoukball/permalink/)
+* [WUSHU](https://moe-bedokgreensec-staging.netlify.app/student-development/Wushu/permalink)
+
 
 **Visual & Performing Arts**
 
 <img src="/images/Visual-Performing-Arts-icon-300x300.jpg"  
-     style="width:45%">
+     style="width:35%">
 
 * ART AND CRAFT
 * CHOIR
@@ -55,7 +56,7 @@ Simply click on any one of our CCAs to find out more about them!!
 
 
 <img src="/images/Uniformed-Groups-icon-300x300.jpg"  
-     style="width:45%">
+     style="width:35%">
 
 * NCC (LAND)
 * NPCC
