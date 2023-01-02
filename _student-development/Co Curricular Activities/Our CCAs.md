@@ -1,6 +1,6 @@
 ---
 title: Our CCAs
-permalink: /student-development/Co-Curricular-Activities/permalink
+permalink: /student-development/Co-Curricular-Activities/permalink/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
@@ -33,7 +33,7 @@ Simply click on any one of our CCAs to find out more about them!!
 * FOOTBALL
 * SOFTBALL
 * WUSHU
-* TCHOUKBALL (Opening in 2022)
+* TCHOUKBALL
 
 **Visual & Performing Arts**
 
