@@ -1,15 +1,13 @@
 ---
 title: D&T & NFS
-permalink: /dnt/permalink
+permalink: /dnt/permalink/
 description: ""
 third_nav_title: Subjects
 ---
-
-
-
 ![](/images/fce3.jpg)
+
 **“Design is not just what it looks like and feels like.
-Design is how it works.”
+Design is how it works.”<br>
 Steve Jobs**
 
 **Design & Technology**
@@ -27,6 +25,9 @@ D&T equips you with the knowledge and also with the skills needed to solve all t
 **Our Enrichment**
 
 Have you ever wanted to produce and sell your creations using your original designs in a real market platform? In Design and Technology, students are provided with the opportunity to participate in the Make and Sell workshop, with Design Rete. Students are exposed to diverse creative thinking and design skills like sketching, ideation methods, cardboard/foam prototyping and presentation techniques Students are therefore able to actualise their designs from paper to functional products.
+
+------------
+
 
 **“The food you eat can be either the safest and most powerful form of medicine, or the slowest form of poison.”
 Ann Wingmore**
