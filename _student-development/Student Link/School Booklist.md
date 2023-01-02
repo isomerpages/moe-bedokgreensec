@@ -1,9 +1,10 @@
 ---
 title: School Booklist
-permalink: /student-development/booklist/permalink
+permalink: /student-development/booklist/permalink/
 description: ""
 third_nav_title: Student Link
 ---
+![](/images/studentlink.jpg)
 
 [Secondary 1 Booklist](/files/Sec-1-booklist.pdf)
 
