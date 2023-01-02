@@ -1,12 +1,12 @@
 ---
 title: Values in Action (VIA)
-permalink: /student-development/via/permalink
+permalink: /student-development/via/permalink/
 description: ""
 third_nav_title: CCE
 ---
 ![](/images/VIA-e1570004908431.jpg)
 
-*“Only a life lived for others is a life worthwhile.”*
+*“Only a life lived for others is a life worthwhile.”*<br>
 **Albert Einstein**
 
 Placing yourself in the shoes of others exemplifies our Values-in-Actions programmes.
