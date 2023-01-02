@@ -52,64 +52,44 @@ a fair, just and inclusive society.
 
 **Our RICH Values**
 
-**Resilience** -
+**Resilience** <br>
 We overcome challenges with strength and tenacity and we persevere in the pursuit of our goals.
 
-**Integrity** - 
+**Integrity** <br>
 We demonstrate honesty and uprightness through word and deed.
 
-**Compassion** - 
+**Compassion** <br> 
 We feel for and show care and concern for one another.
 
-**Humility** - 
+**Humility** <br>
 While we take pride in our strengths, we recognize that we can always grow and learn from others.
 
 **Our School Song**
 
-Grow in strength and unity,
-
-Bending with humility and grace
-
-Like new diamonds honed to blaze,
-
-We believe and strive and praise
-
+Grow in strength and unity,<br>
+Bending with humility and grace<br>
+Like new diamonds honed to blaze,<br>
+We believe and strive and praise<br>
 As knowledge we embrace.
 
-Bedok Green Secondary,
-
-Our School of Choice,
-
-Nurtures us to believe
-
-In our abilities and grow,
-
-Through lifelong learning
-
-We shall always be prepared
-
+Bedok Green Secondary,<br>
+Our School of Choice,<br>
+Nurtures us to believe<br>
+In our abilities and grow,<br>
+Through lifelong learning<br>
+We shall always be prepared<br>
 To face the challenges, challenges of tomorrow.
 
-Loyal and upright citizens
-
-Living in abiding harmony,
-
-Serving nation, school and kin,
-
-So determined we shall win,
-
+Loyal and upright citizens<br>
+Living in abiding harmony,<br>
+Serving nation, school and kin,<br>
+So determined we shall win,<br>
 Our school shows us the key.
 
-Bedok Green Secondary
-
-Our School of Choice,
-
-Nurtures us to believe
-
-In our abilities and grow,
-
-Through lifelong learning
-
-We shall always be prepared
-
+Bedok Green Secondary<br>
+Our School of Choice,<br>
+Nurtures us to believe<br>
+In our abilities and grow,<br>
+Through lifelong learning<br>
+We shall always be prepared<br>
 To face the challenges, challenges of tomorrow.
