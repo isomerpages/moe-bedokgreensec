@@ -60,7 +60,7 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexua
 **Information for Parents**
 
 1. Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
-2. Parents who wish to opt their children out of the **Sexuality Education lessons and /or eTeens programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year via Parents’ Gateway. The completed form is to be submitted by 17/01/2022.
+2. Parents who wish to opt their children out of the **Sexuality Education lessons and /or eTeens programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year via Parents’ Gateway. The completed form is to be submitted by **17/01/2022**.
 3. Parents can contact the school at 6446 3301, Miss Nurmuhaina or email at  <a href="mailto:nurmuhaina_bte_bakar@moe.edu.sg">nurmuhaina_bte_bakar@moe.edu.sg</a> for discussion or to seek clarification about the school’s sexuality education programme.
 4. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
 
@@ -87,4 +87,5 @@ The programme includes a 1-hour talk and a 1-hour classroom-based lesson:
 
 Additional information is available on the MOE [website](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education).
 
-If you do not wish your child/ward to attend this programme, please opt out. For further clarifications about this programme, you may email <a href="mailto:hpb_yhp@hpb.gov.sg"></a>hpb_yhp@hpb.gov.sg.
+If you <u>do not</u> wish your child/ward to attend this programme, please opt out. For further clarifications about this programme, you may email <a href="mailto:hpb_yhp@hpb.gov.sg">hpb_yhp@hpb.gov.sg</a>
+
