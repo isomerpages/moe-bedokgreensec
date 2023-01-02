@@ -1,16 +1,13 @@
 ---
 title: Physical and Outdoor Education
-permalink: /pe/permalink
+permalink: /pe/permalink/
 description: ""
 third_nav_title: Subjects
 ---
-
-
-
 ![](/images/PE-Outdoor-1-e1570173271525.jpg)
 
 **“Intelligence and skill can only function at the peak of
-their capacity when the body is healthy and strong.”
+their capacity when the body is healthy and strong.”<br>
 John F. Kennedy**
 
 Bedok Green Physical Education Department aims to develop students’ character and values through Sports and Outdoor Education, and impart in them the knowledge and skills to live a healthy lifestyle.
