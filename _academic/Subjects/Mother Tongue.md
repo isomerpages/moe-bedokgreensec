@@ -1,16 +1,13 @@
 ---
 title: Mother Tongue
-permalink: /mt/permalink
+permalink: /mt/permalink/
 description: ""
 third_nav_title: Subjects
 ---
-
-
-
 ![](/images/Mother-Tongue-1-e1570173335392.jpg)
 
 **“One language sets you in a corridor for life.
-Two languages open every door along the way.”
+Two languages open every door along the way.”<br>
 Frank Smith**
 
 While English Language enables us to communicate with people from around the world, our Mother Tongue Languages (MTL) endow us with a different set of cultural lenses and perspectives to connect with the world around us. Our horizons are widened when we are bilingual. Having an appreciation of MTL cultures not only enhances Singapore’s multicultural identity and fosters social cohesion in our daily lives, it also gives our students a competitive edge when tapping into global or regional opportunities in the future.
