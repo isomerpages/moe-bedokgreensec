@@ -1,12 +1,12 @@
 ---
 title: Character & Citizenship Education
-permalink: /student-development/CCE/permalink
+permalink: /student-development/CCE/permalink/
 description: ""
 third_nav_title: CCE
 ---
 ![](/images/CLASS-e1570004311158.jpg)
 
-*“Educating the mind without educating the heart is no education at all.”*
+*“Educating the mind without educating the heart is no education at all.”*<br>
 **Aristotle**
 
 The landscape of education has evolved greatly over the years, adopting a more holistic approach which aims to inculcate values and build competencies in our students to develop them to be good individuals and useful citizens.
