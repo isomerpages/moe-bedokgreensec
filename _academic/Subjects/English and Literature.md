@@ -1,17 +1,14 @@
 ---
 title: English and Literature
-permalink: /english/permalink
+permalink: /english/permalink/
 description: ""
 third_nav_title: Subjects
 ---
-
-
-
 ![](/images/English-2-e1572837777979.jpg)
 
 **English & English Literature**
 
-**“Words are our most inexhaustible source of magic.”
+**“Words are our most inexhaustible source of magic.”<br>
 J. K. Rowling**
 
 What exactly is that scent that hangs in the air after the rain has come and gone? That’s petrichor! A pleasant smell that frequently accompanies the first rain after a long period of warm, dry weather – and that’s the beauty of the English Language. All the language needs is just 26 letters to weave thoughts and ideas into magic, and such is its charm that it has become one of the world’s most widely used languages.
