@@ -1,6 +1,6 @@
 ---
 title: Post Secondary Options and Admission Information
-permalink: /student-development/postsec/permalink
+permalink: /student-development/postsec/permalink/
 description: ""
 third_nav_title: Student Link
 ---
@@ -41,7 +41,7 @@ third_nav_title: Student Link
 </table>
 
 
-
+<br>
 
 
 <style type="text/css">
@@ -80,6 +80,7 @@ third_nav_title: Student Link
   </tr>
 </tbody>
 </table>
+<br>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
