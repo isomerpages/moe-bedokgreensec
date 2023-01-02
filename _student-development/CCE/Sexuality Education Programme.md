@@ -57,6 +57,12 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexua
 1. eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.
 2. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
 
+**At Bedok Green Secondary School, the _eTeens_ programme will be implemented as follows in 2022:**
+
+<font size=5>(Missing Image Here)</font>
+
+
+
 **Information for Parents**
 
 1. Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
@@ -88,4 +94,3 @@ The programme includes a 1-hour talk and a 1-hour classroom-based lesson:
 Additional information is available on the MOE [website](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education).
 
 If you <u>do not</u> wish your child/ward to attend this programme, please opt out. For further clarifications about this programme, you may email <a href="mailto:hpb_yhp@hpb.gov.sg">hpb_yhp@hpb.gov.sg</a>
-
