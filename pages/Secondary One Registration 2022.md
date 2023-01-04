@@ -17,3 +17,20 @@ Parents/Guardians are to confirm the **Secondary 1 Posting Acknowledgement Form
 <p><a href="[https://go.gov.sg/2023postingacknowledgement"><img style="width:75%" src="/images/ACK01.png"></a></p>
 
  **Financial Assistance Scheme (FAS) Application** are opened to parents/guardians on 23 December 2022 from 9am to 12pm and 1pm to 3pm. Parents/Guardians are to refer to the instructions [here.](/files/Instruction-for-FAS-Application-for-Sec-1-Students-final.pdf)
+ 
+**Secondary level School Smart Card (SSC)** will be issued to all students entering Secondary 1 in Jan 2023. While waiting for their Secondary level SSCs to be ready, students can continue to use their Primary level SSCs for concessionary travel till end Apr 2023. Students can still purchase the Bus Concession Pass (BCP) using their Primary level SSCs, but they would need to purchase the BCP for Secondary School students.
+
+<p><a href="[[](/files/Sec-1-booklist.pdf)"><img style="width:80%" src="images/Book-01.png"></a></p>
+
+<p><a href="[[](/files/Schedule-for-sales-of-text-book-and-attire-final.pdf))"><img style="width:80%" src="images/textbook.png"></a></p>
+
+<p><a href="[[](/files/Uniform-information.pdf)"><img style="width:80%" src="images/uni01.png"></a></p>
+
+<p><a href="[[](/files/Secondary-One-Orientation-2023-final.pdf)"><img style="width:80%" src="images/time01-1.png"></a></p>
+
+<p><a href="[[](/files/AEP-and-MEP-2023.pdf))"><img style="width:80%" src="images/arts01.png"></a></p>
+
+<p><a href="[https://tinyurl.com/BGPSG2022"><img style="width:30%" src="images/psg.png"></a></p>
+
+###  To find out more about our school, please click on the following links
+
