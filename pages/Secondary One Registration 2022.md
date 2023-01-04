@@ -34,3 +34,19 @@ Parents/Guardians are to confirm the **Secondary 1 Posting Acknowledgement Form
 
 ###  To find out more about our school, please click on the following links
 
+##### [3D Tour of Our School Campus](https://captur3d.io/view/bedok-green-secondary-school/360-bedok-north-ave-3-singapore-469722)
+##### [eOpen House 2022](https://bedokgreensec.moe.edu.sg/bgss-e-open-house-2022/)
+##### BGSS Brochure 2022
+
+
+### Useful Links
+
+##### [Appeal to Transfer to Secondary 1 (2023)](https://go.gov.sg/2023appeal)
+
+##### [Full Subject-Based Banding (FSBB)](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html)
+
+##### [FAQ on Full Subject-Based Banding (FSBB)](https://bedokgreensec.moe.edu.sg/wp-content/uploads/2022/11/FAQs-on-FSBB.pdf)
+
+##### [FAQ on Mother Tongue Languages matters](https://bedokgreensec.moe.edu.sg/wp-content/uploads/2022/11/FAQ-for-MTL.pdf) 
+
+##### [Special Educational Needs (SEN)](https://www.moe.gov.sg/special-educational-needs)
