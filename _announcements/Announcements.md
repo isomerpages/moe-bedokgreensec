@@ -9,7 +9,7 @@ description: ""
 
 * [3D Tour of Our School Campus](https://captur3d.io/view/bedok-green-secondary-school/360-bedok-north-ave-3-singapore-469722)
 
-* [eOpen House 2021 ](https://bedokgreensec.moe.edu.sg/bgss-e-open-house-2021/)
+* [eOpen House 2022 ](/openhouse2022/)
 
 * [Direct School Admission](/files/BedokGreenSec_DSA2022.pdf)
 
