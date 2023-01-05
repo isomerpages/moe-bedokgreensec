@@ -13,90 +13,96 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ehl1{background-color:rgba(0, 80, 45, 0.15);color:#3A3A3A;text-align:center;vertical-align:top}
-.tg .tg-udm8{background-color:#00502D;border-color:inherit;color:#FFF;text-align:center;vertical-align:top}
-.tg .tg-nzmi{background-color:#FFF;color:#3A3A3A;text-align:center;vertical-align:top}
-.tg .tg-r8vb{background-color:#00502D;color:#FFF;text-align:center;vertical-align:top}
+.tg .tg-af47{background-color:#ffffff;border-color:inherit;color:#000000;text-align:center;vertical-align:top}
+.tg .tg-uoy9{background-color:#ffffff;border-color:inherit;color:#3A3A3A;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-udm8"><span style="font-weight:inherit;font-style:inherit">CCA</span></th>
-    <th class="tg-r8vb"><span style="font-weight:inherit;font-style:inherit">Event / Competition</span></th>
-    <th class="tg-r8vb"><span style="font-weight:inherit;font-style:inherit">Placing</span></th>
+    <th class="tg-af47"><span style="font-weight:inherit;font-style:inherit">CCA</span></th>
+    <th class="tg-af47"><span style="font-weight:inherit;font-style:inherit">Event / Competition</span></th>
+    <th class="tg-af47"><span style="font-weight:inherit;font-style:inherit">Placing</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ehl1" rowspan="11"><span style="font-weight:inherit;font-style:inherit">Environment Club</span></td>
-    <td class="tg-ehl1"><span style="font-weight:inherit;font-style:inherit">2021 Green Schools @ South East Awards</span></td>
-    <td class="tg-ehl1"><span style="font-weight:inherit;font-style:inherit">Sustained Excellence Award</span></td>
+    <td class="tg-uoy9" rowspan="13"><span style="font-weight:inherit;font-style:inherit">Environment Club</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">School Green Awards 2022</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">Yellow Flame Award (School Green Audit)</span></td>
   </tr>
   <tr>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">2021 National Youth Upcycling Movement Advocacy Challenge</span></td>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Gold Award</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">National Youth Upcycling Movement - Advocacy Challenge 2022</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">Gold Award</span></td>
   </tr>
   <tr>
-    <td class="tg-ehl1"><span style="font-weight:inherit;font-style:inherit">2021 Schools Green Audit</span></td>
-    <td class="tg-ehl1"><span style="font-weight:inherit;font-style:inherit">Sustained Vanda Miss Joaquim Award</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">2021 Green Schools @ South East Awards</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">Sustained Excellence Award</span></td>
   </tr>
   <tr>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">2018 Community in Bloom Award</span></td>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Gold banding</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">2021 National Youth Upcycling Movement Advocacy Challenge</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">Gold Award</span></td>
   </tr>
   <tr>
-    <td class="tg-ehl1"><span style="font-weight:inherit;font-style:inherit">2018 Sustainable Lifestyle Challenge</span></td>
-    <td class="tg-ehl1"><span style="font-weight:inherit;font-style:inherit">Merit</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">2021 Schools Green Audit</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">Sustained Vanda Miss Joaquim Award</span></td>
   </tr>
   <tr>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">2018 Schools Green Audit</span></td>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Vanda Miss Joaquim Award</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">2018 Community in Bloom Award</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">Gold banding</span></td>
   </tr>
   <tr>
-    <td class="tg-ehl1"><span style="font-weight:inherit;font-style:inherit">2018 Green Schools @ South East Awards</span></td>
-    <td class="tg-ehl1"><span style="font-weight:inherit;font-style:inherit">Excellence Award</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">2018 Sustainable Lifestyle Challenge</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">Merit</span></td>
   </tr>
   <tr>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">2017 Sustainable Lifestyle Challenge</span></td>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">1st placing; 2nd placing; Merit</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">2018 Schools Green Audit</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">Vanda Miss Joaquim Award</span></td>
   </tr>
   <tr>
-    <td class="tg-ehl1"><span style="font-weight:inherit;font-style:inherit">2017 Schools Green Audit (SGA) Award</span></td>
-    <td class="tg-ehl1"><span style="font-weight:inherit;font-style:inherit">Lotus Award</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">2018 Green Schools @ South East Awards</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">Excellence Award</span></td>
   </tr>
   <tr>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">2017 Green Schools@ SECDC</span></td>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Excellence</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">2017 Sustainable Lifestyle Challenge</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">1st placing; 2nd placing; Merit</span></td>
   </tr>
   <tr>
-    <td class="tg-ehl1"><span style="font-weight:inherit;font-style:inherit">2017 BCA - Green Mark Gold Plus</span></td>
-    <td class="tg-ehl1"></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">2017 Schools Green Audit (SGA) Award</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">Lotus Award</span></td>
   </tr>
   <tr>
-    <td class="tg-nzmi" rowspan="5"><span style="font-weight:inherit;font-style:inherit">Youth Flying Club</span></td>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">2018 Singapore Amazing Flying Machine</span><br><span style="font-weight:inherit;font-style:inherit">Category B : Unpowered Glider</span></td>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">2nd team Placing</span><br><span style="font-weight:inherit;font-style:inherit">Best in Performance Award</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">2017 Green Schools@ SECDC</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">Excellence</span></td>
   </tr>
   <tr>
-    <td class="tg-ehl1"><span style="font-weight:inherit;font-style:inherit">2017 Singapore Amazing Flying Machine:</span><br><span style="font-weight:inherit;font-style:inherit">Category B Unpowered Glider</span></td>
-    <td class="tg-ehl1"><span style="font-weight:inherit;font-style:inherit">3rd placing; Best in Presentation Award  (Theory of Flight)</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">2017 BCA - Green Mark Gold Plus</span></td>
+    <td class="tg-uoy9"></td>
   </tr>
   <tr>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">2017 Singapore Amazing Flying Machine:</span><br><span style="font-weight:inherit;font-style:inherit">Category B Unpowered Glider</span></td>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">3rd placing; Best in Performance Award</span></td>
+    <td class="tg-uoy9" rowspan="5"><span style="font-weight:inherit;font-style:inherit">Youth Flying Club</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">2018 Singapore Amazing Flying Machine</span><br><span style="font-weight:inherit;font-style:inherit">Category B : Unpowered Glider</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">2nd team Placing</span><br><span style="font-weight:inherit;font-style:inherit">Best in Performance Award</span></td>
   </tr>
   <tr>
-    <td class="tg-ehl1"><span style="font-weight:inherit;font-style:inherit">2017 Singapore Amazing Flying Machine:</span><br><span style="font-weight:inherit;font-style:inherit">Category B Unpowered Glider</span></td>
-    <td class="tg-ehl1"><span style="font-weight:inherit;font-style:inherit">3rd placing; Best in Championship Award</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">2017 Singapore Amazing Flying Machine:</span><br><span style="font-weight:inherit;font-style:inherit">Category B Unpowered Glider</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">3rd placing; Best in Presentation Award  (Theory of Flight)</span></td>
   </tr>
   <tr>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">2017 Singapore Amazing Flying Machine 2017:</span><br><span style="font-weight:inherit;font-style:inherit">Category B Unpowered Glider</span></td>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">1st placing; Best in Performance Award</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">2017 Singapore Amazing Flying Machine:</span><br><span style="font-weight:inherit;font-style:inherit">Category B Unpowered Glider</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">3rd placing; Best in Performance Award</span></td>
   </tr>
   <tr>
-    <td class="tg-ehl1"><span style="font-weight:inherit;font-style:inherit">Infocomm Club</span></td>
-    <td class="tg-ehl1"><span style="font-weight:inherit;font-style:inherit">2018 East Zone Robotics Challenge:</span><br><span style="font-weight:inherit;font-style:inherit">Light Robots Category</span></td>
-    <td class="tg-ehl1"><span style="font-weight:inherit;font-style:inherit">3rd team placing</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">2017 Singapore Amazing Flying Machine:</span><br><span style="font-weight:inherit;font-style:inherit">Category B Unpowered Glider</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">3rd placing; Best in Championship Award</span></td>
+  </tr>
+  <tr>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">2017 Singapore Amazing Flying Machine 2017:</span><br><span style="font-weight:inherit;font-style:inherit">Category B Unpowered Glider</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">1st placing; Best in Performance Award</span></td>
+  </tr>
+  <tr>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">Infocomm Club</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">2018 East Zone Robotics Challenge:</span><br><span style="font-weight:inherit;font-style:inherit">Light Robots Category</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">3rd team placing</span></td>
   </tr>
 </tbody>
 </table>
@@ -109,117 +115,115 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ehl1{background-color:rgba(0, 80, 45, 0.15);color:#3A3A3A;text-align:center;vertical-align:top}
-.tg .tg-udm8{background-color:#00502D;border-color:inherit;color:#FFF;text-align:center;vertical-align:top}
-.tg .tg-nzmi{background-color:#FFF;color:#3A3A3A;text-align:center;vertical-align:top}
-.tg .tg-jp6k{background-color:rgba(0, 80, 45, 0.15);border-color:inherit;color:#3A3A3A;text-align:center;vertical-align:top}
-.tg .tg-rupd{background-color:#FFF;border-color:inherit;color:#3A3A3A;text-align:center;vertical-align:top}
+.tg .tg-af47{background-color:#ffffff;border-color:inherit;color:#000000;text-align:center;vertical-align:top}
+.tg .tg-uoy9{background-color:#ffffff;border-color:inherit;color:#3A3A3A;text-align:center;vertical-align:top}
+.tg .tg-iajc{background-color:#ffffff;color:#3A3A3A;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-udm8"><span style="font-weight:inherit;font-style:inherit">CCA</span></th>
-    <th class="tg-udm8"><span style="font-weight:inherit;font-style:inherit">Event/Competition</span></th>
-    <th class="tg-udm8"><span style="font-weight:inherit;font-style:inherit">Placing</span></th>
+    <th class="tg-af47"><span style="font-weight:inherit;font-style:inherit">CCA</span></th>
+    <th class="tg-af47"><span style="font-weight:inherit;font-style:inherit">Event/Competition</span></th>
+    <th class="tg-af47"><span style="font-weight:inherit;font-style:inherit">Placing</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-jp6k" rowspan="3"><span style="font-weight:inherit;font-style:inherit">Badminton</span></td>
-    <td class="tg-jp6k"><span style="font-weight:inherit;font-style:inherit">2021 NSG Sportsmanship Award</span></td>
-    <td class="tg-jp6k"><span style="font-weight:inherit;font-style:inherit;color:#000">Poh Kai Yun Celine </span><br><span style="font-weight:inherit;font-style:inherit;color:#000">Yiu Wei Jian </span></td>
+    <td class="tg-uoy9" rowspan="3"><span style="font-weight:inherit;font-style:inherit">Badminton</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">2021 NSG Sportsmanship Award</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit;color:#000">Poh Kai Yun Celine </span><br><span style="font-weight:inherit;font-style:inherit;color:#000">Yiu Wei Jian </span></td>
   </tr>
   <tr>
-    <td class="tg-rupd"><span style="font-weight:inherit;font-style:inherit">2019 EAST ZONE INTER-SCHOOL BADMINTON CHAMPIONSHIPS</span></td>
-    <td class="tg-rupd"><span style="font-weight:inherit;font-style:inherit">8th Team placing (Quarter Finals)</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">2019 EAST ZONE INTER-SCHOOL BADMINTON CHAMPIONSHIPS</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">8th Team placing (Quarter Finals)</span></td>
   </tr>
   <tr>
-    <td class="tg-jp6k"><span style="font-weight:inherit;font-style:inherit">2018 WRS 4 - Schools Invitational Badminton Team Challenge (Senior Boys)</span></td>
-    <td class="tg-jp6k"><span style="font-weight:inherit;font-style:inherit">1st team runner-up</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">2018 WRS 4 - Schools Invitational Badminton Team Challenge (Senior Boys)</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">1st team runner-up</span></td>
   </tr>
   <tr>
-    <td class="tg-rupd" rowspan="7"><span style="font-weight:inherit;font-style:inherit">Basketball</span></td>
-    <td class="tg-rupd"><span style="font-weight:inherit;font-style:inherit">2019 East Zone Fair Play Award  ('B' Girls)</span></td>
-    <td class="tg-rupd"></td>
+    <td class="tg-uoy9" rowspan="7"><span style="font-weight:inherit;font-style:inherit">Basketball</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">2019 East Zone Fair Play Award  ('B' Girls)</span></td>
+    <td class="tg-uoy9"></td>
   </tr>
   <tr>
-    <td class="tg-jp6k"><span style="font-weight:inherit;font-style:inherit">2018 T-Net Under 16 Girls Invitational Basketball Tournament</span></td>
-    <td class="tg-jp6k"><span style="font-weight:inherit;font-style:inherit">3rd Position in Level 3 Category</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">2018 T-Net Under 16 Girls Invitational Basketball Tournament</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">3rd Position in Level 3 Category</span></td>
   </tr>
   <tr>
-    <td class="tg-rupd"><span style="font-weight:inherit;font-style:inherit">2018 East Zone 'B' Division Girls Basketball Tournament Fair Play Award</span></td>
-    <td class="tg-rupd"></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">2018 East Zone 'B' Division Girls Basketball Tournament Fair Play Award</span></td>
+    <td class="tg-uoy9"></td>
   </tr>
   <tr>
-    <td class="tg-jp6k"><span style="font-weight:inherit;font-style:inherit">2018 East Zone 'C' Division Girls Basketball Tournament Fair Play Award</span></td>
-    <td class="tg-jp6k"></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">2018 East Zone 'C' Division Girls Basketball Tournament Fair Play Award</span></td>
+    <td class="tg-uoy9"></td>
   </tr>
   <tr>
-    <td class="tg-rupd"><span style="font-weight:inherit;font-style:inherit">2018 T-Net Under 16 Girls Invitational Basketball Tournament</span></td>
-    <td class="tg-rupd"><span style="font-weight:inherit;font-style:inherit">3rd Position in Level 3 Category</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">2018 T-Net Under 16 Girls Invitational Basketball Tournament</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">3rd Position in Level 3 Category</span></td>
   </tr>
   <tr>
-    <td class="tg-jp6k"><span style="font-weight:inherit;font-style:inherit">2017 Basketball Girls  C Div</span></td>
-    <td class="tg-jp6k"><span style="font-weight:inherit;font-style:inherit">Fairplay</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">2017 Basketball Girls  C Div</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">Fairplay</span></td>
   </tr>
   <tr>
-    <td class="tg-rupd"><span style="font-weight:inherit;font-style:inherit">2017 T-net Cup 'B' Div Boys</span></td>
-    <td class="tg-rupd"><span style="font-weight:inherit;font-style:inherit">2nd runner-up</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">2017 T-net Cup 'B' Div Boys</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">2nd runner-up</span></td>
   </tr>
   <tr>
-    <td class="tg-jp6k" rowspan="6"><span style="font-weight:inherit;font-style:inherit">Canoeing</span></td>
-    <td class="tg-jp6k"><span style="font-weight:inherit;font-style:inherit">2019  National Interschool Canoeing Championships</span></td>
-    <td class="tg-jp6k"><span style="font-weight:inherit;font-style:inherit">JK1 B girls 500m 4th (Nur Syazlyana)</span></td>
+    <td class="tg-uoy9" rowspan="6"><span style="font-weight:inherit;font-style:inherit">Canoeing</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">2019  National Interschool Canoeing Championships</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">JK1 B girls 500m 4th (Nur Syazlyana)</span></td>
   </tr>
   <tr>
-    <td class="tg-rupd"><span style="font-weight:inherit;font-style:inherit">2018 Singapore Canoe Marathon - JK2 Under14 12 km</span></td>
-    <td class="tg-rupd"><span style="font-weight:inherit;font-style:inherit">Silver</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">2018 Singapore Canoe Marathon - JK2 Under14 12 km</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">Silver</span></td>
   </tr>
   <tr>
-    <td class="tg-jp6k"><span style="font-weight:inherit;font-style:inherit">2018 National Inter-School Canoeing Championships (NICC)</span></td>
-    <td class="tg-jp6k"><span style="font-weight:inherit;font-style:inherit">Colors Award -Nuriliana, Celest Lim, Summer, Diyah, Amanda, Jewel ; Sportsmanship Award - Nuriliana</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">2018 National Inter-School Canoeing Championships (NICC)</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">Colors Award -Nuriliana, Celest Lim, Summer, Diyah, Amanda, Jewel ; Sportsmanship Award - Nuriliana</span></td>
   </tr>
   <tr>
-    <td class="tg-rupd"><span style="font-weight:inherit;font-style:inherit">2017 National Inter-School Canoeing Championships (NICC)</span></td>
-    <td class="tg-rupd"><span style="font-weight:inherit;font-style:inherit">Nuriliana (5N2) - 4th for K1 1000m A Div</span><br><span style="font-weight:inherit;font-style:inherit">Celest Lim (5N2) - 3rd for JK1 500 M, B Div</span><br><span style="font-weight:inherit;font-style:inherit">Summer (2E2), Diyah (2E3), Amanda (2E3), Jewel (2E4) - 3rd in K4 500m, C Div</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">2017 National Inter-School Canoeing Championships (NICC)</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">Nuriliana (5N2) - 4th for K1 1000m A Div</span><br><span style="font-weight:inherit;font-style:inherit">Celest Lim (5N2) - 3rd for JK1 500 M, B Div</span><br><span style="font-weight:inherit;font-style:inherit">Summer (2E2), Diyah (2E3), Amanda (2E3), Jewel (2E4) - 3rd in K4 500m, C Div</span></td>
   </tr>
   <tr>
-    <td class="tg-jp6k"><span style="font-weight:inherit;font-style:inherit">2017 National Junior Canoeing Championships (NJCC)</span></td>
-    <td class="tg-jp6k"><span style="font-weight:inherit;font-style:inherit">3rd for K4 500m C Div</span><br><span style="font-weight:inherit;font-style:inherit">Sean Chan Junxi (2E1)</span><br><span style="font-weight:inherit;font-style:inherit">Ma Zishuo (2E1)</span><br><span style="font-weight:inherit;font-style:inherit">Aly Zaynul Abidyn B Gazali (2E2)</span><br><span style="font-weight:inherit;font-style:inherit">Goh Jason Fadil (2E2)</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">2017 National Junior Canoeing Championships (NJCC)</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">3rd for K4 500m C Div</span><br><span style="font-weight:inherit;font-style:inherit">Sean Chan Junxi (2E1)</span><br><span style="font-weight:inherit;font-style:inherit">Ma Zishuo (2E1)</span><br><span style="font-weight:inherit;font-style:inherit">Aly Zaynul Abidyn B Gazali (2E2)</span><br><span style="font-weight:inherit;font-style:inherit">Goh Jason Fadil (2E2)</span></td>
   </tr>
   <tr>
-    <td class="tg-rupd"><span style="font-weight:inherit;font-style:inherit">2017 Singapore Canoe Marathon</span></td>
-    <td class="tg-rupd"><span style="font-weight:inherit;font-style:inherit">3rd in 11 K T1 Open Men's Category</span><br><span style="font-weight:inherit;font-style:inherit">(Hafizh Rizqi Laksmana 2E4)</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">2017 Singapore Canoe Marathon</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">3rd in 11 K T1 Open Men's Category</span><br><span style="font-weight:inherit;font-style:inherit">(Hafizh Rizqi Laksmana 2E4)</span></td>
   </tr>
   <tr>
-    <td class="tg-jp6k" rowspan="6"><span style="font-weight:inherit;font-style:inherit">Football</span></td>
-    <td class="tg-jp6k"><span style="font-weight:inherit;font-style:inherit">2019 Muhammadiyah Welfare Home (MWH) Football Tournament</span></td>
-    <td class="tg-jp6k"><span style="font-weight:inherit;font-style:inherit">1st team placing (champion)</span></td>
+    <td class="tg-uoy9" rowspan="6"><span style="font-weight:inherit;font-style:inherit">Football</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">2019 Muhammadiyah Welfare Home (MWH) Football Tournament</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">1st team placing (champion)</span></td>
   </tr>
   <tr>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">2018 MWH Charity Corporate and Youth Futsal Tournament  - 'C' Div</span></td>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">3rd team placing</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">2018 MWH Charity Corporate and Youth Futsal Tournament  - 'C' Div</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">3rd team placing</span></td>
   </tr>
   <tr>
-    <td class="tg-ehl1"><span style="font-weight:inherit;font-style:inherit">2018 MWH Charity Corporate and Youth Futsal Tournament  - 'B' Div</span></td>
-    <td class="tg-ehl1"><span style="font-weight:inherit;font-style:inherit">4th team placing</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">2018 MWH Charity Corporate and Youth Futsal Tournament  - 'B' Div</span></td>
+    <td class="tg-uoy9"><span style="font-weight:inherit;font-style:inherit">4th team placing</span></td>
   </tr>
   <tr>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">2018 East Zone Challenge Trophy 'C' Div</span></td>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">2nd placing</span></td>
+    <td class="tg-iajc"><span style="font-weight:inherit;font-style:inherit">2018 East Zone Challenge Trophy 'C' Div</span></td>
+    <td class="tg-iajc"><span style="font-weight:inherit;font-style:inherit">2nd placing</span></td>
   </tr>
   <tr>
-    <td class="tg-ehl1"><span style="font-weight:inherit;font-style:inherit">2018 ACTIVE SG FUTSAL COMPETIITON Singapore Youth Olympic Festival)</span></td>
-    <td class="tg-ehl1"><span style="font-weight:inherit;font-style:inherit">Champion</span></td>
+    <td class="tg-iajc"><span style="font-weight:inherit;font-style:inherit">2018 ACTIVE SG FUTSAL COMPETIITON Singapore Youth Olympic Festival)</span></td>
+    <td class="tg-iajc"><span style="font-weight:inherit;font-style:inherit">Champion</span></td>
   </tr>
   <tr>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">2017 MWH Futsal Competition</span></td>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Champion B Boys</span></td>
+    <td class="tg-iajc"><span style="font-weight:inherit;font-style:inherit">2017 MWH Futsal Competition</span></td>
+    <td class="tg-iajc"><span style="font-weight:inherit;font-style:inherit">Champion B Boys</span></td>
   </tr>
   <tr>
-    <td class="tg-ehl1"><span style="font-weight:inherit;font-style:inherit">Taekwondo</span></td>
-    <td class="tg-ehl1"><span style="font-weight:inherit;font-style:inherit">2019 NATIONAL SCHOOL GAMES TAEKWONDO CHAMPIONSHIPS</span></td>
-    <td class="tg-ehl1"><span style="font-weight:inherit;font-style:inherit">Silver - SELINA ONG SUE FANG</span></td>
+    <td class="tg-iajc"><span style="font-weight:inherit;font-style:inherit">Taekwondo</span></td>
+    <td class="tg-iajc"><span style="font-weight:inherit;font-style:inherit">2019 NATIONAL SCHOOL GAMES TAEKWONDO CHAMPIONSHIPS</span></td>
+    <td class="tg-iajc"><span style="font-weight:inherit;font-style:inherit">Silver - SELINA ONG SUE FANG</span></td>
   </tr>
 </tbody>
 </table>
