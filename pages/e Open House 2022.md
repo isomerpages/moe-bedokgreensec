@@ -30,7 +30,7 @@ description: ""
 
 <p><a href="/extraordinaryteachers/"><img style="width:100%" src="images/teachers-1024x402.png"></a></p>
 
-<p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:100%" src="images/students-1024x409.png"></a></p>
+<p><a href="/studentleadership/"><img style="width:100%" src="images/students-1024x409.png"></a></p>
 
 <p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:100%" src="images/facilities-1024x412.png"></a></p>
 
