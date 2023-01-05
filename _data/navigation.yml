@@ -12,12 +12,12 @@ links:
       - title: Our Contact
         url: /our-contact/
   - title: Academic Curriculum
-    url: /aesthetics/permalink
+    url: /aesthetics/
     sublinks:
       - title: Academic
-        url: /aesthetics/permalink
+        url: /aesthetics/
       - title: "Subject-based Banding "
-        url: /sbb/permalink
+        url: /sbb/
   - title: "Student Development "
     url: /student-development/Co-Curricular-Activities/permalink
     sublinks:
