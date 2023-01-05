@@ -20,7 +20,7 @@ description: ""
 
 ![](/images/10-reason-why-1-1024x300.png)
 
-<p><a href="[/alp/)"><img style="width:100%" src="images/arts-1024x435.png"></a></p>
+<p><a href=""><img style="width:100%" src="images/arts-1024x435.png"></a></p>
 
 <p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:100%" src="images/CCA-1024x442.png"></a></p>
 
@@ -40,4 +40,4 @@ description: ""
 
 <p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:100%" src="images/alumni-1024x364.png"></a></p>
 
-<p><a href="[https://www.facebook.com/pages/BGSS-Buzz/169809583046396?sk=wall"><img style="width:100%" src="images/FB-1024x547.png"></a></p>
+<p><a href="https://www.facebook.com/pages/BGSS-Buzz/169809583046396?sk=wall"><img style="width:100%" src="images/FB-1024x547.png"></a></p>
