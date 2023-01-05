@@ -20,7 +20,7 @@ description: ""
 
 <p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:100%" src="images/10-reason-why-1-1024x300.png"></a></p>
 
-<p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:100%" src="images/arts-1024x435.png"></a></p>
+<p><a href="[/alp/)"><img style="width:100%" src="images/arts-1024x435.png"></a></p>
 
 <p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:100%" src="images/CCA-1024x442.png"></a></p>
 
