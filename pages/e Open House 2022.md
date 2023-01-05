@@ -38,6 +38,6 @@ description: ""
 
 <p><a href="/polo/"><img style="width:100%" src="images/polo-1024x362.png"></a></p>
 
-<p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:100%" src="images/alumni-1024x364.png"></a></p>
+<p><a href="/outstandingalumni/"><img style="width:100%" src="images/alumni-1024x364.png"></a></p>
 
 <p><a href="https://www.facebook.com/pages/BGSS-Buzz/169809583046396?sk=wall"><img style="width:100%" src="images/FB-1024x547.png"></a></p>
