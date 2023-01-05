@@ -18,4 +18,4 @@ Look forward to using our well-equipped Blackbox to help you further your passio
 
 For those who need quiet time and a place to relax, read and learn, our library, which we call the Nexus, offers just the right environment to boost our brain cells working.
 
-<p><a href="[https://captur3d.io/view/bedok-green-secondary-school/360-bedok-north-ave-3-singapore-469722"><img style="width:100%" src="images/3d-tour.png"></a></p>
+<p><a href="[https://captur3d.io/view/bedok-green-secondary-school/360-bedok-north-ave-3-singapore-469722)"><img style="width:100%" src="images/3d-tour.png"></a></p>
