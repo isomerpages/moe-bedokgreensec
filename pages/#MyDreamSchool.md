@@ -18,3 +18,19 @@ Dreams do come true in BGSS. Here, students are encouraged to shape the school t
 ### **Mural painted by our students**
 
 ![](/images/mds2.png)
+
+### **Cover of our BGSS  foolscap pad designed by our student**
+
+![](/images/mds3.png)
+
+### **Weekly student sharing**
+
+![](/images/mds4.png)
+
+### **Frozen Yogurt (Fro-yo) now available**
+
+![](/images/froyo.jpg)
+
+### **Individual student lockers outside the classrooms**
+
+![](/images/locker.jpg)
