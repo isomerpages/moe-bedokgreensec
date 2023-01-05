@@ -16,7 +16,7 @@ description: ""
 
 ###### 9.30 am-10.30 am & 11.30 am-12.30 pm
 
-<p><a href="[https://go.gov.sg/bgssoutreach"><img style="width:100%" src="images/chtr-1024x220.png"></a></p>
+<p><a href="https://go.gov.sg/bgssoutreach"><img style="width:100%" src="images/chtr-1024x220.png"></a></p>
 
 ![](/images/10-reason-why-1-1024x300.png)
 
