@@ -24,9 +24,9 @@ description: ""
 
 <p><a href="/uniqueccas/"><img style="width:100%" src="images/CCA-1024x442.png"></a></p>
 
-<p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:100%" src="images/alp-1024x413.png"></a></p>
+<p><a href="/alp/"><img style="width:100%" src="images/alp-1024x413.png"></a></p>
 
-<p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:100%" src="images/Open%20House/school.png"></a></p>
+<p><a href="/mydreamschool/"><img style="width:100%" src="images/Open%20House/school.png"></a></p>
 
 <p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:100%" src="images/teachers-1024x402.png"></a></p>
 
