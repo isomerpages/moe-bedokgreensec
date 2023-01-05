@@ -20,9 +20,9 @@ description: ""
 
 ![](/images/10-reason-why-1-1024x300.png)
 
-<p><a href=""><img style="width:100%" src="images/arts-1024x435.png"></a></p>
+<p><a href="/awesomeperformingarts/"><img style="width:100%" src="images/arts-1024x435.png"></a></p>
 
-<p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:100%" src="images/CCA-1024x442.png"></a></p>
+<p><a href="/uniqueccas/"><img style="width:100%" src="images/CCA-1024x442.png"></a></p>
 
 <p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:100%" src="images/alp-1024x413.png"></a></p>
 
