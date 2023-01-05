@@ -1,10 +1,10 @@
 logo: /images/BGSS-School-Crest.jpg
 links:
   - title: About Us
-    url: /about-us/permalink
+    url: /about-us/
     sublinks:
       - title: Our Vision, Mission, Values
-        url: /about-us/permalink
+        url: /about-us/
       - title: Our Heritage
         url: /our-heritage/permalink
       - title: Our People
