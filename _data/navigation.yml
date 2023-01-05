@@ -37,17 +37,17 @@ links:
     url: /permalink
     sublinks:
       - title: Our School Achievements
-        url: /schoolachievements/permalink
+        url: /schoolachievements/
       - title: Our Academic Achievements
-        url: /academicachievements/permalink
+        url: /academicachievements/
       - title: Our CCA Achievements
-        url: /ccaachievements/permalink
+        url: /ccaachievements/
       - title: Our Alumni Achievements
-        url: /alumniachievements/permalink
+        url: /alumniachievements/
   - title: Our Partners
     url: /advisory/permalink
     sublinks:
       - title: "School Advisory Committee "
-        url: /advisory/permalink
+        url: /advisory/
       - title: Parents
-        url: /psg/permalink
+        url: /psg/
