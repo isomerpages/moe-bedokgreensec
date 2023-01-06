@@ -1,8 +1,10 @@
 ---
 title: Our Heritage
-permalink: /our-heritage/permalink
+permalink: /about-us/our-heritage/
 description: ""
 ---
+
+
 ![](/images/Our-Heritage-e1570003294657.jpg)
 
 Bedok Green Secondary School first opened its doors to students on 2 January 2001 at its holding school located at Bedok South Road. The pioneer staff spent three months working on the school vision and mission, designing the school crest, the school crest, the school flag and composing the lyrics for the school song.

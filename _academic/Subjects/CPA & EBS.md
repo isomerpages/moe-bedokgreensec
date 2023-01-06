@@ -1,15 +1,13 @@
 ---
 title: CPA & EBS
-permalink: /cpa/permalink
+permalink: /cpa/
 description: ""
 third_nav_title: Subjects
 ---
 
-
-
 ![](/images/cpaebs.jpg)
 
-**“A computer is the most incredible tool we’ve ever seen. It can be a writing tool, a communications centre, a super calculator, a planner, a filer, and an artistic instrument all in one, just by being given new instructions, or software, to work from. There are no other tools that have the power and versatility of a computer. We have no idea how far it’s going to go.”
+**“A computer is the most incredible tool we’ve ever seen. It can be a writing tool, a communications centre, a super calculator, a planner, a filer, and an artistic instrument all in one, just by being given new instructions, or software, to work from. There are no other tools that have the power and versatility of a computer. We have no idea how far it’s going to go.”<br>
 Steve Jobs**
 
 **Computer Applications**
@@ -20,11 +18,18 @@ What are the possibilities that you can do with computers? The invention and adv
 
 The hands-on and interactive nature of the subject effectively engages students in their learning. Through engaged learning, students are equipped with a range of Information and Communication Technology (ICT) skills that complements the teaching and learning of the various disciplines in secondary school and higher institutes.
 
-Our Enrichment
+**Our Enrichment**
+
 We believe there is a need for students to acquire skills in using a variety of computer application software and hardware to accomplish tasks and communicate ideas. In order to achieve this, our students are given opportunities to explore more at higher institutes of learning and to make sense of their learning in the real-world.
 
 “It’s not about ideas. It’s about making ideas happen.”
 Scott Belsky
+
+
+-------------
+
+**“It’s not about ideas. It’s about making ideas happen.”<br>
+Scott Belsky**
 
 **Elements of Business Skills**
 

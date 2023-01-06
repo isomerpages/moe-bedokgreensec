@@ -1,12 +1,12 @@
 ---
 title: Education & Career Guidance (ECG)
-permalink: /student-development/ecg/permalink
+permalink: /student-development/ecg/permalink/
 description: ""
 third_nav_title: CCE
 ---
 ![](/images/Sexuality-Education-1-e1570004783817.jpg)
 
-*“Dreams are extremely important. You can’t do it unless you imagine it.”*
+*“Dreams are extremely important. You can’t do it unless you imagine it.”*<br>
 **George Lucas**
 
 When Steve Jobs first started Apple, his aspiration was to get a computer in the hands of everyday people. And today, he has succeeded beyond his wildest dream. Today, Apple is the world’s largest information technology company. This, together with hard work is the power of a dream.

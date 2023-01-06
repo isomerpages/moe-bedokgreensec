@@ -1,55 +1,53 @@
 logo: /images/BGSS-School-Crest.jpg
 links:
   - title: About Us
-    url: /about-us/permalink
+    url: /about-us/
     sublinks:
       - title: Our Vision, Mission, Values
-        url: /about-us/permalink
+        url: /about-us/
       - title: Our Heritage
         url: /our-heritage/permalink
       - title: Our People
-        url: /message/permalink
+        url: /about-us/our-people/school-management-committee/
       - title: Our Contact
-        url: /our-contact/permalink
+        url: /our-contact/
   - title: Academic Curriculum
-    url: /aesthetics/permalink
+    url: /aesthetics/
     sublinks:
       - title: Academic
-        url: /aesthetics/permalink
+        url: /aesthetics/
       - title: "Subject-based Banding "
-        url: /sbb/permalink
+        url: /sbb/
   - title: "Student Development "
-    url: /student-development/Co-Curricular-Activities/permalink
+    url: /student-development/Co-Curricular-Activities/
     sublinks:
-      - title: Co-curricular Activites
+      - title: Co-curricular Activities
         url: /student-development/Co-Curricular-Activities/permalink
       - title: Student Leadership Programme
-        url: /student-development/Student-Councillors/permalink
+        url: /student-development/Student-Councillors/
       - title: CCE
-        url: /student-development/CCE/permalink
+        url: /student-development/CCE/
       - title: "Student Link "
-        url: /student-development/uniform/permalink
-      - title: Talent Development Program
-        url: /tdp/permalink
-      - title: Level Program
-        url: /student-development/camps/permalink
+        url: /student-development/uniform/
+      - title: Talent Development Programme
+        url: /tdp/
+      - title: Level Programme
+        url: /student-development/camps/
   - title: Our Achievements
     url: /permalink
     sublinks:
       - title: Our School Achievements
-        url: /schoolachievements/permalink
+        url: /schoolachievements/
       - title: Our Academic Achievements
-        url: /academicachievements/permalink
+        url: /academicachievements/
       - title: Our CCA Achievements
-        url: /ccaachievements/permalink
-      - title: Our Staff Achievements
-        url: staffachievements/permalink
+        url: /ccaachievements/
       - title: Our Alumni Achievements
-        url: /alumniachievements/permalink
+        url: /alumniachievements/
   - title: Our Partners
-    url: /advisory/permalink
+    url: /our-partners/advisory/
     sublinks:
       - title: "School Advisory Committee "
-        url: /advisory/permalink
+        url: /our-partners/advisory/
       - title: Parents
-        url: /psg/permalink
+        url: /our-partners/psg/

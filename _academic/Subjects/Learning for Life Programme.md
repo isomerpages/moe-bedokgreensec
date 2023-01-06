@@ -1,15 +1,12 @@
 ---
 title: Learning for Life Programme
-permalink: /llp/permalink
+permalink: /llp/permalink/
 description: ""
 third_nav_title: Subjects
 ---
-
-
-
 ![](/images/LLP.jpg)
 
-**“Creativity takes courage.”
+**“Creativity takes courage.”<br>
 Henri Matisse**
 
 Creativity is something often thought as being deeply ingrained in everyone. But expressing the things one is passionate about takes courage. Our Learning for Life Programme (LLP) will create meaningful learning experiences for you to express and share your inner most thoughts. You will be inspired to see how the Performing Arts has the power to move hearts and minds to greater heights.

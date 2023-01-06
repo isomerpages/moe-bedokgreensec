@@ -1,13 +1,12 @@
 ---
 title: Cyber Wellness (CW)
-permalink: /student-development/cyberwellness/permalink
+permalink: /student-development/cyberwellness/permalink/
 description: ""
 third_nav_title: CCE
 ---
 ![](/images/Cyberwellness.jpg)
 
-*“Technology is a useful servant but a Dangerous Master.”*
-
+*“Technology is a useful servant but a Dangerous Master.”*<br>
 **Christian Lous Lange**
 
 The age of instant information is upon us, and our students are the digital natives. So much power and promise lies in the palm of their hands (literally) but with great power, comes great responsibility. As educators, we have the responsibility to guide our students to be conscientious users of technology.

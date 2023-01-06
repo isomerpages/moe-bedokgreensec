@@ -1,6 +1,6 @@
 ---
 title: Our School Achievements
-permalink: /schoolachievements/permalink
+permalink: /schoolachievements/
 description: ""
 ---
 
@@ -8,7 +8,10 @@ description: ""
 
 **Green Audit Award**
 
-![](/images/SGA-Logo-768x543.jpg)
+
+<img src="/images/SGA-Logo-768x543.jpg"  
+     style="width:35%">
+
 
 The Green Audit award is an annual environmental audit programme organised by the Singapore Environmental Council (SEC).
 

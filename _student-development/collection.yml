@@ -2,18 +2,6 @@ collections:
   student-development:
     output: true
     order:
-      - Student Link/.keep
-      - Student Link/School Uniform Supplier.md
-      - Student Link/School Booklist.md
-      - Student Link/Financial Assistance Schemes & Awards.md
-      - Student Link/Post Secondary Options and Admission Information.md
-      - CCE/.keep
-      - CCE/Character & Citizenship Education.md
-      - CCE/Citizenship Education.md
-      - CCE/Education & Career Guidance (ECG).md
-      - CCE/Cyber Wellness (CW).md
-      - CCE/Sexuality Education Programme.md
-      - CCE/Values in Action (VIA).md
       - Co Curricular Activities/.keep
       - Co Curricular Activities/Our CCAs.md
       - Co Curricular Activities/Environment Club.md
@@ -22,9 +10,9 @@ collections:
       - Co Curricular Activities/Youth Flying Club.md
       - Co Curricular Activities/Badminton.md
       - Co Curricular Activities/Basketball.md
-      - Co Curricular Activities/Canoeing.md
       - Co Curricular Activities/Football.md
       - Co Curricular Activities/Softball.md
+      - Co Curricular Activities/Tchoukball.md
       - Co Curricular Activities/Wushu.md
       - Co Curricular Activities/Art and Craft.md
       - Co Curricular Activities/Choir.md
@@ -39,6 +27,18 @@ collections:
       - Student Leadership Programme/CCA Leaders.md
       - Student Leadership Programme/CLASS Leaders.md
       - Student Leadership Programme/House Leaders.md
+      - CCE/.keep
+      - CCE/Character & Citizenship Education.md
+      - CCE/Citizenship Education.md
+      - CCE/Education & Career Guidance (ECG).md
+      - CCE/Cyber Wellness (CW).md
+      - CCE/Sexuality Education Programme.md
+      - CCE/Values in Action (VIA).md
+      - Student Link/.keep
+      - Student Link/School Uniform Supplier.md
+      - Student Link/School Booklist.md
+      - Student Link/Financial Assistance Schemes & Awards.md
+      - Student Link/Post Secondary Options and Admission Information.md
       - Talent Development Programme.md
       - Level Programme/.keep
       - Level Programme/Sec 1 Orientation and Camps.md

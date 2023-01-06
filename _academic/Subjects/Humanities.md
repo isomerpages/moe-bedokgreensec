@@ -1,16 +1,13 @@
 ---
 title: Humanities
-permalink: /humans/permalink
+permalink: /humans/permalink/
 description: ""
 third_nav_title: Subjects
 ---
-
-
-
 ![](/images/humans1.jpg)
 
 **“The calling of the humanities is to make us truly human
-in the best sense of the word.”
+in the best sense of the word.”<br>
 J. Irwin Miller****
 
 Through the work of humanities scholars, we learn about the values of different cultures, about our society and our environment. Their efforts preserve the great accomplishments of the past, help us understand the world we live in, and give us tools to imagine the future. In difficult times, people inevitably turn to the humanities to try to understand adversity.

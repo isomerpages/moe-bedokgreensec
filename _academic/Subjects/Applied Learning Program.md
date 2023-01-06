@@ -1,15 +1,14 @@
 ---
 title: Applied Learning Program
-permalink: /alp/permalink
+permalink: /academic/alp/
 description: ""
 third_nav_title: Subjects
 ---
 
 
-
 ![](/images/Applied-learning-programme.jpg)
 
-**“Design is so simple. That’s why it’s so complicated.”
+**“Design is so simple. That’s why it’s so complicated.”<br>
 Paul Rand**
 
 Ever wondered how a motion sensor light works? Or how a number keypad is able to open the door when the correct code is entered? With an intelligent circuit board, we can instruct it to make decisions when certain conditions are met.

@@ -1,8 +1,9 @@
 ---
 title: Subject Based Banding
-permalink: /sbb/permalink
+permalink: /sbb/
 description: ""
 ---
+
 
 
 ![](/images/Subject-based-banding.jpg)

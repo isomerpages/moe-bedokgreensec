@@ -1,6 +1,6 @@
 ---
 title: Sexuality Education Programme
-permalink: /student-development/sexed/permalink
+permalink: /student-development/sexed/permalink/
 description: ""
 third_nav_title: CCE
 ---
@@ -12,9 +12,9 @@ third_nav_title: CCE
 mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 
 2. The goals of Sexuality Education are to:
-* To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;
-* To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
-* To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.
+* To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate <u>knowledge</u> on human sexuality and the consequences of sexual activity;
+* To help students know themselves and build healthy and rewarding relationships through the acquisition of <u>social and emotional skills</u> of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
+* To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of <u>positive mainstream values and attitudes</u> about sexuality.
 3. The key messages of Sexuality Education are:
 * Love and respect yourself as you love and respect others;
 * Build positive relationships based on love and respect (which are the foundation for strong families);
@@ -52,15 +52,21 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexua
 **Secondary 5**
 ![](/images/sec5.jpg)
 
-**eTeens Programme:**
+**<u>eTeens</u> Programme:**
 
 1. eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.
 2. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
 
+**At Bedok Green Secondary School, the _eTeens_ programme will be implemented as follows in 2022:**
+
+<font size=5>(Missing Image Here)</font>
+
+
+
 **Information for Parents**
 
 1. Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
-2. Parents who wish to opt their children out of the Sexuality Education lessons and /or eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year via Parents’ Gateway. The completed form is to be submitted by 17/01/2022.
+2. Parents who wish to opt their children out of the **Sexuality Education lessons and /or eTeens programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year via Parents’ Gateway. The completed form is to be submitted by **17/01/2022**.
 3. Parents can contact the school at 6446 3301, Miss Nurmuhaina or email at  <a href="mailto:nurmuhaina_bte_bakar@moe.edu.sg">nurmuhaina_bte_bakar@moe.edu.sg</a> for discussion or to seek clarification about the school’s sexuality education programme.
 4. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
 
@@ -87,4 +93,4 @@ The programme includes a 1-hour talk and a 1-hour classroom-based lesson:
 
 Additional information is available on the MOE [website](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education).
 
-If you do not wish your child/ward to attend this programme, please opt out. For further clarifications about this programme, you may email <a href="mailto:hpb_yhp@hpb.gov.sg"></a>hpb_yhp@hpb.gov.sg.
+If you <u>do not</u> wish your child/ward to attend this programme, please opt out. For further clarifications about this programme, you may email <a href="mailto:hpb_yhp@hpb.gov.sg">hpb_yhp@hpb.gov.sg</a>

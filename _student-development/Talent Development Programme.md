@@ -1,13 +1,11 @@
 ---
 title: Talent Development Programme
-permalink: /tdp/permalink
+permalink: /tdp/permalink/
 description: ""
 ---
 ![](/images/Talent-Development-Programme.jpg)
 
-*“You just have to find that thing that's special about you that distinguishes you from all the others, and through true talent, hard work, and passion, anything can happen.”*
-      
-**Dr. Dre**
+*“You just have to find that thing that's special about you that distinguishes you from all the others, and through true talent, hard work, and passion, anything can happen.”*<br>**Dr. Dre**
 
 Everybody is born with a talent ingrained in them. Here at Bedok Green Secondary School, we groom it!
 

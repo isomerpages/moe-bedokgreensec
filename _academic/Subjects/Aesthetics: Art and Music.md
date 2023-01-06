@@ -1,21 +1,19 @@
 ---
 title: "Aesthetics: Art and Music"
-permalink: /aesthetics/permalink
+permalink: /aesthetics/
 description: ""
 third_nav_title: Subjects
 ---
 
-
-
 ![](/images/Art-Music-1-e1573530834765.jpg)
 
-**“Art should comfort the disturbed and disturb the comfortable.”
+**“Art should comfort the disturbed and disturb the comfortable.”<br>
 Banksy**
 
 The existence of Art is to challenge and grow us as individuals. Art is an exploration and expression of inner truth. In Bedok Green Secondary School, our Aesthetics programme will create purposeful learning experiences for you to explore various themes to discover more about yourself.
 
 **Our Curriculum**
-****
+
 Imagination + Confidence + Curiosity + Innovation - FEAR= artists who have the courage to express and learn in an environment that brings joy and in turn encourage others to dare the impossible.  Through exploration, experimentation and active discourse on themes, our Aesthetics programmes encourage you to try different mediums, see different perspectives and live through different experiences.
 
 **Our Enrichment**

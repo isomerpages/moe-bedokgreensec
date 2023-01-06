@@ -1,9 +1,10 @@
 ---
 title: Our CCAs
-permalink: /student-development/Co-Curricular-Activities/permalink
+permalink: /student-development/Co-Curricular-Activities/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
+
 ![](/images/CCA-Banner-Photo.jpg)
 
 **Co-curricular Activities**
@@ -18,37 +19,46 @@ Simply click on any one of our CCAs to find out more about them!!
 
 **Club and Societies**
 
-![](/images/Clubs-Societies-icon-300x300.jpg)
 
-* ENVIRONMENT CLUB
-* INFOCOMM CLUB
-* OUTDOOR ADVENTURE CLUB
-* YOUTH FLYING CLUB
+<img src="/images/Clubs-Societies-icon-300x300.jpg"  
+     style="width:35%">
+
+
+* [ENVIRONMENT CLUB](https://moe-bedokgreensec-staging.netlify.app/student-development/environment-club/permalink)
+* [INFOCOMMM CLUB](https://moe-bedokgreensec-staging.netlify.app/student-development/Infocomm-Club/permalink)
+* [OUTDOOR ADVENTURE CLUB](https://moe-bedokgreensec-staging.netlify.app/student-development/odac/permalink)
+* [YOUTH FLYING CLUB](https://moe-bedokgreensec-staging.netlify.app/student-development/yfc/permalink)
 
 **Physical Sports**
-![](/images/Physical-Sports-icon-300x300.jpg)
 
-* BADMINTON
-* BASKETBALL
-* FOOTBALL
-* SOFTBALL
-* WUSHU
-* TCHOUKBALL (Opening in 2022)
+<img src="/images/Physical-Sports-icon-300x300.jpg"  
+     style="width:35%">
+
+* [BADMINTON](https://moe-bedokgreensec-staging.netlify.app/student-development/Badminton/permalink)
+* [BASKETBALL](https://moe-bedokgreensec-staging.netlify.app/student-development/Basketball/permalink)
+* [FOOTBALL](https://moe-bedokgreensec-staging.netlify.app/student-development/Football/permalink)
+* [SOFTBALL](https://moe-bedokgreensec-staging.netlify.app/student-development/Softball/permalink)
+* [TCHOUKBALL](https://moe-bedokgreensec-staging.netlify.app/student-development/Tchoukball/permalink/)
+* [WUSHU](https://moe-bedokgreensec-staging.netlify.app/student-development/Wushu/permalink)
+
 
 **Visual & Performing Arts**
 
-![](/images/Visual-Performing-Arts-icon-300x300.jpg)
+<img src="/images/Visual-Performing-Arts-icon-300x300.jpg"  
+     style="width:35%">
 
-* ART AND CRAFT
-* CHOIR
-* CONCERT BAND
-* DANCE
-* DRAMA
+* [ART AND CRAFT](https://moe-bedokgreensec-staging.netlify.app/student-development/ArtandCraft/permalink)
+* [CHOIR](https://moe-bedokgreensec-staging.netlify.app/student-development/Choir/permalink)
+* [CONCERT BAND](https://moe-bedokgreensec-staging.netlify.app/student-development/ConcertBand/permalink)
+* [DANCE](https://moe-bedokgreensec-staging.netlify.app/student-development/Dance/permalink)
+* [DRAMA](https://moe-bedokgreensec-staging.netlify.app/student-development/Drama/permalink)
 
 **Uniformed Groups**
 
-![](/images/Uniformed-Groups-icon-300x300.jpg)
 
-* NCC (LAND)
-* NPCC
-* SAINT JOHN BRIGADE
+<img src="/images/Uniformed-Groups-icon-300x300.jpg"  
+     style="width:35%">
+
+* [NCC (LAND)](https://moe-bedokgreensec-staging.netlify.app/student-development/ncc/permalink)
+* [NPCC](https://moe-bedokgreensec-staging.netlify.app/student-development/NPCC/permalink)
+* [SAINT JOHN BRIGADE](https://moe-bedokgreensec-staging.netlify.app/student-development/sjb/permalink)
