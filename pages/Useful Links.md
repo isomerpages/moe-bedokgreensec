@@ -1,6 +1,6 @@
 ---
 title: Useful Links
-permalink: /links/permalink
+permalink: /links/permalink/
 description: ""
 ---
 * [BGSS Buzz @ Facebook](https://www.facebook.com/BGSS-Buzz-169809583046396/)
