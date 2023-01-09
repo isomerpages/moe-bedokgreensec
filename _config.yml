@@ -49,6 +49,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-bedokgreensec-staging.netlify.app
-prod: https://moe-bedokgreensec-prod.netlify.app
+staging: https://staging.d3i9w0wa3mkcvj.amplifyapp.com
+prod: https://master.d3i9w0wa3mkcvj.amplifyapp.com
 is_government: false
