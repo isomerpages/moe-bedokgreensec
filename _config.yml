@@ -52,4 +52,4 @@ plugins:
 staging: https://staging.d3i9w0wa3mkcvj.amplifyapp.com
 prod: https://master.d3i9w0wa3mkcvj.amplifyapp.com
 is_government: false
-resources_name: eopen-house
+resources_name: "2022"
