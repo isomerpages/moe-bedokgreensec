@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Bedok Green Secondary School
+description: Believe and Grow
+image: /images/BGSS-School-Crest.jpg
 permalink: /
 notification: ""
 sections:
@@ -19,3 +19,4 @@ sections:
           description: ""
           url: /links/permalink
 ---
+
