@@ -3,21 +3,20 @@ title: Our Academic Achievements
 permalink: /academicachievements/
 description: ""
 ---
-
 ![](/images/bgss4.jpg)
 
-**2021 GCE N Level Examination**
+**2022 GCE N Level Examination**
 
-* <b>5 subjects with 100% passes</b> 
+* <b>7 subjects with 100% passes</b> 
 * <b>67.7%</b> qualified for 5NA, <b>53.8%</b> for Direct Entry Scheme to Poly (DPP), <b>6.2%</b> for Polytechnic Foundation Programme (PFP).
 
-**2021 GCE O Level Examination**
+**2022 GCE O Level Examination**
 
 * <b>4 subjects with 100% passes </b>
 * Percentage qualify for:
-   * Junior College: <b>1 in 5</b>
+   * Junior College: <b>1 in 3</b>
    * Pre-University: <b>1 in 2</b>
-   * Polytechnic: <b>3 in 4</b>
+   * Polytechnic: <b>4 in 5</b>
 
 **Success Stories**
 
