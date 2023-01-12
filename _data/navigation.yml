@@ -6,7 +6,7 @@ links:
       - title: Our Vision, Mission, Values
         url: /about-us/
       - title: Our Heritage
-        url: /our-heritage/permalink
+        url: /our-heritage/
       - title: Our People
         url: /about-us/Our-People/School-Management-Committee/
       - title: Our Contact
@@ -34,7 +34,7 @@ links:
       - title: Level Programme
         url: /student-development/camps/
   - title: Our Achievements
-    url: /permalink
+    url: /schoolachievements/
     sublinks:
       - title: Our School Achievements
         url: /schoolachievements/
