@@ -8,7 +8,7 @@ description: ""
 **2022 GCE N Level Examination**
 
 * <b>7 subjects with 100% passes</b> 
-* <b>67.7%</b> qualified for 5NA, <b>53.8%</b> for Direct Entry Scheme to Poly (DPP), <b>6.2%</b> for Polytechnic Foundation Programme (PFP).
+* <b>69.3%</b> qualified for 5NA, <b>52%</b> for Direct Entry Scheme to Poly (DPP), <b>13.3%</b> for Polytechnic Foundation Programme (PFP).
 
 **2022 GCE O Level Examination**
 
