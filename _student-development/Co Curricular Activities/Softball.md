@@ -1,9 +1,10 @@
 ---
 title: Softball
-permalink: /student-development/Softball/permalink
+permalink: /student-development/Softball/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
+
 ![](/images/Physical-Sports-banner.jpg)
 
 **Softball**

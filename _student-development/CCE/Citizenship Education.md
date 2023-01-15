@@ -1,9 +1,10 @@
 ---
 title: Citizenship Education
-permalink: /student-development/Citizenship/permalink/
+permalink: /student-development/Citizenship/
 description: ""
 third_nav_title: CCE
 ---
+
 ![](/images/Character-and-Citizenship.jpg)
 
 *“Whoever governs Singapore must have that iron in him. Or give it up. This is not a game of cards. This is your life and mine.”* <br>

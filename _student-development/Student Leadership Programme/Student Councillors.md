@@ -1,9 +1,10 @@
 ---
 title: Student Councillors
-permalink: /student-development/Student-Councillors/permalink
+permalink: /student-development/Student-Councillors/
 description: ""
 third_nav_title: Student Leadership Programme
 ---
+
 ![](/images/slp.jpg)
 
 **Student Councillors**

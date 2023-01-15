@@ -1,9 +1,10 @@
 ---
 title: Football
-permalink: /student-development/Football/permalink
+permalink: /student-development/Football/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
+
 ![](/images/Physical-Sports-banner.jpg)
 
 **Football**

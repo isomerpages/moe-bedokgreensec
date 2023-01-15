@@ -1,9 +1,10 @@
 ---
 title: NCC (Land)
-permalink: /student-development/ncc/permalink
+permalink: /student-development/ncc/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
+
 ![](/images/Uniformed-Groups-banner.jpg)
 
 **NCC (Land)**

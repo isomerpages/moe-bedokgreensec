@@ -1,9 +1,10 @@
 ---
 title: Sexuality Education Programme
-permalink: /student-development/sexed/permalink/
+permalink: /student-development/sexed/
 description: ""
 third_nav_title: CCE
 ---
+
 ![](/images/Sexuality-education-programme.jpg)
 
 **MOE Sexuality Education in Schools**

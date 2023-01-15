@@ -1,9 +1,10 @@
 ---
 title: CCA Leaders
-permalink: /student-development/ccaleaders/permalink
+permalink: /student-development/ccaleaders/
 description: ""
 third_nav_title: Student Leadership Programme
 ---
+
 ![](/images/CCA-Leaders.jpg)
 
 **CCA Leaders**

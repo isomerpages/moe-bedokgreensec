@@ -1,9 +1,10 @@
 ---
 title: Cyber Wellness (CW)
-permalink: /student-development/cyberwellness/permalink/
+permalink: /student-development/cyberwellness/
 description: ""
 third_nav_title: CCE
 ---
+
 ![](/images/Cyberwellness.jpg)
 
 *“Technology is a useful servant but a Dangerous Master.”*<br>

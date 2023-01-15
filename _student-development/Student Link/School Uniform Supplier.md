@@ -1,9 +1,11 @@
 ---
 title: School Uniform Supplier
-permalink: /student-development/uniform/permalink/
+permalink: /student-development/studentlink/uniform/
 description: ""
 third_nav_title: Student Link
 ---
+
+
 ![](/images/studentlink.jpg)
 
 **School Uniform Supplier**

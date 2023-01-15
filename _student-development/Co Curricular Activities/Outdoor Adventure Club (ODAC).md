@@ -1,9 +1,10 @@
 ---
 title: Outdoor Adventure Club (ODAC)
-permalink: /student-development/odac/permalink
+permalink: /student-development/odac/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
+
 ![](/images/clubsandsocieties.jpg)
 
 **Outdoor Adventure Club (ODAC)**

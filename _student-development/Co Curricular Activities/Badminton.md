@@ -1,9 +1,10 @@
 ---
 title: Badminton
-permalink: /student-development/Badminton/permalink
+permalink: /student-development/Badminton/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
+
 ![](/images/Physical-Sports-banner.jpg)
 
 **Badminton**

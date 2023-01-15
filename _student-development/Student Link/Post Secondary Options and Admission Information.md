@@ -1,9 +1,11 @@
 ---
 title: Post Secondary Options and Admission Information
-permalink: /student-development/postsec/permalink/
+permalink: /student-development/studentlink/postsec/
 description: ""
 third_nav_title: Student Link
 ---
+
+
 **Post-Secondary Options and Admission Information**
 
 <style type="text/css">

@@ -1,9 +1,10 @@
 ---
 title: Tchoukball
-permalink: /student-development/Tchoukball/permalink/
+permalink: /student-development/Tchoukball/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
+
 ![](/images/Physical-Sports-banner.jpg)
 
 **Tchoukball**

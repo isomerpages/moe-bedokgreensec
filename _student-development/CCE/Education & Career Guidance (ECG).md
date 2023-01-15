@@ -1,9 +1,10 @@
 ---
 title: Education & Career Guidance (ECG)
-permalink: /student-development/ecg/permalink/
+permalink: /student-development/ecg/
 description: ""
 third_nav_title: CCE
 ---
+
 ![](/images/Sexuality-Education-1-e1570004783817.jpg)
 
 *“Dreams are extremely important. You can’t do it unless you imagine it.”*<br>

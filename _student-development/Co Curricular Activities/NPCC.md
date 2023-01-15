@@ -1,9 +1,10 @@
 ---
 title: NPCC
-permalink: /student-development/NPCC/permalink
+permalink: /student-development/NPCC/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
+
 ![](/images/Uniformed-Groups-banner.jpg)
 
 **NPCC**

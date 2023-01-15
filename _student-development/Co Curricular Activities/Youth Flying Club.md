@@ -1,9 +1,10 @@
 ---
 title: Youth Flying Club
-permalink: /student-development/yfc/permalink
+permalink: /student-development/yfc/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
+
 ![](/images/clubsandsocieties.jpg)
 
 **Youth Flying Club**

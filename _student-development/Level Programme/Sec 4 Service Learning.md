@@ -1,9 +1,10 @@
 ---
 title: Sec 4 Service Learning
-permalink: /student-development/sec4/permalink
+permalink: /student-development/sec4/
 description: ""
 third_nav_title: Level Programme
 ---
+
 ![](/images/BGSS-Website-Photoshoot-5842_academiccurriculum_main.jpg)
 
 **Sec 4 Service Learning**

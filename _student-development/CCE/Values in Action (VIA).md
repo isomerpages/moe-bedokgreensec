@@ -1,9 +1,10 @@
 ---
 title: Values in Action (VIA)
-permalink: /student-development/via/permalink/
+permalink: /student-development/via/
 description: ""
 third_nav_title: CCE
 ---
+
 ![](/images/VIA-e1570004908431.jpg)
 
 *“Only a life lived for others is a life worthwhile.”*<br>

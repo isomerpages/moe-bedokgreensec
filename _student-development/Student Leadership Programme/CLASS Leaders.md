@@ -1,9 +1,10 @@
 ---
 title: CLASS Leaders
-permalink: /student-development/CLASSLeaders/permalink
+permalink: /student-development/CLASSLeaders/
 description: ""
 third_nav_title: Student Leadership Programme
 ---
+
 ![](/images/CLASS-Leaders.jpg)
 
 **CLASS Leaders**

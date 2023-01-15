@@ -1,9 +1,10 @@
 ---
 title: Sec 3 MOE OBS Challenge Programme
-permalink: /student-development/sec3/permalink
+permalink: /student-development/sec3/
 description: ""
 third_nav_title: Level Programme
 ---
+
 ![](/images/BGSS-Website-Photoshoot-5842_academiccurriculum_main.jpg)
 
 **Sec 3 MOE-OBS Challenge Programme**

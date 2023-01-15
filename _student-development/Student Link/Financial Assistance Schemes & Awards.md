@@ -1,9 +1,11 @@
 ---
 title: Financial Assistance Schemes & Awards
-permalink: /student-development/fas/permalink/
+permalink: /student-development/studentlink/fas/
 description: ""
 third_nav_title: Student Link
 ---
+
+
 ![](/images/studentlink.jpg)
 
 **Financial Assistance Schemes (FAS)**

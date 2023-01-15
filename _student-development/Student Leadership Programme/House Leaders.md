@@ -1,9 +1,10 @@
 ---
 title: House Leaders
-permalink: /student-development/HouseLeaders/permalink
+permalink: /student-development/HouseLeaders/
 description: ""
 third_nav_title: Student Leadership Programme
 ---
+
 ![](/images/slp.jpg)
 
 **House Leaders**

@@ -1,9 +1,10 @@
 ---
 title: Wushu
-permalink: /student-development/Wushu/permalink
+permalink: /student-development/Wushu/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
+
 ![](/images/Physical-Sports-banner.jpg)
 
 **Wushu**

@@ -1,9 +1,10 @@
 ---
 title: Saint John Brigade
-permalink: /student-development/sjb/permalink
+permalink: /student-development/sjb/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
+
 ![](/images/Uniformed-Groups-banner.jpg)
 
 **Saint John Brigade**

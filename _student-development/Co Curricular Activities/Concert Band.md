@@ -1,9 +1,10 @@
 ---
 title: Concert Band
-permalink: /student-development/ConcertBand/permalink
+permalink: /student-development/ConcertBand/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
+
 ![](/images/Visual-Performing-Arts-banner.jpg)
 
 **Concert Band**

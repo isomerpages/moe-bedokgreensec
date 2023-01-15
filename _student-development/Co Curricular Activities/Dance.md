@@ -1,9 +1,10 @@
 ---
 title: Dance
-permalink: /student-development/Dance/permalink/
+permalink: /student-development/Dance/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
+
 ![](/images/Visual-Performing-Arts-banner.jpg)
 
 **Dance**

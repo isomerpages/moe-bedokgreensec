@@ -1,9 +1,10 @@
 ---
 title: Choir
-permalink: /student-development/Choir/permalink
+permalink: /student-development/Choir/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
+
 ![](/images/Visual-Performing-Arts-banner.jpg)
 
 **Choir**

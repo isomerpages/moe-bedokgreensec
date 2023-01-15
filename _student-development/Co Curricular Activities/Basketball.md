@@ -1,9 +1,10 @@
 ---
 title: Basketball
-permalink: /student-development/Basketball/permalink
+permalink: /student-development/Basketball/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
+
 ![](/images/Physical-Sports-banner.jpg)
 
 **Basketball**
