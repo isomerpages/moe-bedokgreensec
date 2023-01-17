@@ -82,31 +82,6 @@ You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more i
 **Information for Parents**
 
 10. Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
-11. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form has been distributed to parents via Parents’ Gateway at the start of the year and is also downloadable [here](https://drive.google.com/file/d/1TjD9pjr9iIx6s2AZIBZvZ3htoPDs_yEq/view?usp=share_link). The completed form is to be submitted by **17/01/2022**.
-3. Parents can contact the school at 6446 3301, Miss Nurmuhaina or email at  <a href="mailto:nurmuhaina_bte_bakar@moe.edu.sg">nurmuhaina_bte_bakar@moe.edu.sg</a> for discussion or to seek clarification about the school’s sexuality education programme.
-4. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
-
-**Empowered Teens (eTeens)**
-
-**STI (Sexually Transmitted Infection) /HIV (Human Immunodeficiency Virus) Prevention Programme**
-
- 
-
-HPB, in collaboration with the Ministry of Health (MOH) and the Ministry of Education (MOE), conduct a programme titled Empowered Teens (eTeens) to educate secondary 3 students about preventing STIs/HIV. The programme provides accurate information to help students make good life choices by raising awareness about how STIs/HIV are prevented to discourage risky sexual behaviours.
-
-The following topics are taught:
-
-1. awareness of the different sexually transmitted infections (STIs) and HIV/AIDS;
-2. modes of transmission for STIs and HIV/AIDS;
-3. modes of protection against infection, specifically abstinence and the correct use of condoms;
-4. skills for decision-making, assertiveness, negotiation to say “no” to peer pressure to have pre-marital sex; and
-5. consequences and impact of STIs/HIV.
-
-The programme includes a 1-hour talk and a 1-hour classroom-based lesson:
-
-1. The talk includes a multi-media presentation using a video and presentation to convey key learning points. The video depicts how two teenagers at a birthday party weigh considerations when resisting peer pressure and eventually make responsible decision Presenters are engaged by the Health Promotion Board (HPB) and follow a presentation guide approved by MOE.
-2. The classroom-based lesson reinforces skills of responsible decision-making, negotiation and assertiveness, based on the values which students have been brought up with, in the family and the community. The training for teachers who conduct the classroom-based lesson is provided for by MOE.
-
-Additional information is available on the MOE [website](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education).
-
-If you <u>do not</u> wish your child/ward to attend this programme, please opt out. For further clarifications about this programme, you may email <a href="mailto:hpb_yhp@hpb.gov.sg">hpb_yhp@hpb.gov.sg</a>
+11. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form has been distributed to parents via Parents’ Gateway at the start of the year and is also downloadable [here](https://drive.google.com/file/d/1TjD9pjr9iIx6s2AZIBZvZ3htoPDs_yEq/view?usp=share_link). The completed form is to be submitted by 03/02/2023.
+12. Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://drive.google.com/file/d/124U6pSMVYGqfClnr_rhLgXyCktjxANfB/view?usp=share_link). The completed form is to be submitted by 03/02/2023.
+13. Parents can contact the school at 6446 3301 for discussion or to seek clarification about the school’s Sexuality Education programme.
