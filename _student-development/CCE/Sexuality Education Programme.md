@@ -48,13 +48,18 @@ You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more i
 
 **Secondary 2**
 ![](/images/Picture1.png)
-
+![](/images/Picture5a.png)
+![](/images/Picture6.png)
+![](/images/Picture7.png)
 
 **Secondary 3**
-![](/images/sec-3-1024x715.jpg)
+![](/images/Picture1.png)
+![](/images/Picture8.png)
+![](/images/Picture9.png)
 
 **Secondary 4**
-![](/images/sec4.jpg)
+![](/images/Picture1.png)
+
 
 **Secondary 5**
 ![](/images/sec5.jpg)
