@@ -38,10 +38,13 @@ You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more i
 
 7. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-**At Bedok Green Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2022:**
+**At Bedok Green Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2023:**
 
 **Secondary 1**
-![](/images/sec-1.jpg)
+![](/images/Picture1.png)
+![](/images/Picture2.png)
+![](/images/Picture3.png)
+![](/images/Picture4.png)
 
 **Secondary 2**
 ![](/images/sec-2-1024x453.jpg)
