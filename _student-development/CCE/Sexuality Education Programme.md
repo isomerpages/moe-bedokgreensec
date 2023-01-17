@@ -69,19 +69,20 @@ You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more i
 
 **<u>eTeens</u> Programme:**
 
-1. eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.
-2. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
+8. eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.
 
-**At Bedok Green Secondary School, the _eTeens_ programme will be implemented as follows in 2022:**
+9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
 
-<font size=5>(Missing Image Here)</font>
+**At Bedok Green Secondary School, the _eTeens_ programme will be implemented as follows in 2023:**
+
+![](/images/Picture14.png)
 
 
 
 **Information for Parents**
 
-1. Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
-2. Parents who wish to opt their children out of the **Sexuality Education lessons and /or eTeens programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year via Parents’ Gateway. The completed form is to be submitted by **17/01/2022**.
+10. Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
+11. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form has been distributed to parents via Parents’ Gateway at the start of the year and is also downloadable [here](https://drive.google.com/file/d/1TjD9pjr9iIx6s2AZIBZvZ3htoPDs_yEq/view?usp=share_link). The completed form is to be submitted by **17/01/2022**.
 3. Parents can contact the school at 6446 3301, Miss Nurmuhaina or email at  <a href="mailto:nurmuhaina_bte_bakar@moe.edu.sg">nurmuhaina_bte_bakar@moe.edu.sg</a> for discussion or to seek clarification about the school’s sexuality education programme.
 4. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
 
