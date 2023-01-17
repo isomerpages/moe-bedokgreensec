@@ -59,10 +59,13 @@ You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more i
 
 **Secondary 4**
 ![](/images/Picture1.png)
-
+![](/images/Picture10.png)
+![](/images/Picture11.png)
+![](/images/Picture12.png)
 
 **Secondary 5**
-![](/images/sec5.jpg)
+![](/images/Picture1.png)
+![](/images/Picture13.png)
 
 **<u>eTeens</u> Programme:**
 
