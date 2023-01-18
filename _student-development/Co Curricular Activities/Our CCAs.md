@@ -33,7 +33,7 @@ Simply click on any one of our CCAs to find out more about them!!
 <img src="/images/Physical-Sports-icon-300x300.jpg"  
      style="width:35%">
 
-* [BADMINTON](https://moe-bedokgreensec-staging.netlify.app/student-development/Badminton/permalink)
+* [BADMINTON](/student-development/Badminton/)
 * [BASKETBALL](https://moe-bedokgreensec-staging.netlify.app/student-development/Basketball/permalink)
 * [FOOTBALL](https://moe-bedokgreensec-staging.netlify.app/student-development/Football/permalink)
 * [SOFTBALL](https://moe-bedokgreensec-staging.netlify.app/student-development/Softball/permalink)
