@@ -50,7 +50,7 @@ Simply click on any one of our CCAs to find out more about them!!
 * [CHOIR](/student-development/Choir/)
 * [CONCERT BAND](/student-development/ConcertBand/)
 * [DANCE](/student-development/Dance/)
-* [DRAMA](https://moe-bedokgreensec-staging.netlify.app/student-development/Drama/permalink)
+* [DRAMA](/student-development/Drama/)
 
 **Uniformed Groups**
 
