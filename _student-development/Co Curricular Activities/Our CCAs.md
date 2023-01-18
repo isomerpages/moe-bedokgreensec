@@ -35,7 +35,7 @@ Simply click on any one of our CCAs to find out more about them!!
 
 * [BADMINTON](/student-development/Badminton/)
 * [BASKETBALL](/student-development/Basketball/)
-* [FOOTBALL](https://moe-bedokgreensec-staging.netlify.app/student-development/Football/permalink)
+* [FOOTBALL](/student-development/Football/)
 * [SOFTBALL](https://moe-bedokgreensec-staging.netlify.app/student-development/Softball/permalink)
 * [TCHOUKBALL](https://moe-bedokgreensec-staging.netlify.app/student-development/Tchoukball/permalink/)
 * [WUSHU](https://moe-bedokgreensec-staging.netlify.app/student-development/Wushu/permalink)
