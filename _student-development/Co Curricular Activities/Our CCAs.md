@@ -46,7 +46,7 @@ Simply click on any one of our CCAs to find out more about them!!
 <img src="/images/Visual-Performing-Arts-icon-300x300.jpg"  
      style="width:35%">
 
-* [ART AND CRAFT](https://moe-bedokgreensec-staging.netlify.app/student-development/ArtandCraft/permalink)
+* [ART AND CRAFT](/student-development/ArtandCraft/)
 * [CHOIR](https://moe-bedokgreensec-staging.netlify.app/student-development/Choir/permalink)
 * [CONCERT BAND](https://moe-bedokgreensec-staging.netlify.app/student-development/ConcertBand/permalink)
 * [DANCE](https://moe-bedokgreensec-staging.netlify.app/student-development/Dance/permalink)
