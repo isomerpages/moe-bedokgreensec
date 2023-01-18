@@ -38,7 +38,7 @@ Simply click on any one of our CCAs to find out more about them!!
 * [FOOTBALL](/student-development/Football/)
 * [SOFTBALL](/student-development/Softball/)
 * [TCHOUKBALL](/student-development/Tchoukball/)
-* [WUSHU](https://moe-bedokgreensec-staging.netlify.app/student-development/Wushu/permalink)
+* [WUSHU](/student-development/Wushu/)
 
 
 **Visual & Performing Arts**
