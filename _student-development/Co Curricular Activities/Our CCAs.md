@@ -24,7 +24,7 @@ Simply click on any one of our CCAs to find out more about them!!
 
 
 * [ENVIRONMENT CLUB](/student-development/Environment-Club/)
-* [INFOCOMMM CLUB](https://moe-bedokgreensec-staging.netlify.app/student-development/Infocomm-Club/permalink)
+* [INFOCOMMM CLUB](/student-development/Infocomm-Club/)
 * [OUTDOOR ADVENTURE CLUB](https://moe-bedokgreensec-staging.netlify.app/student-development/odac/permalink)
 * [YOUTH FLYING CLUB](https://moe-bedokgreensec-staging.netlify.app/student-development/yfc/permalink)
 
