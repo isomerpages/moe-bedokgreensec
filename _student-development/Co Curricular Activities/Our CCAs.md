@@ -48,7 +48,7 @@ Simply click on any one of our CCAs to find out more about them!!
 
 * [ART AND CRAFT](/student-development/ArtandCraft/)
 * [CHOIR](/student-development/Choir/)
-* [CONCERT BAND](https://moe-bedokgreensec-staging.netlify.app/student-development/ConcertBand/permalink)
+* [CONCERT BAND](/student-development/ConcertBand/)
 * [DANCE](https://moe-bedokgreensec-staging.netlify.app/student-development/Dance/permalink)
 * [DRAMA](https://moe-bedokgreensec-staging.netlify.app/student-development/Drama/permalink)
 
