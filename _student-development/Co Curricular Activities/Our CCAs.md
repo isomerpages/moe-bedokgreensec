@@ -49,7 +49,7 @@ Simply click on any one of our CCAs to find out more about them!!
 * [ART AND CRAFT](/student-development/ArtandCraft/)
 * [CHOIR](/student-development/Choir/)
 * [CONCERT BAND](/student-development/ConcertBand/)
-* [DANCE](https://moe-bedokgreensec-staging.netlify.app/student-development/Dance/permalink)
+* [DANCE](/student-development/Dance/)
 * [DRAMA](https://moe-bedokgreensec-staging.netlify.app/student-development/Drama/permalink)
 
 **Uniformed Groups**
