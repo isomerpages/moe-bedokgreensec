@@ -58,6 +58,6 @@ Simply click on any one of our CCAs to find out more about them!!
 <img src="/images/Uniformed-Groups-icon-300x300.jpg"  
      style="width:35%">
 
-* [NCC (LAND)](https://moe-bedokgreensec-staging.netlify.app/student-development/ncc/permalink)
+* [NCC (LAND)](/student-development/ncc/)
 * [NPCC](https://moe-bedokgreensec-staging.netlify.app/student-development/NPCC/permalink)
 * [SAINT JOHN BRIGADE](https://moe-bedokgreensec-staging.netlify.app/student-development/sjb/permalink)
