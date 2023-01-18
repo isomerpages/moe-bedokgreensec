@@ -4,7 +4,6 @@ permalink: /student-development/Co-Curricular-Activities/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-
 ![](/images/CCA-Banner-Photo.jpg)
 
 **Co-curricular Activities**
@@ -24,7 +23,7 @@ Simply click on any one of our CCAs to find out more about them!!
      style="width:35%">
 
 
-* [ENVIRONMENT CLUB](https://moe-bedokgreensec-staging.netlify.app/student-development/environment-club/permalink)
+* [ENVIRONMENT CLUB](/student-development/Environment-Club/)
 * [INFOCOMMM CLUB](https://moe-bedokgreensec-staging.netlify.app/student-development/Infocomm-Club/permalink)
 * [OUTDOOR ADVENTURE CLUB](https://moe-bedokgreensec-staging.netlify.app/student-development/odac/permalink)
 * [YOUTH FLYING CLUB](https://moe-bedokgreensec-staging.netlify.app/student-development/yfc/permalink)
