@@ -60,4 +60,4 @@ Simply click on any one of our CCAs to find out more about them!!
 
 * [NCC (LAND)](/student-development/ncc/)
 * [NPCC](/student-development/NPCC/)
-* [SAINT JOHN BRIGADE](https://moe-bedokgreensec-staging.netlify.app/student-development/sjb/permalink)
+* [SAINT JOHN BRIGADE](/student-development/sjb/)
