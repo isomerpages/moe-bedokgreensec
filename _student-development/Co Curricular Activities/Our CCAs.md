@@ -59,5 +59,5 @@ Simply click on any one of our CCAs to find out more about them!!
      style="width:35%">
 
 * [NCC (LAND)](/student-development/ncc/)
-* [NPCC](https://moe-bedokgreensec-staging.netlify.app/student-development/NPCC/permalink)
+* [NPCC](/student-development/NPCC/)
 * [SAINT JOHN BRIGADE](https://moe-bedokgreensec-staging.netlify.app/student-development/sjb/permalink)
