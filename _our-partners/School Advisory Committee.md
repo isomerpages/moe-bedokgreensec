@@ -13,17 +13,17 @@ description: ""
      style="width:35%">
 
 
-**Mr Aaron Rylan Keder, Chairman**
+                **Mr Aaron Rylan Keder, Chairman**
 
 <img src="/images/Sear%20Hock%20Rong.jpg"   style="width:35%">
 
 
-**Mr Sear Hock Rong, Vice-Chairman**
+               **Mr Sear Hock Rong, Vice-Chairman**
 
 <img src="/images/ng-kah.jpg"  
      style="width:35%">
 
-**Mr Ng Kah Gay, Honorary Treasurer**
+               **Mr Ng Kah Gay, Honorary Treasurer**
 
 <img src="/images/Daven.jpg"  
      style="width:35%">
