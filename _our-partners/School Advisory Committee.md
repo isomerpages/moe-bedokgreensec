@@ -12,30 +12,30 @@ description: ""
 <img src="/images/aaron.jpg"  
      style="width:35%">
 
+Mr Aaron Rylan Keder, Chairman
 
-                       Mr Aaron Rylan Keder, Chairman
 
 <img src="/images/Sear%20Hock%20Rong.jpg"   style="width:35%">
 
 
-                    Mr Sear Hock Rong, Vice-Chairman
+Mr Sear Hock Rong, Vice-Chairman
 
 <img src="/images/ng-kah.jpg"  
      style="width:35%">
 
-                   Mr Ng Kah Gay, Honorary Treasurer
+Mr Ng Kah Gay, Honorary Treasurer
 
 <img src="/images/Daven.jpg"  
      style="width:35%">
 
-                    Mr Daven Chang Kok Leng, Member
+Mr Daven Chang Kok Leng, Member
 
 <img src="/images/Sybil%20Tan.jpg"  
      style="width:35%">
 
-                      Ms Sybil Tan Hong Kuan, Member
+Ms Sybil Tan Hong Kuan, Member
 
 <img src="/images/david.jpg"  
      style="width:35%">
 
-                       Mr Chai Yih Ming David, Member
+Mr Chai Yih Ming David, Member
