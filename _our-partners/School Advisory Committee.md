@@ -39,4 +39,3 @@ description: ""
      style="width:35%">
 
 **Mr Chai Yih Ming David, Member**
-
