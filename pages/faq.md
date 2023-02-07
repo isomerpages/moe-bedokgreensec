@@ -22,4 +22,3 @@ For parents who may need to contact the school, the opening hours of the General
 Monday to Friday: 7.00 am to 5.00 pm
 
 The General Office closes on Saturdays, Sundays and Public Holidays.
-
