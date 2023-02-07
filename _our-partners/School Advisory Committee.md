@@ -14,22 +14,27 @@ description: ""
 <img style="width:35%" src="/images/aaron.jpg">
 
 <b>Mr Aaron Rylan Keder, Chairman</b>
+	
 
 <img style="width:35%" src="/images/Sear%20Hock%20Rong.jpg">
 
 <b>Mr Sear Hock Rong, Vice-Chairman</b>
+	
 
 <img style="width:35%" src="/images/ng-kah.jpg">
 
 <b>Mr Ng Kah Gay, Honorary Treasurer</b>
+	
 
 <img style="width:35%" src="/images/Daven.jpg">
 
 <b>Mr Daven Chang Kok Leng, Member</b>
+	
 
 <img style="width:35%" src="/images/Sybil%20Tan.jpg">
 
 <b>Ms Sybil Tan Hong Kuan, Member</b>
+	
 
 <img style="width:35%" src="/images/david.jpg">
 
