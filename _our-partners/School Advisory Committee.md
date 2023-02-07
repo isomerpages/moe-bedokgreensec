@@ -3,39 +3,35 @@ title: School Advisory Committee
 permalink: /our-partners/advisory/
 description: ""
 ---
-![](/images/Our-Heritage-e1570003294657.jpg)
+<center>
 
-*“No one can whistle a symphony. It takes a whole orchestra to play it.”*
+<img src="/images/Our-Heritage-e1570003294657.jpg">
 
-**H.E. Luccock**
+	"No one can whistle a symphony. It takes a whole orchestra to play it."
 
-<img src="/images/aaron.jpg"  
-     style="width:35%">
+<b>H.E. Luccock</b>
 
-**Mr Aaron Rylan Keder, Chairman**
+<img style="width:35%" src="/images/aaron.jpg">
 
+<b>Mr Aaron Rylan Keder, Chairman</b>
 
-<img src="/images/Sear%20Hock%20Rong.jpg"   style="width:35%">
+<img style="width:35%" src="/images/Sear%20Hock%20Rong.jpg">
 
+<b>Mr Sear Hock Rong, Vice-Chairman</b>
 
-**Mr Sear Hock Rong, Vice-Chairman**
+<img style="width:35%" src="/images/ng-kah.jpg">
 
-<img src="/images/ng-kah.jpg"  
-     style="width:35%">
+<b>Mr Ng Kah Gay, Honorary Treasurer</b>
 
-**Mr Ng Kah Gay, Honorary Treasurer**
+<img style="width:35%" src="/images/Daven.jpg">
 
-<img src="/images/Daven.jpg"  
-     style="width:35%">
+<b>Mr Daven Chang Kok Leng, Member</b>
 
-**Mr Daven Chang Kok Leng, Member**
+<img style="width:35%" src="/images/Sybil%20Tan.jpg">
 
-<img src="/images/Sybil%20Tan.jpg"  
-     style="width:35%">
+<b>Ms Sybil Tan Hong Kuan, Member</b>
 
-**Ms Sybil Tan Hong Kuan, Member**
+<img style="width:35%" src="/images/david.jpg">
 
-<img src="/images/david.jpg"  
-     style="width:35%">
-
-**Mr Chai Yih Ming David, Member**
+<b>Mr Chai Yih Ming David, Member</b>
+</center>
