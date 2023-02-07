@@ -9,7 +9,7 @@ description: ""
 
 	"No one can whistle a symphony. It takes a whole orchestra to play it."
 
-<b>H.E. Luccock</b>
+<br><b>H.E. Luccock</b>
 
 <img style="width:35%" src="/images/aaron.jpg">
 
