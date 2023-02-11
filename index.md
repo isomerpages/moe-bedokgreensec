@@ -11,10 +11,10 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: /announcements/permalink
+          url: /announcements/
         - title: BG21
           description: ""
-          url: /pubs/permalink
+          url: /pubs/
         - title: Useful Links
           description: ""
           url: /links/
