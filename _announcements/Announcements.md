@@ -1,8 +1,9 @@
 ---
 title: Announcements
-permalink: /announcements/permalink/
+permalink: /announcements/
 description: ""
 ---
+
 * [Secondary One Registration 2022](/sec1registration/)
 
 * [Parent Handbook on 1 to 1 Learning](/files/1-to-1-Learning.pdf)
