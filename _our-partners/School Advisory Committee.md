@@ -13,12 +13,12 @@ description: ""
 
 <img style="width:35%" src="/images/aaron.jpg">
 
-<b>Mr Aaron Rylan Keder, Chairman</b>
+<b>Mr Aaron Rylan Keder, Chairperson</b>
 	
 
 <img style="width:35%" src="/images/Sear%20Hock%20Rong.jpg">
 
-<b>Mr Sear Hock Rong, Vice-Chairman</b>
+<b>Mr Sear Hock Rong, Vice-Chairperson</b>
 	
 
 <img style="width:35%" src="/images/ng-kah.jpg">
