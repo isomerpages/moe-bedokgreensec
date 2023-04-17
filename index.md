@@ -12,7 +12,7 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements/
-        - title: BG21
+        - title: ""
           description: ""
           url: /pubs/
         - title: Useful Links
