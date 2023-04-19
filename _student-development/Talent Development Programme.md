@@ -11,7 +11,8 @@ Everybody is born with a talent ingrained in them. Here at Bedok Green Secondary
 
 The Talent Development Programme scouts students who have the potential to be shining gems in their area of strength. We provide platforms for them to further develop and explore their interests and skills, to showcase their talents and become confident, outstanding individuals who strive for excellence and achieve greater success.
 
+**Direct School Admission**
+
 Find out more about Bedok Green Secondary School Direct School Admission Talent areas below.
 
 [Bedok Green Secondary School DSA Talent Areas](https://go.gov.sg/bgssdsa2023)
-
