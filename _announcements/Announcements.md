@@ -13,3 +13,6 @@ description: ""
 
 
 * [Helmsman Booklet 2022](/files/Helmsman-Booklet-2022-dated-29-June-.pdf)
+
+* [Bedok Green Secondary School DSA Exercise 2023](https://go.gov.sg/bgssdsa2023)
+
