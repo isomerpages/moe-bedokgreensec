@@ -15,4 +15,4 @@ The Talent Development Programme scouts students who have the potential to be sh
 
 Find out more about Bedok Green Secondary School Direct School Admission Talent areas below.
 
-[Bedok Green Secondary School DSA Talent Areas](https://go.gov.sg/bgssdsa2023)
+[Bedok Green Secondary School DSA Exercise 2023](https://go.gov.sg/bgssdsa2023)
