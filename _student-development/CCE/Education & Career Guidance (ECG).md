@@ -23,4 +23,4 @@ In Bedok Green Secondary, ECG goes beyond the classroom walls. We have specially
 
 Click [here](https://go.gov.sg/iteeae23) to find out more about ITE Early Admission Exercise.
 
-Click on the link&nbsp;[https://www.ite.edu.sg/courses/full-time-courses/nitec-and-3-year-higher-nitec](https://www.ite.edu.sg/courses/full-time-courses/nitec-and-3-year-higher-nitec)&nbsp; to find out about the courses available for the 3-Year Higher Nitec courses.
+Click on this [link](https://www.ite.edu.sg/courses/full-time-courses/nitec-and-3-year-higher-nitec ) to find out about the courses available for the 3-Year Higher Nitec courses.
