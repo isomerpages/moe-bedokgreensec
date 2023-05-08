@@ -4,7 +4,6 @@ permalink: /student-development/ecg/
 description: ""
 third_nav_title: CCE
 ---
-
 ![](/images/Sexuality-Education-1-e1570004783817.jpg)
 
 *“Dreams are extremely important. You can’t do it unless you imagine it.”*<br>
@@ -19,3 +18,9 @@ In Bedok Green Secondary School, we bring students through a journey of discover
 **Our Enrichment**
 
 In Bedok Green Secondary, ECG goes beyond the classroom walls. We have specially invited speakers from the different industries to share during our Industries and Career Day. Students get to learn about what it is to be working in that profession and even ask questions to quench their curiosity. We also provide students with hands-on experiences through our Elective Modules and visits to Polytechnics and ITEs.
+
+**Early Admission Exercise**
+
+Click [here](https://go.gov.sg/iteeae23) to find out more about ITE Early Admission Exercise.
+
+Click on the link&nbsp;[https://www.ite.edu.sg/courses/full-time-courses/nitec-and-3-year-higher-nitec](https://www.ite.edu.sg/courses/full-time-courses/nitec-and-3-year-higher-nitec)&nbsp; to find out about the courses available for the 3-Year Higher Nitec courses.
