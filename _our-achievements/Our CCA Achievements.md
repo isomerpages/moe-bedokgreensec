@@ -3,7 +3,6 @@ title: Our CCA Achievements
 permalink: /ccaachievements/
 description: ""
 ---
-
 ![](/images/bgss5.jpg)
 
 **Clubs and Societies**
@@ -486,6 +485,10 @@ description: ""
     <td class="tg-af47" rowspan="4"><span style="font-weight:inherit;font-style:inherit">Drama</span></td>
     <td class="tg-af47"><span style="font-weight:inherit;font-style:inherit">2021 SYF Arts Presentation</span></td>
     <td class="tg-af47"><span style="font-weight:inherit;font-style:inherit">Certificate of Accomplishment</span></td>
+  </tr>
+	<tr>
+    <td class="tg-af47"><span style="font-weight:inherit;font-style:inherit">2019 Trinity Exam</span></td>
+    <td class="tg-af47"><span style="font-weight:inherit;font-style:inherit">Distinction</span></td>
   </tr>
   <tr>
     <td class="tg-af47"><span style="font-weight:inherit;font-style:inherit">2019 SYF Arts Presentation</span></td>
