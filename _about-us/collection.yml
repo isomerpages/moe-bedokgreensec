@@ -2,12 +2,12 @@ collections:
   about-us:
     output: true
     order:
-      - School Canteen.md
       - About Us.md
       - Our Heritage.md
+      - Our People/.keep
       - Our People/School Management Committee.md
       - Our People/Teaching Staff.md
       - Our People/School Counsellors.md
-      - Our People/.keep
       - Our People/Support Staff.md
+      - School Canteen.md
       - Our Contact.md
