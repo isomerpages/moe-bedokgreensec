@@ -36,7 +36,7 @@ third_nav_title: Our People
     <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 122</span></td>
   </tr>
   <tr>
-    <td class="tg-ktyi" rowspan="3"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Resilience 1</span></td>
+    <td class="tg-ktyi" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Resilience 1</span></td>
     <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mdm Azian Binte Zaini</span></td>
     <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">azian_zaini@moe.edu.sg </span></td>
     <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 205</span></td>
@@ -45,11 +45,6 @@ third_nav_title: Our People
     <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Miss Marie Anne Chia Jin Ling</span></td>
     <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">marie_anne_chia@moe.edu.sg </span></td>
     <td class="tg-ktyi"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 209</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mrs Yeo Swee Leng</span></td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">tan_swee_leng@moe.edu.sg</span></td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6446 3301 ext 203</span></td>
   </tr>
   <tr>
     <td class="tg-ktyi" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Resilience 2</span></td>
@@ -673,12 +668,6 @@ third_nav_title: Our People
     <td class="tg-t24n"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#3A3A3A;background-color:transparent">Ms Toh Qiuyan</span></td>
     <td class="tg-t24n"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#3A3A3A;background-color:transparent">toh_qiuyan@moe.edu.sg</span></td>
     <td class="tg-t24n"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#3A3A3A;background-color:transparent">6446 3301 ext 210</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Non-Form Teacher</span></td>
-    <td class="tg-t24n"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#3A3A3A;background-color:transparent">Mr Zhang Guo Shan</span></td>
-    <td class="tg-t24n"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#3A3A3A;background-color:transparent">zhang_guo_shan@moe.edu.sg</span></td>
-    <td class="tg-t24n"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#3A3A3A;background-color:transparent">6446 3301 ext 171</span></td>
   </tr>
   <tr>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Non-Form Teacher</span></td>
