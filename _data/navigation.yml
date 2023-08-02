@@ -11,14 +11,16 @@ links:
         url: /about-us/Our-People/School-Management-Committee/
       - title: Our Contact
         url: /our-contact/
+      - title: School Canteen
+        url: /school-canteen/
   - title: Academic Curriculum
     url: /aesthetics/
     sublinks:
       - title: Academic
         url: /aesthetics/
-      - title: "Subject-based Banding "
+      - title: Subject-based Banding
         url: /sbb/
-  - title: "Student Development "
+  - title: Student Development
     url: /student-development/Co-Curricular-Activities/
     sublinks:
       - title: Co-curricular Activities
@@ -27,7 +29,7 @@ links:
         url: /student-development/Student-Councillors/
       - title: CCE
         url: /student-development/CCE/
-      - title: "Student Link "
+      - title: Student Link
         url: /student-development/studentlink/uniform/
       - title: Talent Development Programme
         url: /tdp/
@@ -47,7 +49,7 @@ links:
   - title: Our Partners
     url: /our-partners/advisory/
     sublinks:
-      - title: "School Advisory Committee "
+      - title: School Advisory Committee
         url: /our-partners/advisory/
       - title: Parents
         url: /our-partners/psg/
