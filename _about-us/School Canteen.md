@@ -1,5 +1,5 @@
 ---
 title: School Canteen
-permalink: /schoolcanteen/
+permalink: /school-canteen/
 description: ""
 ---
