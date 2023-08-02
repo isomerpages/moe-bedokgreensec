@@ -3,7 +3,7 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
-* [Canteen Stall Advertisement]
+* Canteen Stall Advertisement
 
 * [Secondary One Registration 2022](/sec1registration/)
 
