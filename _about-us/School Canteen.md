@@ -3,7 +3,6 @@ title: School Canteen
 permalink: /school-canteen/
 description: ""
 ---
-
 **APPLICATION FOR CANTEEN STALL AT BEDOK GREEN SECONDARY SCHOOL**
 
 **Chinese Noodle Stall**
@@ -56,7 +55,6 @@ Interested applicants must submit the following documents to Bedok Green Seconda
 
 * Successful applicant will commence operation of the stall from 2 Jan 2024.
 
-For further enquiries, please contact the Mdm Vivien Tan, Administration Manager at 64463306.
+For further enquiries, please contact the Mdm Vivien Tan, Administration Manager at 64463301.
 
 Thank you.
-
