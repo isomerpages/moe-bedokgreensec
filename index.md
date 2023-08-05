@@ -12,9 +12,6 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements/
-        - title: ""
-          description: ""
-          url: /pubs/
         - title: Useful Links
           description: ""
           url: /links/
