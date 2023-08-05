@@ -1,6 +1,6 @@
 ---
 title: Physical and Outdoor Education
-permalink: /pe/permalink/
+permalink: /pe/
 description: ""
 third_nav_title: Subjects
 ---

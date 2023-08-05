@@ -1,6 +1,6 @@
 ---
 title: Humanities
-permalink: /humans/permalink/
+permalink: /humans/
 description: ""
 third_nav_title: Subjects
 ---

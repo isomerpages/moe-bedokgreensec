@@ -1,12 +1,12 @@
 ---
 title: English and Literature
-permalink: /english/permalink/
+permalink: /english/
 description: ""
 third_nav_title: Subjects
 ---
 ![](/images/English-2-e1572837777979.jpg)
 
-**English & English Literature**
+**English &amp; English Literature**
 
 **“Words are our most inexhaustible source of magic.”<br>
 J. K. Rowling**
@@ -15,7 +15,7 @@ What exactly is that scent that hangs in the air after the rain has come and gon
 
 **Our Curriculum**
 
-Through the use of engaging and enriching pedagogy, the English Language & Literature Department seeks to connect your learning and expand your mind with real-world knowledge and lively discussions. Our passionate teachers strive to nurture you to become empathetic communicators, avid readers and critical thinkers who are able to wield the language with confidence and finesse.
+Through the use of engaging and enriching pedagogy, the English Language &amp; Literature Department seeks to connect your learning and expand your mind with real-world knowledge and lively discussions. Our passionate teachers strive to nurture you to become empathetic communicators, avid readers and critical thinkers who are able to wield the language with confidence and finesse.
 
 **Our Enrichment**
 

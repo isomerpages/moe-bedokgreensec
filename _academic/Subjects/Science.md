@@ -1,6 +1,6 @@
 ---
 title: Science
-permalink: /science/permalink/
+permalink: /science/
 description: ""
 third_nav_title: Subjects
 ---

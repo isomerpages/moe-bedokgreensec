@@ -1,6 +1,6 @@
 ---
 title: Mathematics
-permalink: /maths/permalink/
+permalink: /maths/
 description: ""
 third_nav_title: Subjects
 ---

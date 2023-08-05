@@ -1,6 +1,6 @@
 ---
 title: Learning for Life Programme
-permalink: /llp/permalink/
+permalink: /llp/
 description: ""
 third_nav_title: Subjects
 ---

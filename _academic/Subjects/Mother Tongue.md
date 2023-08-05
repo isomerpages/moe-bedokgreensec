@@ -1,6 +1,6 @@
 ---
 title: Mother Tongue
-permalink: /mt/permalink/
+permalink: /mt/
 description: ""
 third_nav_title: Subjects
 ---

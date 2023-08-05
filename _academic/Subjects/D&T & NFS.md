@@ -1,6 +1,6 @@
 ---
 title: D&T & NFS
-permalink: /dnt/permalink/
+permalink: /dnt/
 description: ""
 third_nav_title: Subjects
 ---
@@ -10,17 +10,17 @@ third_nav_title: Subjects
 Design is how it works.”<br>
 Steve Jobs**
 
-**Design & Technology**
+**Design &amp; Technology**
 
 Design is a word that we come across quite often when we think about architecture, sculpture, furniture, art, and even consumer products. But what is design and what exactly are the processes involved in design?
 
 **Our Curriculum**
 
-If you are interested in improving current products in the market or in the thinking behind design or even in the use of technology to help make our lives a little easier, then Design & Technology (D&T) is the subject for you.
+If you are interested in improving current products in the market or in the thinking behind design or even in the use of technology to help make our lives a little easier, then Design &amp; Technology (D&amp;T) is the subject for you.
 
 You will learn more about the current technology and be introduced to processes that will help you make informed decisions when solving problems. You will also be introduced to techniques that will help you to communicate your design thoughts to others.
 
-D&T equips you with the knowledge and also with the skills needed to solve all types of problems.
+D&amp;T equips you with the knowledge and also with the skills needed to solve all types of problems.
 
 **Our Enrichment**
 
