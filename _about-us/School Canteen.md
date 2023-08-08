@@ -31,7 +31,7 @@ Bedok Green Secondary School
 
 **Application Procedure :**
 
-Application form is available at our General Office or can be downloaded from [School Canteen Advertisements (moe.gov.sg)](https://schadmsvc.moe.gov.sg/schcanteenads/).
+Application form is available at our General Office or can be downloaded from [ Microsoft Word - FormBF7 (2018) (moe.gov.sg)](/files/microsoft%20word%20-%20formbf7%20(2018).pdf).
 
 Interested applicants must submit the following documents to Bedok Green Secondary School General Office or email to bgss@moe.edu.sg (Attention: Administration Manager). 
 
