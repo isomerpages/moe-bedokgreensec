@@ -11,5 +11,3 @@ third_nav_title: Frankie
 
 1. **Bold text**
 2. **Bold text**
-
-
