@@ -55,3 +55,8 @@ links:
         url: /our-partners/psg/
   - title: Menu Title
     collection: training
+  - title: External Links
+    url: /external-links
+    sublinks:
+      - title: SLS
+        url: https://vle.learning.moe.edu.sg/login
