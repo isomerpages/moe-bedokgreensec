@@ -2,6 +2,7 @@ collections:
   training:
     output: true
     order:
+      - Tlianben/TLB page.md
       - Tlianben/.keep
       - Johnny/Johnny's Message.md
       - Johnny/.keep
