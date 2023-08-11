@@ -2,6 +2,7 @@ collections:
   training:
     output: true
     order:
+      - Melinda/.keep
       - Saheedah.md
       - Emrizal/.keep
       - Frankie/.keep
