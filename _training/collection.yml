@@ -2,5 +2,6 @@ collections:
   training:
     output: true
     order:
+      - Emrizal/.keep
       - Frankie/.keep
       - Example Title 123.md
