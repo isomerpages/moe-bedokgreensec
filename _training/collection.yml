@@ -2,5 +2,6 @@ collections:
   training:
     output: true
     order:
+      - Saheedah.md
       - Emrizal/.keep
       - Frankie/.keep
