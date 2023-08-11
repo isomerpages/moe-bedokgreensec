@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Tlianben/.keep
+      - Johnny/Johnny's Message.md
       - Johnny/.keep
       - Melinda/.keep
       - Saheedah.md
