@@ -1,4 +1,5 @@
 collections:
   training:
     output: true
-    order: []
+    order:
+      - Example Title 123.md
