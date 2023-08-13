@@ -4,8 +4,7 @@ permalink: /student-development/sec3/
 description: ""
 third_nav_title: Level Programme
 ---
-
-![](/images/BGSS-Website-Photoshoot-5842_academiccurriculum_main.jpg)
+![](/images/camps%202023.jpg)
 
 **Sec 3 MOE-OBS Challenge Programme**
 
