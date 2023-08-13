@@ -3,15 +3,14 @@ title: Parent Support Group
 permalink: /our-partners/psg/
 description: ""
 ---
-
-![](/images/our-partners-banner.jpg)
+![](/images/psg%202023.jpg)
 
 *“At the end of the day, the most overwhelming key to a child's success is the positive involvement of parents.”*<br>
 **Jane D. Hull**
 
 **Our Vision**
 
-With **Passion**, **Synergy** & **Growth**, we want to be the best parents we can be by establishing a collaborative partnership with the school for the growth and learning of our children.
+With **Passion**, **Synergy** &amp; **Growth**, we want to be the best parents we can be by establishing a collaborative partnership with the school for the growth and learning of our children.
 
 
 **Our Mission**
