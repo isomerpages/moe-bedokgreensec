@@ -4,8 +4,7 @@ permalink: /student-development/via/
 description: ""
 third_nav_title: CCE
 ---
-
-![](/images/VIA-e1570004908431.jpg)
+![](/images/via%202023.jpg)
 
 *“Only a life lived for others is a life worthwhile.”*<br>
 **Albert Einstein**
