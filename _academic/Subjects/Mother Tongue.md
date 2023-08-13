@@ -4,7 +4,7 @@ permalink: /mt/
 description: ""
 third_nav_title: Subjects
 ---
-![](/images/Mother-Tongue-1-e1570173335392.jpg)
+![](/images/mt%202023.jpg)[](/images/Mother-Tongue-1-e1570173335392.jpg)
 
 **“One language sets you in a corridor for life.
 Two languages open every door along the way.”<br>
