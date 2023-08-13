@@ -4,8 +4,7 @@ permalink: /student-development/CLASSLeaders/
 description: ""
 third_nav_title: Student Leadership Programme
 ---
-
-![](/images/CLASS-Leaders.jpg)
+![](/images/sld%202023.jpg)
 
 **CLASS Leaders**
 

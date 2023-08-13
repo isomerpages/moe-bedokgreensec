@@ -4,7 +4,7 @@ permalink: /about-us/Our-People/School-Counsellors/
 description: ""
 third_nav_title: Our People
 ---
-![](/images/banner-for-school-counsellor-1024x683.jpg)
+![](/images/bgss%202023.png)[](/images/banner-for-school-counsellor-1024x683.jpg)
 
 **School Counsellors**
 

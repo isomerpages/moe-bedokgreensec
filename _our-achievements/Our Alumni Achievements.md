@@ -3,14 +3,12 @@ title: Our Alumni Achievements
 permalink: /alumniachievements/
 description: ""
 ---
-
-![](/images/Alumni-Achievements.jpg)
+![](/images/achievements23.png)
 
 **Aaron Rylan**
 
 
-<img src="/images/Alumni%20achievements/Aaron.png"  
-     style="width:30%">
+<img src="/images/Alumni%20achievements/Aaron.png" style="width:30%">
 
 
 * Owner cum Managing Director, Newash Facility Management Pte Ltd
@@ -23,8 +21,7 @@ description: ""
 
 **Yuhanis Binte Kadis**
 
-<img src="/images/Alumni%20achievements/Yuhanis-150x150.png"  
-     style="width:30%">
+<img src="/images/Alumni%20achievements/Yuhanis-150x150.png" style="width:30%">
 
 * Recipient of the Lee Kuan Yew Award for All-Round Excellence 2010
 * Bachelor of Science (Applied Mathematics), NUS 2016
@@ -37,8 +34,7 @@ description: ""
 
 **Lee Wei Lin**
 
-<img src="/images/Alumni%20achievements/wei-lin-150x150.png"  
-     style="width:30%">
+<img src="/images/Alumni%20achievements/wei-lin-150x150.png" style="width:30%">
 
 * Recipient of the Lee Kuan Yew Award for All-Round Excellence 2012
 * Diploma in Aerospace Electronic, Singapore Polytechnic
@@ -49,8 +45,7 @@ description: ""
 
  **Muhammad Noor Adris B Masjudi**
  
- <img src="/images/Alumni%20achievements/noor.png"  
-     style="width:30%">
+ <img src="/images/Alumni%20achievements/noor.png" style="width:30%">
 
 * Recipient of Module Prize
 * Diploma in Sports and Exercise Sciences, Republic Polytechnic
@@ -63,8 +58,7 @@ description: ""
 
 **Yusuf Bin Muhd Azwan**
 
- <img src="/images/Alumni%20achievements/yusuf.png"  
-     style="width:30%">
+ <img src="/images/Alumni%20achievements/yusuf.png" style="width:30%">
 
 * Recipient of Model Student Award 
 * Diploma in Aerospace Electronics, Singapore Polytechnic
@@ -77,8 +71,7 @@ description: ""
 
  **Aw Rui Huan**
 
- <img src="/images/Alumni%20achievements/rui.png"  
-     style="width:30%">
+ <img src="/images/Alumni%20achievements/rui.png" style="width:30%">
 
 * Recipient of Course Gold Medal and Director’s List Award
 * Diploma in Mechatronics with Merit, Temasek Polytechnic
@@ -91,11 +84,10 @@ description: ""
 
  **Ong Hui Qin**
 
- <img src="/images/Alumni%20achievements/ong.png"  
-     style="width:30%">
+ <img src="/images/Alumni%20achievements/ong.png" style="width:30%">
 
 * Recipient of SP Engineering Scholarship 
-* Diploma in Energy Systems & Management, Singapore Polytechnic
+* Diploma in Energy Systems &amp; Management, Singapore Polytechnic
 * Graduated from BGSS in 2015
  
 
@@ -103,8 +95,7 @@ description: ""
 
  **Wong Zhi Hung Xavier**
 
- <img src="/images/Alumni%20achievements/Xavier-Wong-300x287.jpg"  
-     style="width:30%">
+ <img src="/images/Alumni%20achievements/Xavier-Wong-300x287.jpg" style="width:30%">
 
 * Recipient of Excel Marco Industrial Systems Course Bronze Medal and Director’s List Award
 * Diploma In Mechatronics with Merit, Temasek Polytechnic
@@ -117,10 +108,9 @@ description: ""
 
 **Nicole Chow Hui Lin**
 
- <img src="/images/Alumni%20achievements/nicole.png"  
-     style="width:30%">
+ <img src="/images/Alumni%20achievements/nicole.png" style="width:30%">
 
-* Recipient of Captive Media Silver Medal & Prize
+* Recipient of Captive Media Silver Medal &amp; Prize
 * Recipient of Module Prize
 * Diploma in Mass Communication with Merit, Ngee Ann Polytechnic
 * Graduated from BGSS in 2016
@@ -155,8 +145,7 @@ description: ""
 
 **Hoang Thai Anh**
 
- <img src="/images/Alumni%20achievements/thai-anh-235x300.png"  
-     style="width:30%">
+ <img src="/images/Alumni%20achievements/thai-anh-235x300.png" style="width:30%">
 
 * Obtained 5 Distinctions for GCE A-Level Examinations, Nanyang Junior College
 * Graduated from BGSS in 2017
@@ -164,8 +153,7 @@ description: ""
  
 **Nguyen Duc Nhat Thanh**
 
- <img src="/images/Alumni%20achievements/nhat%20thanh.jpeg"  
-     style="width:30%">
+ <img src="/images/Alumni%20achievements/nhat%20thanh.jpeg" style="width:30%">
 
 * Recipient of IMDA Gold Medal and Prize, Side Effects Prize
 * Diploma with Merit in Animation and 3D Arts, Ngee Ann Polytechnic
@@ -176,8 +164,7 @@ description: ""
 
 **Chou Shigeta Anmi**
 
- <img src="/images/Alumni%20achievements/shigeta%20anmi.jpg"  
-     style="width:30%">
+ <img src="/images/Alumni%20achievements/shigeta%20anmi.jpg" style="width:30%">
 
 * Diploma with Merit in Mass Communication, Ngee Ann Polytechnic
 * Graduated from BGSS in 2017

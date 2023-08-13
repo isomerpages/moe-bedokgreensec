@@ -4,7 +4,7 @@ permalink: /llp/
 description: ""
 third_nav_title: Subjects
 ---
-![](/images/LLP.jpg)
+![](/images/llp%202023.jpg)[](/images/LLP.jpg)
 
 **“Creativity takes courage.”<br>
 Henri Matisse**

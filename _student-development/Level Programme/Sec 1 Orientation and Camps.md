@@ -4,8 +4,7 @@ permalink: /student-development/camps/
 description: ""
 third_nav_title: Level Programme
 ---
-
-![](/images/BGSS-Website-Photoshoot-5842_academiccurriculum_main.jpg)
+![](/images/camps%202023.jpg)
 
 **Sec 1 Orientation and Camps**
 

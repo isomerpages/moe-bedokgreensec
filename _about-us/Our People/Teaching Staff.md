@@ -4,7 +4,7 @@ permalink: /about-us/Our-People/Teaching-Staff/
 description: ""
 third_nav_title: Our People
 ---
-![](/images/OurPeople.jpg)
+![](/images/bgss%202023.png)[](/images/OurPeople.jpg)
 
 **Secondary 1**
 

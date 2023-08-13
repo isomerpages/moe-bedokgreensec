@@ -4,7 +4,7 @@ permalink: /student-development/sexed/
 description: ""
 third_nav_title: CCE
 ---
-![](/images/Sexuality-education-programme.jpg)
+![](/images/cce%202023.jpg)[](/images/Sexuality-education-programme.jpg)
 
 **MOE Sexuality Education in Schools**
 
@@ -73,7 +73,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more i
 
 9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
 
-**At Bedok Green Secondary School, the _eTeens_ programme will be implemented as follows in 2023:**
+**At Bedok Green Secondary School, the&nbsp;_eTeens_&nbsp;programme will be implemented as follows in 2023:**
 
 ![](/images/Picture14.png)
 

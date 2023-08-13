@@ -3,7 +3,7 @@ title: Our Academic Achievements
 permalink: /academicachievements/
 description: ""
 ---
-![](/images/bgss4.jpg)
+![](/images/achievements23.png)
 
 **2022 GCE N Level Examination**
 
@@ -53,7 +53,7 @@ What do you want to say to the teachers who have taught you?
 
 No amount of words or actions can represent the enormous amount of gratitude I have for you being an influence in my life. You have moulded and shaped me and been my moral compass. Thank you. 
 
-**What does "Believe & Grow" mean to you?** 
+**What does "Believe &amp; Grow" mean to you?** 
 
 To me it means to have an ever-growing mindset. "Believe" to me is to set expectations and to push yourself to achieve that, to trust in your capabilities, circumstances and the people around you. "Grow" to me is the process after you've tried. Maybe it worked and maybe it didn't. But either way, one has to engage in self-reflection to learn what has happened and what has past, and place that into your present and future 
 
@@ -83,7 +83,7 @@ Our school motto, “Believe and grow”, is on our school crest, but what does 
 
 I regard the four years spent here in Bedok Green a great blessing and I have many wonderful memories of the time spent in this school. If I have to single out any one most memorable experience, it would have to be the times I spent on my CCA, which was Softball.  Being part of the Softball team, gave me the opportunity to learn many things and it also allowed me to forge many great friendships. I am also very appreciative that I was given the chance to represent the school in different competitions each year. While it was stressful at times, it helped us be tougher and well, definitely more resilient. My teammates and I remember the camaraderie and fun times we had.  CCA times were truly the best.  
 
-One other thing that made my time here so good was the support I got from good friends who encouraged and helped me in class, especially when I was careless doing Math. All this aided me in my studies all the way till the final few moments before the exams started. I would like to thank the teachers for being so patient with my class and for spending so many afternoons coaching my classmates and me during the consultation sessions especially during the precious last few weeks before our O levels. A special thanks to my D&T teachers for guiding my class throughout the 8 months and for staying back late on many occasions to allow us to use the Technology room for our coursework. 
+One other thing that made my time here so good was the support I got from good friends who encouraged and helped me in class, especially when I was careless doing Math. All this aided me in my studies all the way till the final few moments before the exams started. I would like to thank the teachers for being so patient with my class and for spending so many afternoons coaching my classmates and me during the consultation sessions especially during the precious last few weeks before our O levels. A special thanks to my D&amp;T teachers for guiding my class throughout the 8 months and for staying back late on many occasions to allow us to use the Technology room for our coursework. 
 
 ![](/images/bgss1.jpg)
 *Kwek Si Yu, 4T1 2018, currently at ITE College East* 

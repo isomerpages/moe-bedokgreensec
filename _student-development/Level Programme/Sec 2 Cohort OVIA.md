@@ -4,8 +4,7 @@ permalink: /student-development/sec2/
 description: ""
 third_nav_title: Level Programme
 ---
-
-![](/images/BGSS-Website-Photoshoot-5842_academiccurriculum_main.jpg)
+![](/images/camps%202023.jpg)
 
 **Overseas Values-in-Action (OVIA)**
 
