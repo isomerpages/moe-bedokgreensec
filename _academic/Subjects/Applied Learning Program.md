@@ -4,9 +4,7 @@ permalink: /academic/alp/
 description: ""
 third_nav_title: Subjects
 ---
-
-
-![](/images/Applied-learning-programme.jpg)
+![](/images/alp%202023.jpg)[](/images/Applied-learning-programme.jpg)
 
 **“Design is so simple. That’s why it’s so complicated.”<br>
 Paul Rand**
