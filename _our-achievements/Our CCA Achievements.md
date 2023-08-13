@@ -3,7 +3,7 @@ title: Our CCA Achievements
 permalink: /ccaachievements/
 description: ""
 ---
-![](/images/bgss5.jpg)
+![](/images/achievements23.png)
 
 **Clubs and Societies**
 
