@@ -4,7 +4,7 @@ permalink: /about-us/Our-People/Support-Staff/
 description: ""
 third_nav_title: Our People
 ---
-![](/images/SupportStaff.jpg)
+![](/images/bgss%202023.png)[](/images/SupportStaff.jpg)
 
 **Support Staff**
 
