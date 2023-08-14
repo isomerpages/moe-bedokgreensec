@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/bgssgif (1).gif
+      background: /images/BGSS-Website-Photoshoot-5842_academiccurriculum_main.jpg
       key_highlights:
         - title: Announcements
           description: ""
