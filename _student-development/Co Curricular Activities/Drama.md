@@ -4,8 +4,7 @@ permalink: /student-development/Drama/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-
-![](/images/Visual-Performing-Arts-banner.jpg)
+![](/images/bgsspa.jpg)
 
 *[Spotlight on centre stage]*
 
