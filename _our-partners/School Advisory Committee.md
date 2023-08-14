@@ -5,7 +5,7 @@ description: ""
 ---
 <center>
 
-<img src="/images/Our-Heritage-e1570003294657.jpg">
+<img src="/images/psg%202023.jpg">
 
 	"No one can whistle a symphony. It takes a whole orchestra to play it."
 
