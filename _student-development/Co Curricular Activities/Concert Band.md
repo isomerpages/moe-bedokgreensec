@@ -4,8 +4,8 @@ permalink: /student-development/ConcertBand/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-
 ![](/images/bgsspa.jpg)
+
 **Concert Band**
 
 Doo-doo-doo-doo. Do you have a tune stuck in your head? In that case, Band may be the place for you! No matter where you go, music is a language everyone can understand. Research has shown that musical training helps improve intellectual skills, raise IQ, improve memory and develop creativity. Learning a musical instrument also teaches you resilience and discipline.
