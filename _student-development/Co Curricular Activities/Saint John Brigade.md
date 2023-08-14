@@ -4,8 +4,7 @@ permalink: /student-development/sjb/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-
-![](/images/Uniformed-Groups-banner.jpg)
+![](/images/bgssug.jpg)
 
 **Saint John Brigade**
 
