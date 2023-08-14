@@ -4,8 +4,7 @@ permalink: /student-development/Football/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-
-![](/images/Physical-Sports-banner.jpg)
+![](/images/bgsssports.jpg)
 
 **Football**
 
