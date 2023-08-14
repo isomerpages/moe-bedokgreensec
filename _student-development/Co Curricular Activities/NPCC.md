@@ -4,8 +4,8 @@ permalink: /student-development/NPCC/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-
 ![](/images/bgssug.jpg)
+
 **NPCC**
 
 Have you ever wondered how do the police carry out investigations and manage to solve criminal cases?
