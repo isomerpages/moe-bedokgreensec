@@ -19,7 +19,7 @@ Simply click on any one of our CCAs to find out more about them!!
 **Club and Societies**
 
 
-<img src="/images/Clubs-Societies-icon-300x300.jpg" style="width:35%">
+<img src="/images/bgssclubs.jpg" style="width:35%">
 
 
 * [ENVIRONMENT CLUB](/student-development/Environment-Club/)
@@ -29,7 +29,7 @@ Simply click on any one of our CCAs to find out more about them!!
 
 **Physical Sports**
 
-<img src="/images/Physical-Sports-icon-300x300.jpg" style="width:35%">
+<img src="/images/bgsssports.jpg" style="width:35%">
 
 * [BADMINTON](/student-development/Badminton/)
 * [BASKETBALL](/student-development/Basketball/)
@@ -41,7 +41,7 @@ Simply click on any one of our CCAs to find out more about them!!
 
 **Visual &amp; Performing Arts**
 
-<img src="/images/Visual-Performing-Arts-icon-300x300.jpg" style="width:35%">
+<img src="/images/bgsspa.jpg" style="width:35%">
 
 * [ART AND CRAFT](/student-development/ArtandCraft/)
 * [CHOIR](/student-development/Choir/)
@@ -52,7 +52,7 @@ Simply click on any one of our CCAs to find out more about them!!
 **Uniformed Groups**
 
 
-<img src="/images/Uniformed-Groups-icon-300x300.jpg" style="width:35%">
+<img src="/images/bgssug.jpg" style="width:35%">
 
 * [NCC (LAND)](/student-development/ncc/)
 * [NPCC](/student-development/NPCC/)
