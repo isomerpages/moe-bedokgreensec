@@ -4,8 +4,7 @@ permalink: /student-development/odac/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-
-![](/images/clubsandsocieties.jpg)
+![](/images/bgssclubs.jpg)
 
 **Outdoor Adventure Club (ODAC)**
 
