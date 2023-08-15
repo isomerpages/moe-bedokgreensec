@@ -4,7 +4,7 @@ permalink: /student-development/Basketball/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-![](/images/bgsssports.jpg)
+![](/images/student%20link.jpg)
 
 **Basketball**
 
