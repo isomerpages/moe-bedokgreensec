@@ -29,7 +29,7 @@ Simply click on any one of our CCAs to find out more about them!!
 
 **Physical Sports**
 
-<img src="/images/bgsssports.jpg" style="width:35%">
+<img src="/images/student%20link.jpg" style="width:35%">
 
 * [BADMINTON](/student-development/Badminton/)
 * [BASKETBALL](/student-development/Basketball/)
