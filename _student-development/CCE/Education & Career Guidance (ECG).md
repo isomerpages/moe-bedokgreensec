@@ -19,6 +19,10 @@ In Bedok Green Secondary School, we bring students through a journey of discover
 
 In Bedok Green Secondary, ECG goes beyond the classroom walls. We have specially invited speakers from the different industries to share during our Industries and Career Day. Students get to learn about what it is to be working in that profession and even ask questions to quench their curiosity. We also provide students with hands-on experiences through our Elective Modules and visits to Polytechnics and ITEs.
 
+**ECG microsite**
+
+Click [here](https://go.gov.sg/ecgbgss) to learn more about latest ECG events / experience sessions and to explore and gain valuable skillsets.
+
 **Early Admission Exercise**
 
 Click [here](https://go.gov.sg/iteeae23) to find out more about ITE Early Admission Exercise.
