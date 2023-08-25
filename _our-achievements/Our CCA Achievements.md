@@ -47,7 +47,7 @@ description: ""
   </tr>
   <tr>
     <td rowspan="6">Tchoukball</td>
-    <td>National School Games Tchoukball Championship 2023 - C division Boys </td>
+    <td>National School Games Tchoukball Championship 2023 - C Division Boys </td>
     <td>2nd runner up</td>
   </tr>
 	 <tr><td>Inter Schools Tchoukball Championships 2023 - B Division Boys</td>
