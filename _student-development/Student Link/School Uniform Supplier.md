@@ -4,7 +4,7 @@ permalink: /student-development/studentlink/uniform/
 description: ""
 third_nav_title: Student Link
 ---
-![](/images/bgss%20student%20link.jpg)
+!![](/images/student%20link%202.jpg)[](/images/bgss%20student%20link.jpg)
 
 **School Uniform Supplier**
 
