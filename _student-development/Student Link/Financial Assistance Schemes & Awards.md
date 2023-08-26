@@ -4,7 +4,7 @@ permalink: /student-development/studentlink/fas/
 description: ""
 third_nav_title: Student Link
 ---
-![](/images/bgss%20student%2![](/images/student%20link%202.jpg)0link.jpg)
+![](/images/bgss%20student%20link.jpg)
 
 **Financial Assistance Schemes (FAS)**
 
