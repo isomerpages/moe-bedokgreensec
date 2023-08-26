@@ -4,9 +4,7 @@ permalink: /student-development/studentlink/fas/
 description: ""
 third_nav_title: Student Link
 ---
-
-
-![](/images/studentlink.jpg)
+![](/images/bgss%20student%20link.jpg)
 
 **Financial Assistance Schemes (FAS)**
 
@@ -104,7 +102,7 @@ Note: Any student in need of financial assistance should approach the school thr
 
 **Edusave Awards for Secondary Schools**
 
-Edusave Awards are given by the government annually to Singaporean pupils to help equalise educational opportunities and motivate pupils to excel in schools. These Singaporean pupils must have performed well or made good progress in their school work and have good conduct. The Edusave Awards for Achievement, Good Leadership & Service (EAGLES) serves to recognise pupil’s leadership qualities, service to community and schools and excellence in non-academic activities.
+Edusave Awards are given by the government annually to Singaporean pupils to help equalise educational opportunities and motivate pupils to excel in schools. These Singaporean pupils must have performed well or made good progress in their school work and have good conduct. The Edusave Awards for Achievement, Good Leadership &amp; Service (EAGLES) serves to recognise pupil’s leadership qualities, service to community and schools and excellence in non-academic activities.
 
 The table below provides information on the different types of Edusave Awards:
 
@@ -112,7 +110,7 @@ The table below provides information on the different types of Edusave Awards:
 2. Edusave Merit Bursary
 3. Edusave Character Award
 4. Edusave Good Progress Award
-5. Edusave Awards for Achievement, Good Leadership & Service (EAGLES).
+5. Edusave Awards for Achievement, Good Leadership &amp; Service (EAGLES).
 
 **Eligibility and Notification of Awards**
 
@@ -180,7 +178,7 @@ Starting from 2022, the Keder Bin Mohamed Said Scholarship is awarded to outstan
 
 **The Rogayah Binte Kadir Bursary**
 
-Starting from 2022, the Rogayah Binte Kadir Bursary aims to support and motivate students from less advantaged backgrounds. This bursary provides financial assistance to deserving students based on our eligibility criteria and assessed level of needs of the applications. For more information and application, please click [here.](https://go.gov.sg/bgssbursary)
+Starting from 2022, the Rogayah Binte Kadir Bursary aims to support and motivate students from less advantaged backgrounds. This bursary provides financial assistance to deserving students based on our eligibility criteria and assessed level of needs of the applications. For more information and application, please click&nbsp;[here.](https://go.gov.sg/bgssbursary)
 
 **Model Student Award**
 
