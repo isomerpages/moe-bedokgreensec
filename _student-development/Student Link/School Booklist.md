@@ -4,7 +4,7 @@ permalink: /student-development/studentlink/booklist/
 description: ""
 third_nav_title: Student Link
 ---
-![](/images/bgss%20student%20link.jpg)
+!![](/images/student%20link%202.jpg)[](/images/bgss%20student%20link.jpg)
 
 * [Secondary 1 Booklist](/files/Booklist%202023/Sec%201.pdf)
 * [Secondary 2 Booklist](/files/Booklist%202023/Sec%202.pdf)
