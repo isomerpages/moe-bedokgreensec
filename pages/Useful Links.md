@@ -3,7 +3,6 @@ title: Useful Links
 permalink: /links/
 description: ""
 ---
-
 * [BGSS Buzz @ Facebook](https://www.facebook.com/BGSS-Buzz-169809583046396/)
 
 * [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
