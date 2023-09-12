@@ -3,7 +3,7 @@ title: Subject Based Banding
 permalink: /sbb/
 description: ""
 ---
-![](/images/sbb%202023.jpg)[](/images/Subject-based-banding.jpg)
+![](/images/d&t2023.png)
 
 *“To provide every child the opportunity to learn and develop the subject-specific strengths at a more demanding level.”*
 
