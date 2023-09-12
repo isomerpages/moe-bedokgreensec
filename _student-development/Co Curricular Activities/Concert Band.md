@@ -4,7 +4,7 @@ permalink: /student-development/ConcertBand/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-![](/images/bgsspa.jpg)
+![](/images/concert%20band.png)
 
 **Concert Band**
 
