@@ -4,7 +4,7 @@ permalink: /student-development/Environment-Club/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-![](/images/bgssclubs.jpg)
+![](/images/via%202023.jpg)
 
 **Environment Club**
 
