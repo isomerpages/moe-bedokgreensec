@@ -4,7 +4,7 @@ permalink: /student-development/NPCC/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-![](/images/bgssug.jpg)
+![](/images/npcc2023.png)
 
 **NPCC**
 
