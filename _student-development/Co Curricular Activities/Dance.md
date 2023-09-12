@@ -4,7 +4,7 @@ permalink: /student-development/Dance/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-![](/images/bgsspa.jpg)
+![](/images/dance2023.png)
 
 **Dance**
 

@@ -4,7 +4,7 @@ permalink: /student-development/Choir/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-![](/images/bgsspa.jpg)
+![](/images/choir2023.png)
 
 **Choir**
 

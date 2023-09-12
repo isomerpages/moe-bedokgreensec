@@ -4,7 +4,7 @@ permalink: /student-development/Drama/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-![](/images/bgsspa.jpg)
+![](/images/drama2023.png)
 
 *[Spotlight on centre stage]*
 
