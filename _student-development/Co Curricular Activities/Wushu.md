@@ -4,7 +4,7 @@ permalink: /student-development/Wushu/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-![](/images/student%20link.jpg)
+![](/images/wushu2023.png)
 
 **Wushu**
 
