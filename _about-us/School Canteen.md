@@ -20,12 +20,12 @@ Bedok Green Secondary School
 
 **Requirements :**
 
-1.	Singapore Citizens or Singapore Permanent Resident for stall holder and stall assistant.
-2.	Able to provide good service and quality food at prices determined in consultation with the school.
-3.	Able to provide cooked food that meets the health/nutrition standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines.
-4.	Able to maintain high standard of food safety and personal hygiene.
-5.	Must be healthy and fit to operate the stall.
-6.	Must be in personal attendance at the stall during operating hours.
+* Singapore Citizens or Singapore Permanent Resident for stall holder and stall assistant.
+* Able to provide good service and quality food at prices determined in consultation with the school.
+* Able to provide cooked food that meets the health/nutrition standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines.
+* Able to maintain high standard of food safety and personal hygiene.
+* Must be healthy and fit to operate the stall.
+* Must be in personal attendance at the stall during operating hours.
 
 **Application Procedure :**
 
@@ -50,11 +50,3 @@ Interested applicants must submit the following documents to Bedok Green Seconda
 
 For further enquiries, please contact  Mdm Vivien Tan, the Administration Manager at 64463301.
 Thank you.
-
-
-
-
-
-
-
-
