@@ -4,7 +4,7 @@ permalink: /student-development/Infocomm-Club/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-![](/images/bgssclubs.jpg)
+![](/images/info%20comm.png)
 
 I**nfocomm Club**
 
