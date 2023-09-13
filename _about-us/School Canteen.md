@@ -1,6 +1,6 @@
 ---
 title: School Canteen
-permalink: /about-us/schoolcanteen/
+permalink: /schoolcanteen/
 description: ""
 ---
 **APPLICATION FOR CANTEEN STALL AT BEDOK GREEN SECONDARY SCHOOL**
