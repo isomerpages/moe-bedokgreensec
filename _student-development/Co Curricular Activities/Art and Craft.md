@@ -4,7 +4,7 @@ permalink: /student-development/ArtandCraft/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-![](/images/art%20n%20craft%202023a.jpeg)
+![](/images/art%20n%20craft%202023b.png)
 
 **Art and Craft**
 
