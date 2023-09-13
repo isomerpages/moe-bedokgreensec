@@ -4,7 +4,7 @@ permalink: /about-us/Our-People/School-Management-Committee/
 description: ""
 third_nav_title: Our People
 ---
-![](/images/bgss%202023.png)[](/images/Our-People.jpg)
+![](/images/school%20management%20committee%201.jpg)
 
 **School Leaders**
 
