@@ -1,12 +1,12 @@
 ---
-title: School Counsellors
-permalink: /about-us/Our-People/School-Counsellors/
+title: Allied Educators
+permalink: /about-us/our-people/allied-educators/
 description: ""
 third_nav_title: Our People
 ---
 ![](/images/school%20counsellor.png)
 
-**School Counsellors**
+**Allied Educators**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
