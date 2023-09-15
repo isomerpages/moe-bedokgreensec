@@ -4,8 +4,6 @@ permalink: /student-development/sec4/
 description: ""
 third_nav_title: Level Programme
 ---
-![](/images/camps%202023.jpg)
-
 **Sec 4 Service Learning**
 
 **BGSS Recycle!**
