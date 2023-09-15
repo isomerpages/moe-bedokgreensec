@@ -4,7 +4,7 @@ permalink: /student-development/ecg/
 description: ""
 third_nav_title: CCE
 ---
-![](/images/cce%202023.jpg)
+![](/images/ecg%20new.png)
 
 *“Dreams are extremely important. You can’t do it unless you imagine it.”*<br>
 **George Lucas**

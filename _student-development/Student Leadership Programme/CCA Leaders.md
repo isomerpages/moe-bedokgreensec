@@ -4,7 +4,7 @@ permalink: /student-development/ccaleaders/
 description: ""
 third_nav_title: Student Leadership Programme
 ---
-![](/images/sld%202023.jpg)
+![](/images/rock%20climbing.jpeg)
 
 **CCA Leaders**
 

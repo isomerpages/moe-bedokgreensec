@@ -4,7 +4,7 @@ permalink: /student-development/Student-Councillors/
 description: ""
 third_nav_title: Student Leadership Programme
 ---
-![](/images/sld%202023.jpg)[](/images/slp.jpg)
+![](/images/student%20councillors.png)
 
 **Student Councillors**
 
