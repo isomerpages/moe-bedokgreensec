@@ -4,7 +4,7 @@ permalink: /student-development/camps/
 description: ""
 third_nav_title: Level Programme
 ---
-
+![](/images/sec%201%20camp223.png)
 
 **Sec 1 Outdoor Adventure Camp**
 
