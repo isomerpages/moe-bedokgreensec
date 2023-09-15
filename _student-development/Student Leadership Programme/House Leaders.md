@@ -4,7 +4,7 @@ permalink: /student-development/HouseLeaders/
 description: ""
 third_nav_title: Student Leadership Programme
 ---
-![](/images/sld%202023.jpg)
+![](/images/house%20leaders.png)
 
 **House Leaders**
 
