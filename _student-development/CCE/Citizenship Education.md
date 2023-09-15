@@ -4,7 +4,7 @@ permalink: /student-development/Citizenship/
 description: ""
 third_nav_title: CCE
 ---
-
+![](/images/npcc2023b.jpg)
 
 *“Whoever governs Singapore must have that iron in him. Or give it up. This is not a game of cards. This is your life and mine.”* <br>
 **Lee Kuan Yew**

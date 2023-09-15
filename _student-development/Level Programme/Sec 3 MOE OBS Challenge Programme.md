@@ -4,7 +4,7 @@ permalink: /student-development/sec3/
 description: ""
 third_nav_title: Level Programme
 ---
-![](/images/camps%202023.jpg)
+![](/images/obs22a.png)
 
 **Sec 3 MOE-OBS Challenge Programme**
 

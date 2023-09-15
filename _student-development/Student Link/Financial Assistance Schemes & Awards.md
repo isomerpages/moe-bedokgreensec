@@ -4,8 +4,6 @@ permalink: /student-development/studentlink/fas/
 description: ""
 third_nav_title: Student Link
 ---
-![](/images/bgss%20student%20link.jpg)
-
 **Financial Assistance Schemes (FAS)**
 
 Financial assistance offered by the Ministry of Education and the School Advisory Committee is available to needy students who meet the eligibility criteria stated for the different schemes. Forms can be obtained from the General Office at the stipulated periods of time. Any student in need of financial assistance may also approach the school through their form teachers.
