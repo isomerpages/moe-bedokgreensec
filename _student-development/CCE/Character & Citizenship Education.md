@@ -4,7 +4,7 @@ permalink: /student-development/CCE/
 description: ""
 third_nav_title: CCE
 ---
-![](/images/ecg2023.png)
+![](/images/cce%202023.jpg)
 
 *“Educating the mind without educating the heart is no education at all.”*<br>
 **Aristotle**
