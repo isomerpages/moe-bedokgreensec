@@ -4,7 +4,7 @@ permalink: /student-development/sec2/
 description: ""
 third_nav_title: Level Programme
 ---
-![](/images/camps%202023.jpg)
+![](/images/studying.png)
 
 **Overseas Values-in-Action (OVIA)**
 
