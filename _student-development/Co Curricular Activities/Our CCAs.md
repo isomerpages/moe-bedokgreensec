@@ -12,7 +12,7 @@ Building character? Developing leadership skills? Encouraging entrepreneurial sp
 
 In BGSS, where “Every child matters”, the CCA is part of the Co-Curriculum Programme (CCP) that complements the Instructional Programme (IP) to achieve our BGSS Student Desired Outcomes of : A Reflective &amp; Collaborative LEARNER, An Ethical &amp; Innovative LEADER and A Cultured &amp; Confident CITIZEN.
 
-We have nineteen CCAs in four different categories namely, Physical Sports, Visual &amp; Performing Arts, Clubs &amp; Societies and Uniform Groups. To the best of our abilities, BGSS CCAs serve as platforms to provide opportunities for students to discover their talents and interests in an authentic learning environment and engender the joy of learning in our students.
+We have eighteen CCAs in four different categories namely, Physical Sports, Visual &amp; Performing Arts, Clubs &amp; Societies and Uniform Groups. To the best of our abilities, BGSS CCAs serve as platforms to provide opportunities for students to discover their talents and interests in an authentic learning environment and engender the joy of learning in our students.
 
 Simply click on any one of our CCAs to find out more about them!!
 
