@@ -10,7 +10,7 @@ Click [here](https://go.gov.sg/openhouseflyer) to find out more about our Open H
 
 **Open House Registration**
 
-Click [here](forms.gle/aGNA9ccA1epBu5Bk7) to register for our Open House 2023. 
+Click [here](https://go.gov.sg/bgssopenhouse23) to register for our Open House 2023. 
 
 
 **School Brochure**
