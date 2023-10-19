@@ -15,4 +15,4 @@ Click [here](https://go.gov.sg/bgssopenhouse23) to register for our Open House 2
 
 **School Brochure**
 
-Click [here](https://go.gov.sg/bgssbrochure) to find out more about our school.
+Click here to find out more about our school.
