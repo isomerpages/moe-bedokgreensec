@@ -3,7 +3,6 @@ title: Open House
 permalink: /openhouse/
 description: ""
 ---
-
 ![](/images/school%20flyer.png)
 
 **Open House 2023**
@@ -18,4 +17,4 @@ Click [here](https://go.gov.sg/bgssopenhouse23) to register for our Open House 2
 
 **School Brochure**
 
-Click [here](https://go.gov.sg/openhouseflyer) to find out more about our school.
+Click [here](https://go.gov.sg/bgssbrochure) to find out more about our school.
