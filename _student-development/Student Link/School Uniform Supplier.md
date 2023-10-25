@@ -21,4 +21,4 @@ Kindly refer to [https://www.myuniformshop.com.sg/contact](https://www.myuniform
 
 **Uniform Sales in School**
 
-![sales of uniform](/images/sales%20of%20uniform%202023.png)
+![](/images/sales%20of%20uniform%202023%20new.png)
