@@ -3,7 +3,6 @@ title: Our Contact
 permalink: /our-contact/
 description: ""
 ---
-
 ![](/images/contacts.jpg)
 
 <b>Address:</b> 360 Bedok North Avenue 3, 469722
@@ -34,17 +33,7 @@ The General Office closes on Saturdays, Sundays and Public Holidays.
 
 **Bus Services (BS):**
 
-<b>BS1</b><br>
-18, 28, 66, 67, 69, 168, 228, 506, CT18
-
-<b>BS2</b><br>
-28, 66, 67, 69, 168, 228, 506, CT18
-
-<b>BS3</b><br>
-4N, 14, 14e, 17, 17A, 46, 222
-
-<b>BS4</b><br>
-14, 14e, 17, 17A, 46, 222, 544
+14, 17, 18, 28, 46, 67, 69, 168, 222, 228, 
 
 **MRT Services**
 
