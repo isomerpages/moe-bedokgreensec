@@ -6,8 +6,27 @@ third_nav_title: Student Leadership
 ---
 ![](/images/student%20councillors.png)
 
-**Student Councillors**
+**Student Leadership**
 
-***MD AKMAL DANISH BIN MD IRWAN (HUMILITY 8)***
+At Bedok Green Secondary School, our core mission is to cultivate a new generation of student leaders who epitomise  commitment, competence, courage, and compassion. We believe that these qualities are fundamental not only to effective leadership but also to personal growth and character development.
+Our Student Leadership Programme offers a wide array of opportunities, providing students with diverse leadership roles. These roles include Student Councillors, Peer Support Leaders, House Leaders, CCA Leaders, and Class Executive Committee members. This diversity allows our students to explore leadership roles that align with their individual interests.<br>
 
-As the President of the Student Council of Bedok Green Secondary School from 2018 - 2019, I have had the opportunity of organising a wide range of  activities from council duties to camps, as well as the opportunity to attend external events like the National Day Rally 2018 as well as other leadership workshops.  These experiences have helped me grow from being a shy and timid boy to a confident voice representing the student body. I have learnt that being a leader is not about demanding compliance but one who listens to the opinions of others to pursue the worthy cause of a common good and I have learnt the value of empathy through care and concern for others. Because of student council, I have made a lot of friends from different backgrounds. Through it all, the unwavering support from the teachers have really made my job easier as I could take strong steps knowing that I always had the teachers to catch me if I fell.
+We maintain a rigorous selection and training process to equip our Student Leaders with the skills and knowledge necessary to excel in their leadership roles. Our approach includes the following platforms:<br>
+* Junior Councillor and Peer Support Leader Selection
+* Secondary 3 Student Councillor Training Camp
+* Junior Councillors’ Training
+* Peer Support Leaders’ Training
+* Student Councillor Presidential Elections
+* Class Leaders’ Training
+
+We empower our Student Leaders to take the lead in organising a variety of school events. These events play a significant role in our school's culture and community spirit. Our Student Leaders actively participate in the planning, coordination, and execution of the following school events:<br>
+* Secondary 1 Orientation Programme
+* Youth Day Celebrations
+* Teachers’ Day Celebrations
+* Peer Support Leaders’ Exhibition
+* BGSS Sports Day
+* BGSS Cross Country Competition
+
+By offering our Student Leaders meaningful opportunities to engage in these school events, we enrich the school experience for all students, encourage a strong sense of community, and create an inclusive, uplifting environment. This approach reflects our commitment to nurturing well-rounded, responsible, and empowered individuals who will make positive contributions to both our school and the broader community.
+
+
