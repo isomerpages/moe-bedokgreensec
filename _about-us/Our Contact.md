@@ -33,7 +33,7 @@ The General Office closes on Saturdays, Sundays and Public Holidays.
 
 **Bus Services (BS):**
 
-14, 17, 18, 28, 46, 67, 69, 168, 222, 228, 
+14, 17, 18, 28, 46, 67, 69, 168, 222, 228
 
 **MRT Services**
 
