@@ -28,5 +28,3 @@ We empower our Student Leaders to take the lead in organising a variety of schoo
 * BGSS Cross Country Competition
 
 By offering our Student Leaders meaningful opportunities to engage in these school events, we enrich the school experience for all students, encourage a strong sense of community, and create an inclusive, uplifting environment. This approach reflects our commitment to nurturing well-rounded, responsible, and empowered individuals who will make positive contributions to both our school and the broader community.
-
-
