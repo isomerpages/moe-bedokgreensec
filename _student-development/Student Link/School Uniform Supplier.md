@@ -9,12 +9,16 @@ third_nav_title: Student Link
 My Uniform Shop (ASIA) Pte Ltd<br>
 209, New Upper Changi Road, #03-651, Singapore 460209
 
-Only one Parent and one student is allowed to enter into school or two persons per family is allowed entry into school.
+**Operating Hours**<br>
+Mon to Fri: 3.00 pm to 8.00 pm<br>
+Sat &amp; Sun: 10.00 am to 4.00 pm<br>
+Closed on Every Tuesdays, Public Holiday and Sec 1 Posting Week.<br>
 
-In our effort to social distance, students and parents are encouraged to make their purchase online.
+Kindly refer to [https://www.myuniformshop.com.sg/contact](https://www.myuniformshop.com.sg/contact) for updated operating hours and stock availability before heading down to the retail outlet.
 
-Online Purchase: [www.myuniformshop.com.sg](www.myuniformshop.com.sg)
+**Online Purchase**<br>
+[www.myuniformshop.com.sg](https://www.myuniformshop.com.sg/)
 
-* Sale of school uniform and shoes are available at school’s bookshop during school term.
+**Uniform Sales in School**
 
-![](/images/School%20Uniform%20Calendar.jpg)
+![sales of uniform](/images/sales%20of%20uniform%202023.png)
