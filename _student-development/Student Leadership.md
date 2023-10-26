@@ -7,6 +7,14 @@ description: ""
 
 **Student Leadership**
 
+<style>
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
+</style>
+
+
 At Bedok Green Secondary School, our core mission is to cultivate a new generation of student leaders who epitomise  commitment, competence, courage, and compassion. We believe that these qualities are fundamental not only to effective leadership but also to personal growth and character development.<br>
 
 Our Student Leadership Programme offers a wide array of opportunities, providing students with diverse leadership roles. These roles include Student Councillors, Peer Support Leaders, House Leaders, CCA Leaders, and Class Executive Committee members. This diversity allows our students to explore leadership roles that align with their individual interests.<br>
