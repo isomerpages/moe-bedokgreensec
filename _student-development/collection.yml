@@ -2,7 +2,6 @@ collections:
   student-development:
     output: true
     order:
-      - Learning for Life Programme.md
       - Co Curricular Activities/.keep
       - Co Curricular Activities/Our CCAs.md
       - Co Curricular Activities/Environment Club.md
@@ -36,6 +35,7 @@ collections:
       - Student Link/School Booklist.md
       - Student Link/Financial Assistance Schemes & Awards.md
       - Student Link/Post Secondary Options and Admission Information.md
+      - Learning for Life Programme.md
       - Talent Development Programme.md
       - Level Programme/.keep
       - Level Programme/Sec 1 Outdoor Adventure Camp.md
