@@ -20,6 +20,8 @@ links:
         url: /aesthetics/
       - title: Subject-based Banding
         url: /sbb/
+      - title: Applied Learning Programme
+        url: /academic/alp/
   - title: Student Development
     url: /student-development/Co-Curricular-Activities/
     sublinks:
@@ -29,10 +31,12 @@ links:
         url: /student-development/student-leadership/
       - title: CCE
         url: /student-development/CCE/
+      - title: Learning for Life Programme
+        url: /student-development/llp/
       - title: Student Link
         url: /student-development/studentlink/uniform/
-      - title: Talent Development Programme
-        url: /tdp/
+      - title: Direct School Admission
+        url: /dsa/
       - title: Level Programme
         url: /student-development/camps/
   - title: Our Achievements

@@ -1,8 +1,9 @@
 ---
-title: Applied Learning Programme
+title: Applied Learning Programme (Design and Aeronautical Engineering)
 permalink: /academic/alp/
 description: ""
 third_nav_title: Subjects
+variant: tiptap
 ---
 ![](/images/alp%202023.jpg)[](/images/Applied-learning-programme.jpg)
 

@@ -1,10 +1,10 @@
 ---
 title: Learning for Life Programme
-permalink: /llp/
+permalink: /student-development/llp/
+variant: markdown
 description: ""
-third_nav_title: Subjects
 ---
-![](/images/llp%202023.jpg)[](/images/LLP.jpg)
+![](/images/llp%202023.jpg)
 
 **“Creativity takes courage.”<br>
 Henri Matisse**
