@@ -2,6 +2,7 @@
 title: School Advisory Committee
 permalink: /our-partners/advisory/
 description: ""
+variant: markdown
 ---
 <center>
 
@@ -22,7 +23,7 @@ description: ""
 <b>Mr Sear Hock Rong, Vice-Chairperson</b>
 	
 
-<img style="width:35%" src="/images/ng-kah.jpg">
+<img style="width:35%" src="/images/Kah_Gay_2023.png">
 
 <b>Mr Ng Kah Gay, Honorary Treasurer</b>
 	
