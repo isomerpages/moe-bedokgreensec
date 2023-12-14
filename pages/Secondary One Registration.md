@@ -4,18 +4,4 @@ permalink: /secondaryoneregistration/
 description: ""
 variant: tiptap
 ---
-![](/images/school%20flyer.png)
-
-**Open House 2023**
-
-Click [here](https://go.gov.sg/openhouseflyer) to find out more about our Open House. 
-
-
-**Open House Registration**
-
-Click [here](https://go.gov.sg/bgssopenhouse23) to register for our Open House 2023. 
-
-
-**School Brochure**
-
-Click [here](https://go.gov.sg/bgssbrochure) to find out more about our school.
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/banner01.png"></div><p><strong>Welcome to Bedok Green Secondary School!</strong></p><p>Students are not required to physically report to school following the release of your Secondary 1 Posting Results on 21 Dec 2023. Please read through and follow the instructions below.</p><p>To facilitate the ease of communication with parents/guardians, we will be using the&nbsp;<strong>Parents Gateway (PG)</strong>&nbsp;to disseminate important information. We strongly encourage parents/guardians to go onboard PG.<br><br>Parents/Guardians are to confirm the&nbsp;<strong>Secondary 1 Posting Acknowledgement Form</strong>&nbsp;below by&nbsp;<strong>21 Dec 2023, 12 noon</strong>. Click <a href="https://go.gov.sg/2024postingacknowledgement" rel="noopener noreferrer nofollow" target="_blank">here</a> to fill up the Secondary 1 Posting acknowledgement form.</p><p><strong>Financial Assistance Scheme (FAS) Application</strong>&nbsp;are opened to parents/guardians on 23 December 2022 from 9am to 12pm and 1pm to 3pm. Parents/Guardians are to refer to the instructions <a href="https://go.gov.sg/instructionsforfasapplication" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p><p><strong>Secondary level School Smart Card (SSC)</strong>&nbsp;will be issued to all students entering Secondary 1 in Jan 2024. While waiting for their Secondary level SSCs to be ready, students can continue to use their Primary level SSCs for concessionary travel till end Apr 2024. Students can still purchase the Bus Concession Pass (BCP) using their Primary level SSCs, but they would need to purchase the BCP for Secondary School students.</p><p><strong>Secondary One Booklist</strong></p><p>Click <a href="https://go.gov.sg/s1booklist" rel="noopener noreferrer nofollow" target="_blank">here</a> to access the sec 1 booklist.</p><p></p>
