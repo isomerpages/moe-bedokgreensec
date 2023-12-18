@@ -10,9 +10,9 @@ links:
       - title: Our People
         url: /about-us/Our-People/School-Management-Committee/
       - title: Our Publications
-        url: about-us/ourpublications/
+        url: /about-us/ourpublications/
       - title: Our Contact
-        url: /our-contact/
+        url: /about-us/our-contact/
   - title: Academic Curriculum
     url: /aesthetics/
     sublinks:
