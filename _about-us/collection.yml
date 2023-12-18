@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - BGSS Yearbooks.md
       - About Us.md
       - Our Heritage.md
       - Our People/.keep
@@ -10,4 +9,5 @@ collections:
       - Our People/Teaching Staff.md
       - Our People/Allied Educators.md
       - Our People/Support Staff.md
+      - BGSS Yearbooks.md
       - Our Contact.md
