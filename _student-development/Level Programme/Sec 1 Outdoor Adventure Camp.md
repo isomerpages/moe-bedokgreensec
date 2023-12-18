@@ -3,6 +3,7 @@ title: Sec 1 Outdoor Adventure Camp
 permalink: /student-development/camps/
 description: ""
 third_nav_title: Level Programme
+variant: markdown
 ---
 ![](/images/sec%201%20camp%202023.jpeg)
 
