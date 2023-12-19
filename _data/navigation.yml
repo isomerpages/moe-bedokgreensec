@@ -9,8 +9,10 @@ links:
         url: /about-us/our-heritage/
       - title: Our People
         url: /about-us/Our-People/School-Management-Committee/
+      - title: Our Publications
+        url: /about-us/ourpublications/
       - title: Our Contact
-        url: /our-contact/
+        url: /about-us/our-contact/
   - title: Academic Curriculum
     url: /aesthetics/
     sublinks:
@@ -55,5 +57,5 @@ links:
         url: /our-partners/advisory/
       - title: Parents
         url: /our-partners/psg/
-  - title: Open House
-    url: /openhouse
+  - title: Secondary One Registration
+    url: /secondaryoneregistration
