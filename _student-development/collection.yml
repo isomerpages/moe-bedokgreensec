@@ -1,0 +1,42 @@
+collections:
+  student-development:
+    output: true
+    order:
+      - Co Curricular Activities/.keep
+      - Co Curricular Activities/Our CCAs.md
+      - Co Curricular Activities/Environment Club.md
+      - Co Curricular Activities/Infocomm Club.md
+      - Co Curricular Activities/Outdoor Adventure Club (ODAC).md
+      - Co Curricular Activities/Youth Flying Club.md
+      - Co Curricular Activities/Badminton.md
+      - Co Curricular Activities/Basketball.md
+      - Co Curricular Activities/Football.md
+      - Co Curricular Activities/Softball.md
+      - Co Curricular Activities/Tchoukball.md
+      - Co Curricular Activities/Wushu.md
+      - Co Curricular Activities/Art and Craft.md
+      - Co Curricular Activities/Choir.md
+      - Co Curricular Activities/Concert Band.md
+      - Co Curricular Activities/Dance.md
+      - Co Curricular Activities/Drama.md
+      - Co Curricular Activities/NCC (Land).md
+      - Co Curricular Activities/NPCC.md
+      - Co Curricular Activities/Saint John Brigade.md
+      - Student Leadership.md
+      - CCE/.keep
+      - CCE/Character & Citizenship Education.md
+      - CCE/Citizenship Education.md
+      - CCE/Education & Career Guidance (ECG).md
+      - CCE/Cyber Wellness (CW).md
+      - CCE/Sexuality Education Programme.md
+      - CCE/Values in Action (VIA).md
+      - Learning for Life Programme.md
+      - Student Link/.keep
+      - Student Link/School Uniform Supplier.md
+      - Student Link/School Booklist.md
+      - Student Link/Financial Assistance Schemes & Awards.md
+      - Student Link/Post Secondary Options and Admission Information.md
+      - Direct School Admission.md
+      - Level Programme/.keep
+      - Level Programme/Sec 1 Outdoor Adventure Camp.md
+      - Level Programme/Sec 3 MOE OBS Challenge Programme.md

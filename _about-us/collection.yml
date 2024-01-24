@@ -1,0 +1,13 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - About Us.md
+      - Our Heritage.md
+      - Our People/.keep
+      - Our People/School Management Committee.md
+      - Our People/Teaching Staff.md
+      - Our People/Allied Educators.md
+      - Our People/Support Staff.md
+      - Our Publications.md
+      - Our Contact.md

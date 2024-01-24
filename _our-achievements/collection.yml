@@ -1,0 +1,8 @@
+collections:
+  our-achievements:
+    output: true
+    order:
+      - Our School Achievements.md
+      - Our Academic Achievements.md
+      - Our CCA Achievements.md
+      - Our Alumni Achievements.md
