@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Canteen Advertisement.md
       - About Us.md
       - Our Heritage.md
       - Our People/.keep
@@ -11,4 +10,5 @@ collections:
       - Our People/Allied Educators.md
       - Our People/Support Staff.md
       - Our Publications.md
+      - Canteen Advertisement.md
       - Our Contact.md
