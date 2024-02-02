@@ -26,8 +26,8 @@ dairy based products – packet milk), etc</p>
 <p>Single session school. We are on School Subsidy System in Smart Buddy
 System for students on Financial Assistance with payment made to the individual
 stalls on a monthly basis. The canteen operating hours are Mondays to Fridays
-from 7am to 3pm during the school term.&nbsp;You are required to operate
-during non-routine hours or school holidays where there are lessons, activities
+from 7am to 3pm during the school term. You are required to operate during
+non-routine hours or school holidays where there are lessons, activities
 and national examination as requested by the school.</p>
 <p><strong>&nbsp;Location of School :</strong>
 </p>
