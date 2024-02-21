@@ -8,14 +8,8 @@ description: ""
 </p>
 <p><strong><u>Type of Stalls Available:</u></strong>
 </p>
-<p>A.&nbsp;&nbsp;&nbsp; Hot &amp; Cold Drink Stall</p>
-<p>B.&nbsp;&nbsp;&nbsp; Fruit, Dessert &amp; Drink Stall</p>
-<p><strong>A.&nbsp;&nbsp;&nbsp; <u>Hot &amp; Cold Drink Stall</u></strong>
-</p>
-<p>Menu may include a variety of hot drinks, assorted bottled and packet
-drinks, assorted titbits, etc</p>
-<p></p>
-<p><strong>B.&nbsp;&nbsp;&nbsp; <u>Fruit, Dessert &amp; Drink Stall</u></strong>
+<p>A.&nbsp;&nbsp;&nbsp;Fruit, Dessert &amp; Drink Stall</p>
+<p><strong>A.&nbsp;&nbsp;&nbsp; <u>Fruit, Dessert &amp; Drink Stall</u></strong>
 </p>
 <p>Menu may include a variety of cut fruits, freshly squeezed fruit juice,
 hot/cold dessert (e.g. red bean soup, cereal), homemade beverages (e.g.
@@ -67,7 +61,7 @@ from <a href="https://schadmsvc.moe.gov.sg/files/appexistingsch.pdf" rel="noopen
 </p>
 <p>Interested applicants must submit the following documents to Bedok Green
 Secondary School General Office or email to <a href="mailto:bgss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bgss@moe.edu.sg</a> (Attention: Administration
-Manager) by 15 Feb 2024.</p>
+Manager).</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Completed application form</p>
@@ -96,9 +90,8 @@ sampling (if applicable).</p>
 own expense) for food tasting session by the Canteen Selection Committee.</p>
 </li>
 <li>
-<p>Successful applicant will commence operation of the Hot &amp; Cold Drink
-Stall from 11 Mar 2024 and Fruit, Dessert &amp; Drink Stall from 1 Mar
-2024.</p>
+<p>Successful applicant will commence operation of the Fruit, Dessert &amp;
+Drink Stall from 1 Mar 2024.</p>
 <p></p>
 </li>
 </ul>
