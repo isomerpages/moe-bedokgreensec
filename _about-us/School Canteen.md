@@ -90,9 +90,8 @@ sampling (if applicable).</p>
 own expense) for food tasting session by the Canteen Selection Committee.</p>
 </li>
 <li>
-<p>Successful applicant will commence operation of the Hot &amp; Cold Drink
-Stall from 11 Mar 2024 and Fruit, Dessert &amp; Drink Stall from 1 Mar
-2024.</p>
+<p>Successful applicant will commence operation of the Fruit, Dessert &amp;
+Drink Stall from 1 Mar 2024.</p>
 <p></p>
 </li>
 </ul>
