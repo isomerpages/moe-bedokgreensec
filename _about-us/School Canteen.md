@@ -9,12 +9,17 @@ description: ""
 <p><strong><u>Type of Stalls Available:</u></strong>
 </p>
 <p>A.&nbsp;&nbsp;&nbsp;Fruit, Dessert &amp; Drink Stall</p>
+<p>B. Chinese Noodle Stall</p>
 <p><strong>A.&nbsp;&nbsp;&nbsp; <u>Fruit, Dessert &amp; Drink Stall</u></strong>
 </p>
 <p>Menu may include a variety of cut fruits, freshly squeezed fruit juice,
 hot/cold dessert (e.g. red bean soup, cereal), homemade beverages (e.g.
 barley, chrysanthemum tea), assorted packet drinks (e.g. fruit juice based,
 dairy based products – packet milk), etc</p>
+<p><strong>B.&nbsp;&nbsp;&nbsp; <u>Chinese Noodle Stall</u></strong>
+</p>
+<p>Menu may include varieties such as wanton noodle, fish soup noodle, ban
+mian, hor fun, laksa, tom yum noodle, fried hokkien mee, etc.</p>
 <p>&nbsp;<strong>School Information :</strong>
 </p>
 <p>Single session school. We are on School Subsidy System in Smart Buddy
