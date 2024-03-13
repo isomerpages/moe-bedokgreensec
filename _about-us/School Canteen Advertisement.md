@@ -4,7 +4,6 @@ permalink: /about-us/schoolcanteen/
 variant: tiptap
 description: ""
 ---
-<p>School Canteen Advertisement</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/school_canteen.png">
 </div>
