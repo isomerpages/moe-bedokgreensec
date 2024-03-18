@@ -4,8 +4,9 @@ permalink: /about-us/schoolcanteen/
 variant: tiptap
 description: ""
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/school_canteen.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/school_canteen_T2.png">
 </div>
 <p><strong>Requirements :</strong>
 </p>
