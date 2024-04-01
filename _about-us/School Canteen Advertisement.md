@@ -58,8 +58,8 @@ Course) and certificates of relevant courses attended.</p>
 </li>
 <li>
 <p>Submit the completed form and documents indicated above by the closing
-date via email to <a href="bgss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bgss@moe.edu.sg</a> OR to Bedok Green Secondary School
-General Office.</p>
+date via email to <a href="mailto:bgss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bgss@moe.edu.sg</a> OR to Bedok Green Secondary
+School General Office.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Attention: Administration Manager</p>
