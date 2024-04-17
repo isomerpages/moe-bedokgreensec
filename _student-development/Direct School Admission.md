@@ -10,8 +10,3 @@ variant: markdown
 
 Everybody is born with a talent ingrained in them. Here at Bedok Green Secondary School, we groom it!
 
-**Direct School Admission**
-
-Find out more about Bedok Green Secondary School Direct School Admission Talent areas below.
-
-[Bedok Green Secondary School DSA Exercise 2023](https://go.gov.sg/bgssdsa2023)
