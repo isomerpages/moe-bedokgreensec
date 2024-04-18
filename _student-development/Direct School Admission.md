@@ -9,3 +9,9 @@ variant: markdown
 *“You just have to find that thing that's special about you that distinguishes you from all the others, and through true talent, hard work, and passion, anything can happen.”*<br>**Dr. Dre**
 
 Everybody is born with a talent ingrained in them. Here at Bedok Green Secondary School, we groom it!
+
+**2024 DSA-Sec for Student Admissions to Sec 1 in 2025 – BGSS DSA Talent Areas**
+
+Click [here](https://go.gov.sg/bgssdsatalentareas) to find out more about Bedok Green Secondary School Direct School Admission Talent areas. 
+
+2024 DSA-Sec application will start in May 2024. More details will be released by end-Apr 2024.
