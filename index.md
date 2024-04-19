@@ -15,7 +15,4 @@ sections:
         - title: Useful Links
           description: ""
           url: /links/
-  - resources:
-      title: Latest Announcements
-      id: resources
 ---
