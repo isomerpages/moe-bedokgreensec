@@ -2,9 +2,20 @@
 title: Announcements
 permalink: /announcements/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-* [Parent Handbook on 1 to 1 Learning](/files/1-to-1-Learning.pdf)
-
-* [3D Tour of Our School Campus](https://captur3d.io/view/bedok-green-secondary-school/360-bedok-north-ave-3-singapore-469722)
-* [2024 DSA-Sec for Student Admissions to Sec 1 in 2025 – BGSS DSA Talent Areas](https://go.gov.sg/bgssdsatalentareas)
+<ul>
+<li>
+<p><a href="/files/1-to-1-Learning.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook on 1 to 1 Learning</a>
+</p>
+</li>
+<li>
+<p><a href="https://captur3d.io/view/bedok-green-secondary-school/360-bedok-north-ave-3-singapore-469722" rel="noopener noreferrer nofollow" target="_blank">3D Tour of Our School Campus</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/bgssdsatalentareas" rel="noopener noreferrer nofollow" target="_blank">2024 DSA-Sec for Student Admissions to Sec 1 in 2025 – BGSS DSA Talent Areas</a>
+</p>
+</li>
+</ul>
+<p></p>
