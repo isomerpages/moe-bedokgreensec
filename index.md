@@ -16,6 +16,6 @@ sections:
           description: ""
           url: /links/
   - resources:
-      subtitle: Latest Announcements
       id: resources
+      title: Latest Announcements
 ---
