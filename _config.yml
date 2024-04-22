@@ -6,7 +6,7 @@ colors:
   secondary-color: "#9b9b9b"
   media-colors:
     - title: media-color-one
-      color: "#9d6e04"
+      color: "#39630f"
     - title: media-color-two
       color: "#f8e71c"
     - title: media-color-three
@@ -57,3 +57,4 @@ shareicon: /images/BGSS-School-Crest.jpg
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""
