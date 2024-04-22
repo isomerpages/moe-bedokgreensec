@@ -7,3 +7,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p><strong>2024 DSA-Sec for Student Admissions to Sec 1 in 2025 – BGSS DSA Talent Areas</strong>
+</p>
+<p>Click <a href="https://go.gov.sg/bgssdsatalentareas" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+find out more about Bedok Green Secondary School Direct School Admission
+Talent areas.</p>
+<p>2024 DSA-Sec application will start in May 2024. More details will be
+released by end-Apr 2024.</p>
