@@ -2,6 +2,7 @@
 title: Our Contact
 permalink: /our-contact/
 description: ""
+variant: tiptap
 ---
 ![](/images/contacts.jpg)
 
