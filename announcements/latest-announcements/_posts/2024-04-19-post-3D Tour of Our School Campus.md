@@ -7,8 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>Bedok Green Secondary School 3D Tour</strong>
-</p>
 <p>Click <a href="https://go.gov.sg/3dbgsstour" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 view the 3D tour of our school campus from your computers or mobile devices.</p>
 <p>For interactive experience, you can click on the hotspot to visit different
