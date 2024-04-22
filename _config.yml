@@ -3,12 +3,12 @@ url: https://www.bedokgreensec.edu.sg
 favicon: /images/BGSS-School-Crest.jpg
 colors:
   primary-color: "#396503"
-  secondary-color: "#9b9b9b"
+  secondary-color: "#4d8911"
   media-colors:
     - title: media-color-one
-      color: "#9d6e04"
+      color: "#39630f"
     - title: media-color-two
-      color: "#f8e71c"
+      color: "#62a818"
     - title: media-color-three
       color: "#b8e986"
     - title: media-color-four
@@ -52,8 +52,9 @@ plugins:
 staging: https://staging.d3i9w0wa3mkcvj.amplifyapp.com
 prod: https://master.d3i9w0wa3mkcvj.amplifyapp.com
 is_government: false
-resources_name: "2022"
+resources_name: announcements
 shareicon: /images/BGSS-School-Crest.jpg
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""
