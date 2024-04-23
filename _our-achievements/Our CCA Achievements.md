@@ -155,7 +155,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022 Unit Recognition Award</p>
+<p>2023 Unit Recognition Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction</p>
