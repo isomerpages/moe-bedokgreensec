@@ -27,10 +27,10 @@ variant: tiptap
 <p>Environment Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Green Schools @ South East Awards</p>
+<p>Green Schools @ South East Awards 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Certificate of Sustained Excellence</p>
+<p>Sustained Excellence Award</p>
 </td>
 </tr>
 </tbody>
