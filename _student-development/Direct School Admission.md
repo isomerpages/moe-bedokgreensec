@@ -14,4 +14,3 @@ Everybody is born with a talent ingrained in them. Here at Bedok Green Secondary
 
 Click [here](https://go.gov.sg/bgssdsatalentareas) to find out more about Bedok Green Secondary School Direct School Admission Talent areas. 
 
-2024 DSA-Sec application will start in May 2024. More details will be released by end-Apr 2024.
