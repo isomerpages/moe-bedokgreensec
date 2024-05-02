@@ -22,10 +22,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLScOeyTPv9eCde9ODpYXcYPKT116JcPGgqKSeSUTpataFn4bJQ/formrestricted" rel="noopener noreferrer nofollow" target="_blank">ICT Service Request</a>
-</p>
-</li>
-<li>
 <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeDFLWdR15zzQxTaEWskqzjbDEt7PkuAEIQLlxvsaiiBhqsBA/viewform" rel="noopener noreferrer nofollow" target="_blank">Fault Reporting</a>
 </p>
 </li>
