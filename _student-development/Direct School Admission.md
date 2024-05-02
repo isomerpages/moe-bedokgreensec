@@ -12,5 +12,4 @@ Everybody is born with a talent ingrained in them. Here at Bedok Green Secondary
 
 **2024 DSA-Sec for Student Admissions to Sec 1 in 2025 – BGSS DSA Talent Areas**
 
-Click [here](https://go.gov.sg/bgssdsatalentareas) to find out more about Bedok Green Secondary School Direct School Admission Talent areas. 
-
+Click [here](https://go.gov.sg/bgssdsatalentareas) to find out more about Bedok Green Secondary School Direct School Admission Talent areas.
