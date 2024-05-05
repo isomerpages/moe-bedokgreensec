@@ -7,9 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/td 2023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_2024.png">
 </div>
 <p><em>“You just have to find that thing that's special about you that distinguishes you from all the others, and through true talent, hard work, and passion, anything can happen.”</em>
 </p>
