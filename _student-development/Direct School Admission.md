@@ -4,7 +4,7 @@ permalink: /dsa/
 description: ""
 variant: markdown
 ---
-![](/images/td%202023.jpg)
+![](/images/DSA_2024.png)
 
 *“You just have to find that thing that's special about you that distinguishes you from all the others, and through true talent, hard work, and passion, anything can happen.”*<br>**Dr. Dre**
 
