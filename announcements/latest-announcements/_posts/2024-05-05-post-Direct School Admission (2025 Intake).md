@@ -16,9 +16,11 @@ variant: tiptap
 </p>
 <p>Everybody is born with a talent ingrained in them. Here at Bedok Green
 Secondary School, we groom it!</p>
-<p><strong>2024 DSA-Sec for Student Admissions to Sec 1 in 2025 – BGSS DSA Talent Areas</strong>
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
+You have from <strong>11am on Tuesday, 7 May 2024 to 3pm on Monday, 3 Jun 2024</strong> to
+submit your child's application.</p>
+<p>For more details, please refer to MOE website: <a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
 </p>
 <p>Click <a href="https://go.gov.sg/bgssdsatalentareas" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-find out more about Bedok Green Secondary School Direct School Admission
-Talent areas.</p>
+find out more about Bedok Green Secondary School DSA Exercise.</p>
 <p></p>
