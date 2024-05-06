@@ -14,7 +14,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/bgssdsatalentareas" rel="noopener noreferrer nofollow" target="_blank">2024 DSA-Sec for Student Admissions to Sec 1 in 2025 – BGSS DSA Talent Areas</a>
+<p><a href="https://go.gov.sg/bgssdsaexercise2024" rel="noopener noreferrer nofollow" target="_blank">Direct School Admission (2025 Intake)</a>
 </p>
 </li>
 </ul>
