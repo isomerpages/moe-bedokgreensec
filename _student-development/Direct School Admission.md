@@ -14,4 +14,4 @@ Application for DSA-Sec can be submitted through the online DSA-Sec Portal. You 
 
 For more details, please refer to MOE website: [www.moe.gov.sg/dsa-sec](www.moe.gov.sg/dsa-sec)
 
-Click [here](https://go.gov.sg/bgssdsatalentareas) to find out more about Bedok Green Secondary School DSA Exercise.
+Click [here](https://go.gov.sg/bgssdsaexercise2024) to find out more about Bedok Green Secondary School DSA Exercise.
