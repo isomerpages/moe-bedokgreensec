@@ -21,6 +21,6 @@ You have from <strong>11am on Tuesday, 7 May 2024 to 3pm on Monday, 3 Jun 2024</
 submit your child's application.</p>
 <p>For more details, please refer to MOE website: <a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
 </p>
-<p>Click <a href="https://go.gov.sg/bgssdsatalentareas" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Click <a href="https://go.gov.sg/bgssdsaexercise2024" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 find out more about Bedok Green Secondary School DSA Exercise.</p>
 <p></p>
