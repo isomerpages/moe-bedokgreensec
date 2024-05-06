@@ -2,6 +2,7 @@
 title: Our Alumni Achievements
 permalink: /alumniachievements/
 description: ""
+variant: markdown
 ---
 ![](/images/achievements23.png)
 
@@ -145,17 +146,13 @@ description: ""
 
 **Hoang Thai Anh**
 
- <img src="/images/Alumni%20achievements/thai-anh-235x300.png" style="width:30%">
-
 * Obtained 5 Distinctions for GCE A-Level Examinations, Nanyang Junior College
 * Graduated from BGSS in 2017
 
  
 **Nguyen Duc Nhat Thanh**
 
- <img src="/images/Alumni%20achievements/nhat%20thanh.jpeg" style="width:30%">
-
-* Recipient of IMDA Gold Medal and Prize, Side Effects Prize
+ * Recipient of IMDA Gold Medal and Prize, Side Effects Prize
 * Diploma with Merit in Animation and 3D Arts, Ngee Ann Polytechnic
 * Graduated from BGSS in 2017
  
@@ -163,8 +160,6 @@ description: ""
  
 
 **Chou Shigeta Anmi**
-
- <img src="/images/Alumni%20achievements/shigeta%20anmi.jpg" style="width:30%">
 
 * Diploma with Merit in Mass Communication, Ngee Ann Polytechnic
 * Graduated from BGSS in 2017
