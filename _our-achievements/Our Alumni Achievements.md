@@ -89,9 +89,6 @@ variant: tiptap
 </ul>
 <p><strong>Aw Rui Huan</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/Alumni%20achievements/rui.png">
-</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Recipient of Course Gold Medal and Director’s List Award</p>
@@ -105,9 +102,6 @@ variant: tiptap
 </ul>
 <p><strong>Ong Hui Qin</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/Alumni%20achievements/ong.png">
-</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Recipient of SP Engineering Scholarship</p>
@@ -121,9 +115,6 @@ variant: tiptap
 </ul>
 <p><strong>Wong Zhi Hung Xavier</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/Alumni%20achievements/Xavier-Wong-300x287.jpg">
-</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Recipient of Excel Marco Industrial Systems Course Bronze Medal and Director’s
@@ -138,9 +129,6 @@ List Award</p>
 </ul>
 <p><strong>Nicole Chow Hui Lin</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/Alumni%20achievements/nicole.png">
-</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Recipient of Captive Media Silver Medal &amp; Prize</p>
