@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Japanese_stall.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Japanese_stall_updated.png">
 </div>
 <p><strong>Requirements :</strong>
 </p>
@@ -87,5 +87,4 @@ own expense) for food tasting session by the Canteen Selection Committee.</p>
 </ul>
 <p>For any enquiries, you may contact Mdm Vivien Tan, Administration Manager
 at 64463301.</p>
-<p></p>
 <p></p>
