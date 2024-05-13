@@ -52,7 +52,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p><strong>Financial Assistance Schemes and Scholarship</strong>
+<p><strong>Financial Assistance Schemes, Awards and Scholarships</strong>
 </p>
 </th>
 </tr>
