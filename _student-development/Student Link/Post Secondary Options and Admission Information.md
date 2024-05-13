@@ -68,21 +68,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Financial Assistance Information for Institutes of Higher Education Learning (IHLs)</strong>
+<p><strong>MOE Awards and Scholarships</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/education/financial-assistance/financial-assistance-information-for-ihls" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education/financial-assistance/financial-assistance-information-for-ihls</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MOE Scholarships</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/admissions/scholarships" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/admissions/scholarships</a>
+<p><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/awards-scholarships</a>
 </p>
 </td>
 </tr>
