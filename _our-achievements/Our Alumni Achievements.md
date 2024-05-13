@@ -17,7 +17,7 @@ variant: tiptap
 <p>Owner cum Managing Director, Newash Facility Management Pte Ltd</p>
 </li>
 <li>
-<p>Member of BGSS Advisory Committee 2019</p>
+<p>Chairman of BGSS Advisory Committee 2024</p>
 </li>
 <li>
 <p>Student of BGSS Pioneer Cohort (2001)</p>
