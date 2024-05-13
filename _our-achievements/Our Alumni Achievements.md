@@ -30,7 +30,7 @@ variant: tiptap
 <p>Bachelor of Science (Applied Mathematics), NUS 2016</p>
 </li>
 <li>
-<p>Graduated from BGSS in 2010*</p>
+<p>Graduated from BGSS in 2010</p>
 </li>
 </ul>
 <p><strong>Lee Wei Lin</strong>
