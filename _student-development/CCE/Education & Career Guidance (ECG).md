@@ -3,6 +3,7 @@ title: Education & Career Guidance (ECG)
 permalink: /student-development/ecg/
 description: ""
 third_nav_title: CCE
+variant: tiptap
 ---
 ![](/images/ecg%20new.png)
 
@@ -25,6 +26,10 @@ Click [here](https://go.gov.sg/ecgbgss) to learn more about latest ECG events / 
 
 **Early Admission Exercise**
 
-Click [here](https://go.gov.sg/iteeae23) to find out more about ITE Early Admission Exercise.
+Click [here](https://www.moe.gov.sg/post-secondary/admissions/ite-eae) to find out more about ITE Early Admission Exercise.
 
-Click on this [link](https://www.ite.edu.sg/courses/full-time-courses/nitec-and-3-year-higher-nitec ) to find out about the courses available for the 3-Year Higher Nitec courses.
+Click [here](https://sites.google.com/moe.edu.sg/ecgbgss/ite-updates-events) to find out more about the 3-Year Higher Nitec &amp; ITE Diploma Programmes.
+
+Click [here](https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp?type=Application%20Procedure) to find out more about Poly Early Admission Exercise.
+
+Click [here](https://sites.google.com/moe.edu.sg/ecgbgss/jc-updates-events) to find out more about DSA-JC.
