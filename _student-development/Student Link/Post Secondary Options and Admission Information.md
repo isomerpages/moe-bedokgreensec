@@ -42,43 +42,6 @@ variant: tiptap
 </tbody>
 </table>
 <p>
-<br>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<p><strong>Financial Assistance Schemes, Awards and Scholarships</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MOE Financial Assistance Scheme</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MOE Awards and Scholarships</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/awards-scholarships</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
 <br>Click <a href="https://www.bedokgreensec.edu.sg/student-development/ecg/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 find out more about the post-secondary options and admission information.</p>
 <p></p>
