@@ -31,7 +31,7 @@ variant: tiptap
 <p><a href="https://go.gov.sg/polyeae2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/polyeae2024</a>
 </p>
 <p></p>
-<p>Click <a href="https://sites.google.com/moe.edu.sg/ecgbgss/polytechnic-updates-events" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Click <a href="https://go.gov.sg/polyupdatesevents" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 find out more about Polytechnic Updates or Events.</p>
 </td>
 </tr>
