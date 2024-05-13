@@ -9,15 +9,12 @@ variant: tiptap
 </div>
 <p><strong>Aaron Rylan</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/Alumni%20achievements/Aaron.png">
-</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Owner cum Managing Director, Newash Facility Management Pte Ltd</p>
 </li>
 <li>
-<p>Member of BGSS Advisory Committee 2019</p>
+<p>Chairperson of BGSS Advisory Committee 2024</p>
 </li>
 <li>
 <p>Student of BGSS Pioneer Cohort (2001)</p>
@@ -25,9 +22,6 @@ variant: tiptap
 </ul>
 <p><strong>Yuhanis Binte Kadis</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/Alumni%20achievements/Yuhanis-150x150.png">
-</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Recipient of the Lee Kuan Yew Award for All-Round Excellence 2010</p>
@@ -36,14 +30,11 @@ variant: tiptap
 <p>Bachelor of Science (Applied Mathematics), NUS 2016</p>
 </li>
 <li>
-<p>Graduated from BGSS in 2010*</p>
+<p>Graduated from BGSS in 2010</p>
 </li>
 </ul>
 <p><strong>Lee Wei Lin</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/Alumni%20achievements/wei-lin-150x150.png">
-</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Recipient of the Lee Kuan Yew Award for All-Round Excellence 2012</p>
@@ -57,9 +48,6 @@ variant: tiptap
 </ul>
 <p><strong>Muhammad Noor Adris B Masjudi</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/Alumni%20achievements/noor.png">
-</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Recipient of Module Prize</p>
@@ -73,9 +61,6 @@ variant: tiptap
 </ul>
 <p><strong>Yusuf Bin Muhd Azwan</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/Alumni%20achievements/yusuf.png">
-</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Recipient of Model Student Award</p>
