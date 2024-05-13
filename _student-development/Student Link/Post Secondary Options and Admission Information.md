@@ -42,6 +42,6 @@ variant: tiptap
 </tbody>
 </table>
 <p>
-<br>Click <a href="https://www.bedokgreensec.edu.sg/student-development/ecg/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<br>Click <a href="https://www.bedokgreensec.moe.edu.sg/student-development/ecg/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 find out more about the post-secondary options and admission information.</p>
 <p></p>
