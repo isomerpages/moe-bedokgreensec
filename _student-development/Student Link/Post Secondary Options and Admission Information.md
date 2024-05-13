@@ -7,7 +7,11 @@ variant: tiptap
 ---
 <p><strong>Post-Secondary Options and Admission Information</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -21,17 +25,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/education/education-system" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education/education-system</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MOE Education &amp; Career Guidance (ECG)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/education-and-career-guidance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/education-and-career-guidance</a>
+<p><a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/</a>
 </p>
 </td>
 </tr>
@@ -50,7 +44,11 @@ variant: tiptap
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -64,7 +62,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/education/financial-assistance/moe-financial-assistance-scheme-(fas)" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education/financial-assistance/moe-financial-assistance-scheme-(fas)</a>
+<p><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>
 </p>
 </td>
 </tr>
@@ -93,7 +91,11 @@ variant: tiptap
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
