@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ecg%20new.png">
 </div>
-<p><em>“Dreams are extremely important. You can’t do it unless you imagine it.”</em>
+<p><em>“Dreams are extremely important. You can’t do it unless you imagine it.”</em> 
 <br><strong>George Lucas</strong>
 </p>
 <p>When Steve Jobs first started Apple, his aspiration was to get a computer
