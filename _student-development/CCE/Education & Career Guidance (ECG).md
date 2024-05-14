@@ -5,31 +5,43 @@ description: ""
 third_nav_title: CCE
 variant: tiptap
 ---
-![](/images/ecg%20new.png)
-
-*“Dreams are extremely important. You can’t do it unless you imagine it.”*<br>
-**George Lucas**
-
-When Steve Jobs first started Apple, his aspiration was to get a computer in the hands of everyday people. And today, he has succeeded beyond his wildest dream. Today, Apple is the world’s largest information technology company. This, together with hard work is the power of a dream.
-
-**Our Curriculum**
-
-In Bedok Green Secondary School, we bring students through a journey of discovery. (Who am I?) We expose them to the different options that are available in the education scene. (Where am I going?) We guide them on the different ways towards taking one step closer to their dream. (How do I get there?)
-
-**Our Enrichment**
-
-In Bedok Green Secondary, ECG goes beyond the classroom walls. We have specially invited speakers from the different industries to share during our Industries and Career Day. Students get to learn about what it is to be working in that profession and even ask questions to quench their curiosity. We also provide students with hands-on experiences through our Elective Modules and visits to Polytechnics and ITEs.
-
-**ECG microsite**
-
-Click [here](https://go.gov.sg/ecgbgss) to learn more about latest ECG events / experience sessions and to explore and gain valuable skillsets.
-
-**Early Admission Exercise**
-
-Click [here](https://www.moe.gov.sg/post-secondary/admissions/ite-eae) to find out more about ITE Early Admission Exercise.
-
-Click [here](https://sites.google.com/moe.edu.sg/ecgbgss/ite-updates-events) to find out more about the 3-Year Higher Nitec &amp; ITE Diploma Programmes.
-
-Click [here](https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp?type=Application%20Procedure) to find out more about Poly Early Admission Exercise.
-
-Click [here](https://sites.google.com/moe.edu.sg/ecgbgss/jc-updates-events) to find out more about DSA-JC.
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ecg%20new.png">
+</div>
+<p><em>“Dreams are extremely important. You can’t do it unless you imagine it.”</em> 
+<br><strong>George Lucas</strong>
+</p>
+<p>When Steve Jobs first started Apple, his aspiration was to get a computer
+in the hands of everyday people. And today, he has succeeded beyond his
+wildest dream. Today, Apple is the world’s largest information technology
+company. This, together with hard work is the power of a dream.</p>
+<p><strong>Our Curriculum</strong>
+</p>
+<p>In Bedok Green Secondary School, we bring students through a journey of
+discovery. (Who am I?) We expose them to the different options that are
+available in the education scene. (Where am I going?) We guide them on
+the different ways towards taking one step closer to their dream. (How
+do I get there?)</p>
+<p><strong>Our Enrichment</strong>
+</p>
+<p>In Bedok Green Secondary, ECG goes beyond the classroom walls. We have
+specially invited speakers from the different industries to share during
+our Industries and Career Day. Students get to learn about what it is to
+be working in that profession and even ask questions to quench their curiosity.
+We also provide students with hands-on experiences through our Elective
+Modules and visits to Polytechnics and ITEs.</p>
+<p><strong>ECG microsite</strong>
+</p>
+<p>Click <a href="https://go.gov.sg/ecgbgss" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+learn more about latest ECG events / experience sessions and to explore
+and gain valuable skillsets.</p>
+<p><strong>Early Admission Exercise</strong>
+</p>
+<p>Click <a href="https://www.ite.edu.sg/admissions/full-time-courses/early-admissions-exercise" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+find out more about ITE Early Admission Exercise.</p>
+<p>Click <a href="https://sites.google.com/moe.edu.sg/ecgbgss/ite-updates-events" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+find out more about the 3-Year Higher Nitec &amp; ITE Diploma Programmes.</p>
+<p>Click <a href="https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp?type=Application%20Procedure" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+find out more about Poly Early Admission Exercise.</p>
+<p>Click <a href="https://sites.google.com/moe.edu.sg/ecgbgss/jc-updates-events" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+find out more about DSA-JC.</p>
