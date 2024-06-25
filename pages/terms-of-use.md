@@ -59,7 +59,7 @@ Site are protected by copyright and may not be reproduced or appropriated
 in any manner without written permission of Bedok Green Secondary School.</p>
 </li>
 </ol>
-<h4><strong>Right of Access </strong></h4>
+<h4><strong>Right of Access</strong></h4>
 <ol start="8" data-tight="true" class="tight">
 <li>
 <p>Bedok Green Secondary School reserves all rights to deny or restrict access
@@ -146,7 +146,7 @@ on any other site reached by links to or from this Web Site or any of the
 Contents.</p>
 </li>
 </ol>
-<h4><strong>Governing Law </strong></h4>
+<h4><strong>Governing Law</strong></h4>
 <ol start="19" data-tight="true" class="tight">
 <li>
 <p>These Terms of Use shall be governed and construed in accordance with
