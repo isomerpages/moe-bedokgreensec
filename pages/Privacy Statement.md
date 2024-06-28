@@ -20,7 +20,7 @@ us to identify you individually.</p>
 provide us with personally identifiable data, we may share necessary data
 with other Government agencies, so as to serve you in a most efficient
 and effective way, unless such sharing is prohibited by legislation. We
-will NOT share your personal data with non-Government entities, except
+will not share your personal data with non-Government entities, except
 where such entities have been authorised to carry out specific Government
 services.</p>
 </li>
