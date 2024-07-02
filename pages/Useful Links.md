@@ -29,9 +29,5 @@ variant: tiptap
 <p><a href="https://bedokgreensec.moe.edu.sg/wp-content/uploads/2020/04/BGSS-SLS-Password-Reset-mar2020.pdf" rel="noopener noreferrer nofollow" target="_blank">SLS Password Reset</a>
 </p>
 </li>
-<li>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSc328888esmUnK5qLhkeIDhvf7SfjL8HWj6wHKjfTWk6tV8_A/viewform" rel="noopener noreferrer nofollow" target="_blank">BGSS Event Support Request Form</a>
-</p>
-</li>
 </ul>
 <p></p>
