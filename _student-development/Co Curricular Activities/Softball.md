@@ -3,8 +3,9 @@ title: Softball
 permalink: /student-development/Softball/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
-![](/images/softball%202023.png)
+![](/images/softball_2024.jpg)
 
 **Softball**
 
