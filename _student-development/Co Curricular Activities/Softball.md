@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: markdown
 ---
-![](/images/softball_2024.jpg)
+![](/images/softball_20241.jpg)
 
 **Softball**
 
