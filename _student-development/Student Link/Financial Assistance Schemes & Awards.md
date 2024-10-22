@@ -104,9 +104,9 @@ Fund
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$7.00* per school day meal allowance subsidy
+<p>$7.60* per school day meal allowance subsidy
 <br>
-<br>*Effective from 1 January 2023</p>
+<br>*Effective from 1 January 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For all MOE FAS and SAC FAS students</p>
@@ -158,7 +158,7 @@ Principal.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Disbursement of $95 per month</p>
+<p>Disbursement of $100 per month</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore citizens or permanent residents
@@ -167,9 +167,7 @@ Principal.</p>
 <br>Full-time student receiving formal education from mainstream secondary
 school
 <br>
-<br>Living in a 4-rm HDB flat or smaller
-<br>
-<br>Family’s per-capita income not exceeding $625
+<br>Family’s per-capita income not exceeding $750
 <br>
 <br>Must not have been on the fund for more than two years.
 <br>
@@ -417,16 +415,13 @@ his/her behaviour and actions.</p>
 </p>
 <p>Starting from 2022, the Keder Bin Mohamed Said Scholarship is awarded
 to outstanding students in recognition of their achievement and good character.
-This prestigious award aims to motivate students to strive for excellence.
-For more information and application, please click <a href="https://go.gov.sg/bgssbursary" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+This prestigious award aims to motivate students to strive for excellence.</p>
 <p><strong>The Rogayah Binte Kadir Bursary</strong>
 </p>
 <p>Starting from 2022, the Rogayah Binte Kadir Bursary aims to support and
 motivate students from less advantaged backgrounds. This bursary provides
 financial assistance to deserving students based on our eligibility criteria
-and assessed level of needs of the applications. For more information and
-application, please click&nbsp;<a href="https://go.gov.sg/bgssbursary" rel="noopener noreferrer nofollow" target="_blank">here.</a>
-</p>
+and assessed level of needs of the applications.</p>
 <p><strong>Model Student Award</strong>
 </p>
 <p><strong>Sustained Edusave Character Award (ECHA)</strong>
