@@ -104,9 +104,9 @@ Fund
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$7.00* per school day meal allowance subsidy
+<p>$7.60* per school day meal allowance subsidy
 <br>
-<br>*Effective from 1 January 2023</p>
+<br>*Effective from 1 January 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For all MOE FAS and SAC FAS students</p>
@@ -158,7 +158,7 @@ Principal.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Disbursement of $95 per month</p>
+<p>Disbursement of $100 per month</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore citizens or permanent residents
@@ -167,9 +167,7 @@ Principal.</p>
 <br>Full-time student receiving formal education from mainstream secondary
 school
 <br>
-<br>Living in a 4-rm HDB flat or smaller
-<br>
-<br>Family’s per-capita income not exceeding $625
+<br>Family’s per-capita income not exceeding $750
 <br>
 <br>Must not have been on the fund for more than two years.
 <br>
