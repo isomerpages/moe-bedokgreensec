@@ -415,16 +415,13 @@ his/her behaviour and actions.</p>
 </p>
 <p>Starting from 2022, the Keder Bin Mohamed Said Scholarship is awarded
 to outstanding students in recognition of their achievement and good character.
-This prestigious award aims to motivate students to strive for excellence.
-For more information and application, please click <a href="https://go.gov.sg/bgssbursary" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+This prestigious award aims to motivate students to strive for excellence.</p>
 <p><strong>The Rogayah Binte Kadir Bursary</strong>
 </p>
 <p>Starting from 2022, the Rogayah Binte Kadir Bursary aims to support and
 motivate students from less advantaged backgrounds. This bursary provides
 financial assistance to deserving students based on our eligibility criteria
-and assessed level of needs of the applications. For more information and
-application, please click&nbsp;<a href="https://go.gov.sg/bgssbursary" rel="noopener noreferrer nofollow" target="_blank">here.</a>
-</p>
+and assessed level of needs of the applications.</p>
 <p><strong>Model Student Award</strong>
 </p>
 <p><strong>Sustained Edusave Character Award (ECHA)</strong>
