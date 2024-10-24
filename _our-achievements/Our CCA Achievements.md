@@ -9,7 +9,12 @@ variant: tiptap
 </div>
 <p><strong>Clubs and Societies</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -37,7 +42,12 @@ variant: tiptap
 </table>
 <p><strong>Physical Sports</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -73,11 +83,20 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="6" colspan="1">
+<td rowspan="7" colspan="1">
 <p>Tchoukball</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Inter Schools Tchoukball Championship 2024 - B Division Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Team Placing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>National School Games Tchoukball Championship 2023 - C Division Boys</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2nd runner up</p>
@@ -127,7 +146,12 @@ variant: tiptap
 </table>
 <p><strong>Uniformed Groups</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -180,11 +204,35 @@ variant: tiptap
 <p>Distinction</p>
 </td>
 </tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>SJB</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chief Commissioner's Badge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SSGT Anbu Lakshithaa SSGT Jocelyn Tan Yi En</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Corps Achievement Award 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>Visual and Performing Arts</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
