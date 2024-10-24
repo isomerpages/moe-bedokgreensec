@@ -43,7 +43,7 @@ variant: tiptap
 <p>Youth Flying Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SAFMC Category B</p>
+<p>Singapore Amazing Flying machine Competition 2024 - Category B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1st Team Placing</p>
@@ -51,7 +51,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SAFMC Category C1</p>
+<p>Singapore Amazing Flying machine Competition 2024 - Category C1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1st Team Placing</p>
@@ -59,7 +59,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SAFMC Category C1</p>
+<p>Singapore Amazing Flying machine Competition 2024 - Category C1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3rd Team Placing</p>
@@ -236,7 +236,7 @@ variant: tiptap
 <p>SJB</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chief Commissioner's Badge</p>
+<p>Chief Commissioner's Badge 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SSGT Anbu Lakshithaa SSGT Jocelyn Tan Yi En</p>
