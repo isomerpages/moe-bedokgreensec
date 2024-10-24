@@ -11,7 +11,7 @@ My Uniform Shop (ASIA) Pte Ltd
 209, New Upper Changi Road, #03-651, Singapore 460209
 
 **Email:** 
-myuniformshopasia@gmail.com
+[myuniformshopasia@gmail.com](myuniformshopasia@gmail.com)
  
 **Tel:**
 +65 6276 6689 (Operating hours)
@@ -24,7 +24,7 @@ myuniformshopasia@gmail.com
 
 
 **Online Purchase:**
-www.myuniformshop.com.sg
+[www.myuniformshop.com.sg](www.myuniformshop.com.sg)
 
 **Uniform Sales in School**
 
