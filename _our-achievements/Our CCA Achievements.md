@@ -38,6 +38,33 @@ variant: tiptap
 <p>Sustained Excellence Award</p>
 </td>
 </tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Youth Flying Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SAFMC Category B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st Team Placing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SAFMC Category C1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st Team Placing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SAFMC Category C1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Team Placing</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>Physical Sports</strong>
@@ -65,7 +92,7 @@ variant: tiptap
 <p>Basketball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SSSC East Zone B Division Basketball Championship</p>
+<p>SSSC East Zone B Division Basketball Championship 2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1st - Champion</p>
@@ -76,7 +103,7 @@ variant: tiptap
 <p>Football</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NSG B Division League 4</p>
+<p>2023 NSG B Division League 4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2nd placing</p>
