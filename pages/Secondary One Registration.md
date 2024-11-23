@@ -65,7 +65,7 @@ access the Secondary 1 orientation programme.</p>
 </div>
 <p>Join our Parent Support Group (PSG) @ BGSS <a href="https://go.gov.sg/parentsupportgroup" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>To find out more about our school, please click on the following links:</p>
-<p><a href="https://go.gov.sg/bgssbrochure" rel="noopener noreferrer nofollow" target="_blank">BGSS Brochure 2023</a>
+<p><a href="https://go.gov.sg/schbrochure24" rel="noopener nofollow" target="_blank">BGSS School Brochure 2024</a>
 </p>
 <p><strong>Useful Links</strong>
 </p>
