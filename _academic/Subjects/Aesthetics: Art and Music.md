@@ -24,7 +24,7 @@ Our Museum Learning Journey is carefully curated to ensure your eyes are kept pe
 
 A.MUSE.em is a virtual art gallery that celebrates the artistic talents in Bedok Green Secondary School. Inspired by our surroundings and their narratives, this space allows our artists to create, to curate and showcase their creativity and passion alongside sharing their personal voyage with the community. A.MUSE.em hopes to inspire others to pursue the diverse world of art and culture.
 
-![](/images/A_MUSE_em_poster.png)
+![](/images/A_MUSE_em_Poster__new_.png)
 
 Find out more about A.MUSE.em below.
 
