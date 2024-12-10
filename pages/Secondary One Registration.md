@@ -5,14 +5,14 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/banner01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Welcome_Secondary_One_students.jpg">
 </div>
 <p>Dear Students</p>
 <p>Welcome to Bedok Green Secondary School!</p>
 <p>First and foremost, we would like to congratulate you on completing your
 PSLE and starting your secondary school journey with us!</p>
 <p>As students are not required to physically report to school on 21 Dec
-2023, please read through and follow the instructions shown below for the
+2024, please read through and follow the instructions shown below for the
 online registration.</p>
 <p>To facilitate the ease of communication with parents/guardians, we will
 be using the <strong>Parents Gateway (PG)</strong> to disseminate important
@@ -42,15 +42,15 @@ access the sec 1 booklist.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/sec_1_textbook_sales.png">
 </div>
-<p>Click <a href="https://go.gov.sg/scheduleforsalesoftextbooksandattire2023" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-access the schedule for sales of textbooks and attire.</p>
+<p>Click <a href="https://go.gov.sg/scheduleforsalesoftextbooksandattire" rel="noopener nofollow" target="_blank">here</a>
+<a href="https://go.gov.sg/scheduleforsalesoftextbooksandattire2023" rel="noopener noreferrer nofollow" target="_blank"></a>to access the schedule for sales of textbooks and attire.</p>
 <p><strong>Information on school uniform</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/sec_1_school_uniform.png">
 </div>
-<p>Click <a href="https://go.gov.sg/schooluniformforsec12024" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-find out more about information on our school uniform.</p>
+<p>Click <a href="https://go.gov.sg/schooluniformforsec1" rel="noopener nofollow" target="_blank">here</a>
+<a href="https://go.gov.sg/schooluniformforsec12024" rel="noopener noreferrer nofollow" target="_blank"></a>to find out more about information on our school uniform.</p>
 <p><strong>Seconday One Orientation Programme</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -65,7 +65,7 @@ access the Secondary 1 orientation programme.</p>
 </div>
 <p>Join our Parent Support Group (PSG) @ BGSS <a href="https://go.gov.sg/parentsupportgroup" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>To find out more about our school, please click on the following links:</p>
-<p><a href="https://go.gov.sg/schbrochure24" rel="noopener nofollow" target="_blank">BGSS School Brochure 2024</a>
+<p><a href="https://go.gov.sg/schbrochure" rel="noopener nofollow" target="_blank">BGSS School Brochure 2024</a>
 </p>
 <p><strong>Useful Links</strong>
 </p>
