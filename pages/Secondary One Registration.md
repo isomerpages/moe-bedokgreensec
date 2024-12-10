@@ -42,15 +42,15 @@ access the sec 1 booklist.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/sec_1_textbook_sales.png">
 </div>
-<p>Click <a href="https://go.gov.sg/scheduleforsalesoftextbooksandattire" rel="noopener nofollow" target="_blank">here</a>
-<a href="https://go.gov.sg/scheduleforsalesoftextbooksandattire2023" rel="noopener noreferrer nofollow" target="_blank"></a>to access the schedule for sales of textbooks and attire.</p>
+<p>Click <a href="https://go.gov.sg/scheduleforsalesoftextbooksandattire" rel="noopener nofollow" target="_blank">here</a>to
+access the schedule for sales of textbooks and attire.</p>
 <p><strong>Information on school uniform</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/sec_1_school_uniform.png">
 </div>
-<p>Click <a href="https://go.gov.sg/schooluniformforsec1" rel="noopener nofollow" target="_blank">here</a>
-<a href="https://go.gov.sg/schooluniformforsec12024" rel="noopener noreferrer nofollow" target="_blank"></a>to find out more about information on our school uniform.</p>
+<p>Click <a href="https://go.gov.sg/schooluniformforsec1" rel="noopener nofollow" target="_blank">here</a>to
+find out more about information on our school uniform.</p>
 <p><strong>Seconday One Orientation Programme</strong>
 </p>
 <div class="isomer-image-wrapper">
