@@ -30,6 +30,6 @@ My Uniform Shop (ASIA) Pte Ltd
 
 My Uniform Shop will be selling the school uniforms in Bedok Green Secondary School.
 
-![](/images/uniform__24_Oct_.png)
+![](/images/updated_schedule.png)
 
 Mode of Payment: Cash, PayNow, NTUC Care Fund (e-Vouchers) and CDAC Back to School (e-Vouchers)
