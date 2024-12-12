@@ -239,7 +239,8 @@ variant: tiptap
 <p>Chief Commissioner's Badge 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SSGT Anbu Lakshithaa SSGT Jocelyn Tan Yi En</p>
+<p>SSGT Anbu Lakshithaa</p>
+<p>SSGT Jocelyn Tan Yi En</p>
 </td>
 </tr>
 <tr>
