@@ -5,76 +5,191 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/banner01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Welcome_Secondary_One_students.jpg">
 </div>
-<p>Dear Students</p>
-<p>Welcome to Bedok Green Secondary School!</p>
-<p>First and foremost, we would like to congratulate you on completing your
-PSLE and starting your secondary school journey with us!</p>
-<p>As students are not required to physically report to school on 21 Dec
-2023, please read through and follow the instructions shown below for the
-online registration.</p>
-<p>To facilitate the ease of communication with parents/guardians, we will
-be using the <strong>Parents Gateway (PG)</strong> to disseminate important
-information. We strongly encourage parents/guardians to go onboard PG.
-<br>
-<br>Parents/Guardians are to submit the&nbsp;<strong>Secondary 1 Posting Acknowledgement Form</strong>&nbsp;below
-by&nbsp;<strong>21 Dec 2023, 12 noon</strong>. Click <a href="https://go.gov.sg/2024postingacknowledgement" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-fill up the Secondary 1 Posting acknowledgement form.</p>
-<p><strong>Financial Assistance Scheme (FAS) Application</strong>&nbsp;are
-opened to parents/guardians on 21 December 2023 from 9am to 12pm and 1pm
-to 3pm. Parents/Guardians can refer to the instructions <a href="https://go.gov.sg/instructionsforfasapplication" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p><strong>Secondary level School Smart Card (SSC)</strong>&nbsp;will be
-issued to all students entering Secondary 1 in Jan 2024. While waiting
-for their Secondary level SSCs to be ready, students can continue to use
-their Primary level SSCs for concessionary travel till end Apr 2024. Students
-can still purchase the Bus Concession Pass (BCP) using their Primary level
-SSCs, but they would need to purchase the BCP for Secondary School students.</p>
-<p><strong>Secondary One Booklist</strong>
+<p><strong>Welcome to Bedok Green Secondary School!</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/sec_1_booklist.png">
-</div>
-<p>Click <a href="https://go.gov.sg/s1booklist" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-access the sec 1 booklist.</p>
-<p><strong>Schedule for sales of textbooks and attire</strong>
+<p>Congratulations to our Secondary 1 students on successfully completing
+the PSLE and starting this exciting new chapter with us!</p>
+<p><strong><em><u>Online Registration</u></em></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/sec_1_textbook_sales.png">
-</div>
-<p>Click <a href="https://go.gov.sg/scheduleforsalesoftextbooksandattire2023" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-access the schedule for sales of textbooks and attire.</p>
-<p><strong>Information on school uniform</strong>
+<p>As students are not required to physically report to school, we kindly
+request that parents complete the online registration for your child by <strong>12 pm, 19 December 2024</strong>.
+Please click <a href="https://go.gov.sg/2025postingacknowledgement" rel="noopener nofollow" target="_blank">here</a> to
+access the Acknowledgement Form.</p>
+<p></p>
+<p><strong><em><u>Medical Appeal Exercise (MAE)</u></em></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/sec_1_school_uniform.png">
-</div>
-<p>Click <a href="https://go.gov.sg/schooluniformforsec12024" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-find out more about information on our school uniform.</p>
-<p><strong>Seconday One Orientation Programme</strong>
+<p>Students requiring a transfer due to <strong>serious medical conditions or severe physical impairments</strong> are
+to visit our school with their parents to file an appeal and complete the <strong>MAE Application Form </strong>by <strong>12 pm, 19 December 2024</strong>.
+The completed application form must be submitted with the necessary supporting
+documents. Kindly note that application without supporting documents, incomplete
+form or late submission will not be processed and the school transfer is
+subject to availability of vacancies. Please refer to MOE's website <a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer" rel="noopener nofollow" target="_blank">here</a> for
+further information.</p>
+<p></p>
+<p><strong><em><u>Financial Assistance Scheme (FAS) Application</u></em></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/sec_1_orientation.png">
-</div>
-<p>Click <a href="https://go.gov.sg/seconeorientation" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-access the Secondary 1 orientation programme.</p>
-<p><strong>Parent Support Group</strong>
+<p>FAS Application will be opened to parents/guardians on <strong>19 December 2024 from 9 am to 12 pm</strong> and <strong>1 pm to 3 pm</strong>.
+Kindly refer to the instructions <a href="https://go.gov.sg/instructionsforfasapplication" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p></p>
+<p><strong><em><u>Secondary Level School Smart Card (SSC)</u></em></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Sec_1_PSG.png">
-</div>
-<p>Join our Parent Support Group (PSG) @ BGSS <a href="https://go.gov.sg/parentsupportgroup" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p>To find out more about our school, please click on the following links:</p>
-<p><a href="https://go.gov.sg/schbrochure24" rel="noopener nofollow" target="_blank">BGSS School Brochure 2024</a>
+<p>The School Smart Card (SSC) will be issued to all students entering Secondary
+1. While waiting for their Secondary Level SSCs to be ready, students may
+continue to use their Primary Level SSCs for concessionary travel till
+end Apr 2025. Students can also purchase the Bus Concession Pass (BCP)
+using their Primary Level SSCs, but they must select the BCP for Secondary
+School students.</p>
+<p></p>
+<p><strong><em><u>Parents Gateway (PG)</u></em></strong>
 </p>
-<p><strong>Useful Links</strong>
+<p>To facilitate effective communication with parents/guardians, we will
+be using the Parents Gateway (PG) to disseminate important information.
+We strongly encourage all parents/guardians to onboard PG if you have not
+already done so.</p>
+<p></p>
+<p><strong><em><u>Click the links for the following information:</u></em></strong>
 </p>
-<p><a href="https://go.gov.sg/2024appeal" rel="noopener noreferrer nofollow" target="_blank">Appeal to Transfer to Secondary 1 (2024)</a>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>a.</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Sec 1 Booklist</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/s1booklist" rel="noopener nofollow" target="_blank">2025 S1 Booklist.pdf</a>
 </p>
-<p><a href="https://go.gov.sg/fullsbb2024" rel="noopener noreferrer nofollow" target="_blank">Full Subject-Based Banding (FSBB)</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>b.</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Schedule for Sales of Textbooks and Attire</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/schedulesaleoftextbooksandattire2024" rel="noopener nofollow" target="_blank">Schedule for Sales of Textbook and Attire (2024).pdf</a>
 </p>
-<p><a href="https://go.gov.sg/faqonfullsbb" rel="noopener noreferrer nofollow" target="_blank">FAQ on Full Subject-Based Banding (FSBB)</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>c.</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>School Uniform Information and Sales at Retail Outlet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/schooluniformandsaleatretailoutlet" rel="noopener nofollow" target="_blank">My Uniform Shop (ASIA) Pte Ltd - Bedok Green Secondary School 2024 (General).pdf</a>
 </p>
-<p><a href="https://go.gov.sg/specialeducationalneeds" rel="noopener noreferrer nofollow" target="_blank">Special Educational Needs (SEN)</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>d.</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Secondary 1 Orientation Programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/seconeorientation" rel="noopener nofollow" target="_blank">Orientation Programme 2025 Information.pdf</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>e.</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Parent Support Group (PSG) Application Form</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/parentsupportgroup" rel="noopener nofollow" target="_blank">https://go.gov.sg/parentsupportgroup</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>f.</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>BGSS Brochure 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/schbrochure" rel="noopener nofollow" target="_blank">BGSS Brochure 2024</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong><em><u>Other Useful Links</u></em></strong>
+</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>a.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Appeal to Transfer to Secondary 1 (2025)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kindly submit an appeal <a href="https://go.gov.sg/2025appeal" rel="noopener nofollow" target="_blank">here</a> by
+23 Dec 2024, 5pm. Your child’s PSLE score must meet the school’s cut-off
+point (COP). This ensures that the Sec 1 Posting remains fair, transparent
+and objective to all who participated.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>b.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Information on Full Subject-Based Banding (FSBB)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/moefullsbb" rel="noopener nofollow" target="_blank">Full Subject-Based Banding (FSBB)</a>
+</p>
+<p><a href="https://go.gov.sg/faqonfullsbb" rel="noopener nofollow" target="_blank">FAQs | PSLE Scoring System</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>c.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Educational Needs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/specialeducationalneeds" rel="noopener nofollow" target="_blank">Special Educational Needs (SEN)</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
