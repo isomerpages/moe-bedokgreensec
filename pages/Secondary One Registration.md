@@ -49,7 +49,8 @@ be using the Parents Gateway (PG) to disseminate important information.
 We strongly encourage all parents/guardians to onboard PG if you have not
 already done so.</p>
 <p></p>
-<p>Click the links for the following information:</p>
+<p><strong><em><u>Click the links for the following information:</u></em></strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -114,6 +115,47 @@ already done so.</p>
 </tbody>
 </table>
 <p></p>
+<p><strong><em><u>Other Useful Links</u></em></strong>
+</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Appeal to Transfer to Secondary 1 (2025)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kindly submit an appeal <a href="https://go.gov.sg/2025appeal" rel="noopener nofollow" target="_blank">here</a> by
+23 Dec 2024, 5pm. Your child’s PSLE score must meet the school’s cut-off
+point (COP). This ensures that the Sec 1 Posting remains fair, transparent
+and objective to all who participated.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Information on Full Subject-Based Banding (FSBB)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/moefullsbb" rel="noopener nofollow" target="_blank">Full Subject-Based Banding (FSBB) </a>
+</p>
+<p><a href="https://go.gov.sg/faqonfullsbb" rel="noopener nofollow" target="_blank">FAQs | PSLE Scoring System</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
