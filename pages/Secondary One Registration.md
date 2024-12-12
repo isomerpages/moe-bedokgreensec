@@ -140,7 +140,7 @@ and objective to all who participated.</p>
 <p>Information on Full Subject-Based Banding (FSBB)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/moefullsbb" rel="noopener nofollow" target="_blank">Full Subject-Based Banding (FSBB) </a>
+<p><a href="https://go.gov.sg/moefullsbb" rel="noopener nofollow" target="_blank">Full Subject-Based Banding (FSBB)</a>
 </p>
 <p><a href="https://go.gov.sg/faqonfullsbb" rel="noopener nofollow" target="_blank">FAQs | PSLE Scoring System</a>
 </p>
@@ -148,10 +148,11 @@ and objective to all who participated.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Special Educational Needs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://go.gov.sg/specialeducationalneeds" rel="noopener nofollow" target="_blank">Special Educational Needs (SEN)</a>
+</p>
 </td>
 </tr>
 </tbody>
