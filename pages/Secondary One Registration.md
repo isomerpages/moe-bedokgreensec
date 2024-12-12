@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Welcome_Secondary_One_students.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Welcome__12_Dec_.png">
 </div>
 <p><strong>Welcome to Bedok Green Secondary School!</strong>
 </p>
