@@ -80,31 +80,35 @@ already done so.</p>
 <p>School Uniform Information and Sales at Retail Outlet</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://go.gov.sg/schooluniformandsaleatretailoutlet" rel="noopener nofollow" target="_blank">My Uniform Shop (ASIA) Pte Ltd - Bedok Green Secondary School 2024 (General).pdf</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>d.</p>
+<p>Secondary 1 Orientation Programme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://go.gov.sg/seconeorientation" rel="noopener nofollow" target="_blank">Orientation Programme 2025 Information.pdf</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>e.</p>
+<p>Parent Support Group (PSG) Application Form</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://go.gov.sg/parentsupportgroup" rel="noopener nofollow" target="_blank">https://go.gov.sg/parentsupportgroup</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>f.</p>
+<p>BGSS Brochure 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://go.gov.sg/schbrochure" rel="noopener nofollow" target="_blank">BGSS Brochure 2024</a>
+</p>
 </td>
 </tr>
 </tbody>
