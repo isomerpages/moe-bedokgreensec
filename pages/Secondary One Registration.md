@@ -51,14 +51,18 @@ already done so.</p>
 <p></p>
 <p><strong><em><u>Click the links for the following information:</u></em></strong>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p>a.</p>
+</td>
 <td rowspan="1" colspan="2">
 <p>Sec 1 Booklist</p>
 </td>
@@ -68,6 +72,9 @@ already done so.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>b.</p>
+</td>
 <td rowspan="1" colspan="2">
 <p>Schedule for Sales of Textbooks and Attire</p>
 </td>
@@ -77,6 +84,9 @@ already done so.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>c.</p>
+</td>
 <td rowspan="1" colspan="2">
 <p>School Uniform Information and Sales at Retail Outlet</p>
 </td>
@@ -86,6 +96,9 @@ already done so.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>d.</p>
+</td>
 <td rowspan="1" colspan="2">
 <p>Secondary 1 Orientation Programme</p>
 </td>
@@ -95,6 +108,9 @@ already done so.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>e.</p>
+</td>
 <td rowspan="1" colspan="2">
 <p>Parent Support Group (PSG) Application Form</p>
 </td>
@@ -104,6 +120,9 @@ already done so.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>f.</p>
+</td>
 <td rowspan="1" colspan="2">
 <p>BGSS Brochure 2024</p>
 </td>
@@ -118,13 +137,17 @@ already done so.</p>
 <p><strong><em><u>Other Useful Links</u></em></strong>
 </p>
 <p></p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p>a.</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Appeal to Transfer to Secondary 1 (2025)</p>
 </td>
@@ -137,6 +160,9 @@ and objective to all who participated.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>b.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Information on Full Subject-Based Banding (FSBB)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -147,6 +173,9 @@ and objective to all who participated.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>c.</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs</p>
 </td>
