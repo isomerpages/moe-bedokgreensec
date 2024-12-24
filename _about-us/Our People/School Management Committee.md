@@ -141,7 +141,7 @@ variant: tiptap
 <p>tan_kok_ping@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 125</p>
+<p>64463301 ext 125</p>
 </td>
 </tr>
 <tr>
@@ -155,7 +155,7 @@ variant: tiptap
 <p>yue_kah_may_audrey@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 257</p>
+<p>64463301 ext 257</p>
 </td>
 </tr>
 <tr>
@@ -169,7 +169,7 @@ variant: tiptap
 <p>tan_swee_kiang_desmond@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 131</p>
+<p>64463301 ext 131</p>
 </td>
 </tr>
 <tr>
@@ -183,7 +183,7 @@ variant: tiptap
 <p>koh_phuay_kiang@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 126</p>
+<p>64463301 ext 126</p>
 </td>
 </tr>
 <tr>
@@ -211,7 +211,7 @@ variant: tiptap
 <p>loh_kee_seng@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 169</p>
+<p>64463301 ext 169</p>
 </td>
 </tr>
 <tr>
@@ -225,7 +225,7 @@ variant: tiptap
 <p>mohamad_khirsyaban_iskandar@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 121</p>
+<p>64463301 ext 121</p>
 </td>
 </tr>
 <tr>
@@ -239,7 +239,7 @@ variant: tiptap
 <p>noorzura_amir_noordin@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 133</p>
+<p>64463301 ext 133</p>
 </td>
 </tr>
 <tr>
@@ -253,7 +253,7 @@ variant: tiptap
 <p>nur_abidah_abdul_rahman@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 128</p>
+<p>64463301 ext 128</p>
 </td>
 </tr>
 <tr>
@@ -267,7 +267,7 @@ variant: tiptap
 <p>saheedah_begum@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 132</p>
+<p>64463301 ext 132</p>
 </td>
 </tr>
 <tr>
@@ -281,7 +281,7 @@ variant: tiptap
 <p>teo_chai_lai@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 123</p>
+<p>64463301 ext 123</p>
 </td>
 </tr>
 </tbody>
@@ -345,7 +345,7 @@ variant: tiptap
 <p>hafiedz-ul_ashadi_tain@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 127</p>
+<p>64463301 ext 127</p>
 </td>
 </tr>
 <tr>
@@ -362,7 +362,7 @@ variant: tiptap
 <p>goh_xianhui_joyce@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 122</p>
+<p>64463301 ext 122</p>
 </td>
 </tr>
 <tr>
@@ -379,7 +379,7 @@ variant: tiptap
 <p>salenah_mohamed_salleh@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 124</p>
+<p>64463301 ext 124</p>
 </td>
 </tr>
 </tbody>
@@ -443,7 +443,7 @@ variant: tiptap
 <p>koh_hsiao_lin@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 255/256</p>
+<p>64463301 ext 255/256</p>
 </td>
 </tr>
 <tr>
@@ -460,7 +460,7 @@ variant: tiptap
 <p>hooi_siok_li@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 211</p>
+<p>64463301 ext 211</p>
 </td>
 </tr>
 <tr>
@@ -477,7 +477,7 @@ variant: tiptap
 <p>wee_hong_shen@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 255/256</p>
+<p>64463301 ext 255/256</p>
 </td>
 </tr>
 <tr>
@@ -494,7 +494,7 @@ variant: tiptap
 <p>khairunnisa_abdul_rashid@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 235</p>
+<p>64463301 ext 235</p>
 </td>
 </tr>
 <tr>
@@ -511,7 +511,7 @@ variant: tiptap
 <p>lee_heng_hiang@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 204</p>
+<p>64463301 ext 204</p>
 </td>
 </tr>
 <tr>
@@ -545,7 +545,7 @@ variant: tiptap
 <p>ong_joon_yong_eric@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 211</p>
+<p>64463301 ext 211</p>
 </td>
 </tr>
 <tr>
@@ -562,7 +562,7 @@ variant: tiptap
 <p>siti_fatimah_haji_mohson@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 255/256</p>
+<p>64463301 ext 255/256</p>
 </td>
 </tr>
 <tr>
@@ -579,7 +579,7 @@ variant: tiptap
 <p>teo_keng_nam_james@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 223</p>
+<p>64463301 ext 223</p>
 </td>
 </tr>
 <tr>
