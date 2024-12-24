@@ -1181,7 +1181,7 @@ variant: tiptap
 <p>lui_biru@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 206</p>
+<p>64463301 ext 206</p>
 </td>
 </tr>
 <tr>
@@ -1195,7 +1195,7 @@ variant: tiptap
 <p>ng_huee_cheng@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 218</p>
+<p>64463301 ext 218</p>
 </td>
 </tr>
 <tr>
@@ -1209,7 +1209,7 @@ variant: tiptap
 <p>ng_mei_chuen@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 233</p>
+<p>64463301 ext 233</p>
 </td>
 </tr>
 <tr>
@@ -1223,7 +1223,7 @@ variant: tiptap
 <p>rehena_sherin@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 213</p>
+<p>64463301 ext 213</p>
 </td>
 </tr>
 <tr>
@@ -1237,7 +1237,7 @@ variant: tiptap
 <p>sharifah_feruz_syed_ali@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 201</p>
+<p>64463301 ext 201</p>
 </td>
 </tr>
 <tr>
@@ -1251,7 +1251,7 @@ variant: tiptap
 <p>Suriya_Manickavasagam@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 214</p>
+<p>64463301 ext 214</p>
 </td>
 </tr>
 </tbody>
