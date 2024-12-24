@@ -44,7 +44,7 @@ variant: tiptap
 <p>Mdm Vivien Tan Su Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vivien_S_L_TAN@schools.gov.sg</p>
+<p>Vivien_S_L_TAN@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>64463301 ext 113</p>
@@ -55,7 +55,7 @@ variant: tiptap
 <p>Ms Koh Pei Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>koh_pei_lin@schools.gov.sg</p>
+<p>koh_pei_lin@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>64463301 ext 114</p>
