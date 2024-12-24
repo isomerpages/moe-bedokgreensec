@@ -38,41 +38,52 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Sec 1)</p>
+<p>Year Head (Sec 1 &amp; Lower Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Hafiedz-Ul Ashadi Bin Tamrin</p>
+<p>Mr Tan Yang Hui Ethan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>hafiedz-ul_ashadi_tain@moe.edu.sg</p>
+<p>tan_yang_hui@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 127</p>
+<p>6446 3301 ext 135</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Resilience 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Sor Ee Lloyd</p>
+<p>Miss Marie Anne Chia Jin Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sor_ee_lloyd_goh@moe.edu.sg</p>
+<p>marie_anne_chia@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 207</p>
+<p>64463301 ext 209</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tay Peck Ling</p>
+<p>Mr Mohd Rafi B Ani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tay_peck_ling@moe.edu.sg</p>
+<p>mohd_rafi_b_ani@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 225</p>
+<p>64463301 ext 242</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ong Jia Wei, Ivan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ong_Jia_Wei_Ivan@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64463301 ext 210</p>
 </td>
 </tr>
 <tr>
@@ -80,24 +91,24 @@ variant: tiptap
 <p>Resilience 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shahira Bte Mohamed Sharif</p>
+<p>Mr Goh Tiong Ann</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>shahira_mohamed_sharif@moe.edu.sg</p>
+<p>goh_tiong_ann@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 208</p>
+<p>6446 3301 ext 240</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Terence Tan Chee Seng</p>
+<p>Mrs Lai- See Ngiap Yian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_chee_seng_terence@moe.edu.sg</p>
+<p>lai-see_ngiap_yian@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 238</p>
+<p>6446 3301 ext 234</p>
 </td>
 </tr>
 <tr>
