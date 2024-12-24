@@ -699,52 +699,52 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Integrity 5</p>
+<p>Compassion 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Leow Dai Jing</p>
+<p>Ms Jade Lee Xin Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>leow_dai_jing@moe.edu.sg</p>
+<p>jade_lee_xin_yi@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 224</p>
+<p>6446 3301 ext 243</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Noorhudah Binte Abd Wahid</p>
+<p>Mr Teng Soon Heng, Nigel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>noorhudah_abd_wahid@moe.edu.sg</p>
+<p>teng_soon_heng_nigel@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 202</p>
+<p>6446 3301 ext 201</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Integrity 6</p>
+<p>Compassion 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Peh Jin Bao</p>
+<p>Mr Lee Kian Hui Gregory</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>peh_jin_bao@moe.edu.sg</p>
+<p>lee_kian_hui_gregory@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 237</p>
+<p>6446 3301 ext 167</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Selena Jew Mei Li</p>
+<p>Mrs Liew Siew Bee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>jew_mei_li_selena@moe.edu.sg</p>
+<p>ong_siew_bee@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 209</p>
+<p>6446 3301 ext 222</p>
 </td>
 </tr>
 </tbody>
