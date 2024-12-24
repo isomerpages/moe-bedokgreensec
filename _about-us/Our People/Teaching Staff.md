@@ -241,24 +241,49 @@ variant: tiptap
 <p>Resilience 8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Awalludin Bin Abdul Jabbar</p>
+<p>Ms Siti Filzah Binte Ishak</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>awalludin_abdul_jabbar@moe.edu.sg</p>
+<p>siti_filzah_ishak@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 217</p>
+<p>6446 3301 ext 233</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Melinda Foo Ai-Ping</p>
+<p>Ms Hooi Siok Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>foo_ai-ping_melinda@moe.edu.sg</p>
+<p>hooi_siok_li@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 232</p>
+<p>6446 3301 ext 211</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Resilience 9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Irene Seah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_irene_b@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64463301 ext 255/256</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Navamani d/o V Nagamuthu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>navamani_v_nagamuthu@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64463301 ext 229</p>
 </td>
 </tr>
 </tbody>
