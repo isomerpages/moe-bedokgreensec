@@ -150,7 +150,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301</p>
+<p>-</p>
 </td>
 </tr>
 </tbody>
