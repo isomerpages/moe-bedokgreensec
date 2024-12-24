@@ -116,71 +116,21 @@ variant: tiptap
 <p>Resilience 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Teng Hui Adam</p>
+<p>Mdm Khor Sze Siang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_teng_hui_adam@moe.edu.sg</p>
+<p>khor_sze_siang@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 167</p>
+<p>6446 3301 ext 213</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nooraini Bte Othman</p>
+<p>Mr Tan Lian Beng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nooraini_othman@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6446 3301 ext 222</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>Resilience 4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Janice Lau</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chan_yan_ling_janice@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6446 3301 ext 167</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Syed Danial Bin Syed Taha</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>syed_danial@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6446 3301 ext 239</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>Resilience 5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ng Kim Tu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ng_kim_tu@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6446 3301 ext 226</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Nurshafiqah Binte Mohamed Shadiq</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>nurshafiqah_mohamed_shadiq@moe.edu.sg</p>
+<p>tan_lian_beng@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6446 3301 ext 255/256</p>
@@ -188,16 +138,66 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
+<p>Resilience 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Hung Siau Moon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>hung_siau_moon@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6446 3301 ext 217</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Khairunnisa Bte Abdul Rashid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>khairunnisa_abdul_rashid@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6446 3301 ext 235</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Resilience 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Gao Anji</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>gao_anji@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6446 3301 ext 215</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Selena Jew Mei Li</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>jew_mei_li_selena@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6446 3301 ext 209</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>Resilience 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Emrizal Bin Mohamed Suhaimi</p>
+<p>Miss Cher Wei Fen Jeslyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>emrizal_mohamed_suhaimi@moe.edu.sg</p>
+<p>cher_wei_fen_jeslyn@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 221</p>
+<p>6446 3301 ext 207</p>
 </td>
 </tr>
 <tr>
