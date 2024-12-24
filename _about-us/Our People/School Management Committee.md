@@ -50,7 +50,7 @@ variant: tiptap
 <p>bgss@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301</p>
+<p>64463301</p>
 </td>
 </tr>
 <tr>
@@ -67,7 +67,7 @@ variant: tiptap
 <p>bgss@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301</p>
+<p>64463301</p>
 </td>
 </tr>
 <tr>
@@ -84,7 +84,7 @@ variant: tiptap
 <p>bgss@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301</p>
+<p>64463301</p>
 </td>
 </tr>
 <tr>
@@ -101,7 +101,7 @@ variant: tiptap
 <p>bgss@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301</p>
+<p>64463301</p>
 </td>
 </tr>
 </tbody>
