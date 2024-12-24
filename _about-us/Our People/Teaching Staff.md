@@ -1195,7 +1195,7 @@ variant: tiptap
 <p>ng_huee_cheng@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 217</p>
+<p>6446 3301 ext 218</p>
 </td>
 </tr>
 <tr>
@@ -1210,20 +1210,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>6446 3301 ext 233</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Non-Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Periasamy s/o A Mari</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>periasamy_a_mari@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6446 3301 ext 245</p>
 </td>
 </tr>
 <tr>
@@ -1259,34 +1245,6 @@ variant: tiptap
 <p>Non-Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Nadiah Binte Ramli</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>siti_nadiah_ramli@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6446 3301 ext 200</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Non-Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Stephen Lim Hin Seong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lim_Hin_Seong_a@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6446 3301 ext 171</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Non-Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Suriya D/O Manickavasagam</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1294,20 +1252,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>6446 3301 ext 214</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Non-Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Toh Qiuyan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>toh_qiuyan@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6446 3301 ext 210</p>
 </td>
 </tr>
 </tbody>
