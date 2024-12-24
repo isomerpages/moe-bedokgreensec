@@ -94,7 +94,7 @@ variant: tiptap
 <p>Mr Mohammad Suhaini Bin Mohd Yatim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mohammad_suhaini_mohammad_yatim@moe.edu.sg</p>
+<p>mohammad_suhaini_mohammad_yatim@schools.gov.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>64463301 ext 139</p>
@@ -105,7 +105,7 @@ variant: tiptap
 <p>Mr Mohamad Zailani bin Dollah Sumari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mohamad_zailani_dollah_sumari@moe.edu.sg</p>
+<p>mohamad_zailani_dollah_sumari@schools.gov.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>64463301 ext 139</p>
