@@ -202,13 +202,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Yan Hui Yu Joey</p>
+<p>Mr Mohd Ghazali B Ibrahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yan_hui_yu@moe.edu.sg</p>
+<p>mohd_ghazali_b_ibrahim@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 240</p>
+<p>6446 3301 ext 221</p>
 </td>
 </tr>
 <tr>
@@ -216,24 +216,24 @@ variant: tiptap
 <p>Resilience 7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ashley Ong Chun Aun</p>
+<p>Mr Peh Jin Bao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_chun_aun_ashley@moe.edu.sg</p>
+<p>peh_jin_bao@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 168</p>
+<p>6446 3301 ext 212</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Tang-Lee Choon Tien</p>
+<p>Mdm Seow Peng Leng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_choon_tien@moe.edu.sg</p>
+<p>seow_peng_leng@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 205</p>
+<p>6446 3301 ext 216</p>
 </td>
 </tr>
 <tr>
