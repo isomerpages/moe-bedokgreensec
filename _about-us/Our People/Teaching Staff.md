@@ -290,6 +290,262 @@ variant: tiptap
 </table>
 <p><strong>Secondary 2</strong>
 </p>
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong><u>Position</u></strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Person</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Phone</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Sec 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Hafiedz-Ul Ashadi Bin Tamrin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>hafiedz-ul_ashadi_tain@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64463301 ext 127</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Integrity 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Nadiah Binte Ramli</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>siti_nadiah_ramli@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64463301 ext 200</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tay Peck Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tay_peck_ling@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64463301 ext 225</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Integrity 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Su Wee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lee_su_wee@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64463301 ext 234</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Terence Tan Chee Seng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_chee_seng_terence@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64463301 ext 238</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Integrity 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Teng Hui Adam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_teng_hui_adam@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64463301 ext 167</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Wong Jean</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wong_Jean@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64463301 ext 236</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Integrity 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Janice Lau</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chan_yan_ling_janice@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64463301 ext 167</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Syed Danial Bin Syed Taha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>syed_danial@</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64463301 ext 239</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Integrity 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Kim Tu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_kim_tu@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64463301 ext 226</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nurshafiqah Binte Mohamed Shadiq</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nurshafiqah_mohamed_shadiq@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64463301 ext 255/256</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Integrity 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Emrizal Bin Mohamed Suhaimi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>emrizal_mohamed_suhaimi@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64463301 ext 221</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Yan Hui Yu Joey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yan_hui_yu@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64463301 ext 240</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Integrity 7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ashley Ong Chun Aun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ong_chun_aun_ashley@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64463301 ext 168</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Tang-Lee Choon Tien</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lee_choon_tien@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64463301 ext 205</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Integrity 8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Awalludin Bin Abdul Jabbar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>awalludin_abdul_jabbar@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64463301 ext 216</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Melinda Foo Ai-Ping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>foo_ai-ping_melinda@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64463301 ext 237</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ramli Punasir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ramli_punasir@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64463301 ext 171</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Secondary 3</strong>
+</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
