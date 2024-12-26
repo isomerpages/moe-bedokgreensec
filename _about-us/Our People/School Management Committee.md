@@ -284,20 +284,6 @@ variant: tiptap
 <p>64463301 ext 123</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HOD (Information and Communications Technology)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Yeow Pei Lin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>yeow_pei_lin@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>64463301 ext 120</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p><strong>Year Heads</strong>
