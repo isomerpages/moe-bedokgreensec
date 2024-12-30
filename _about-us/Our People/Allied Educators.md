@@ -133,7 +133,7 @@ variant: tiptap
 <p>Mr Ng Chee Kian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ng_chee_kian@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>64463301</p>
