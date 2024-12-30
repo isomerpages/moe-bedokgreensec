@@ -539,7 +539,7 @@ variant: tiptap
 <p>Ms Low Xin Tian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>low_xin_tian@moe.edu.sg</p>
+<p>xin_tian_low@moe.ed.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>64463301 ext 223</p>
