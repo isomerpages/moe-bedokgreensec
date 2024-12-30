@@ -6,7 +6,7 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eas2023.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EAS_2024.png">
 </div>
 <p><strong>Support Staff</strong>
 </p>
@@ -47,7 +47,7 @@ variant: tiptap
 <p>Vivien_S_L_TAN@schools.gov.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 113</p>
+<p>64463301 ext 113</p>
 </td>
 </tr>
 <tr>
@@ -58,7 +58,7 @@ variant: tiptap
 <p>koh_pei_lin@schools.gov.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 114</p>
+<p>64463301 ext 114</p>
 </td>
 </tr>
 <tr>
@@ -66,24 +66,24 @@ variant: tiptap
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Fadilah Binti Osman</p>
+<p>Mdm Aishah Binte Osman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>fadilah_osman@schools.gov.sg</p>
+<p>aishah_osman@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 166</p>
+<p>64463301 ext 130</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Aishah Binte Osman</p>
+<p>Miss Fadilah Binti Osman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>aishah_osman@schools.gov.sg</p>
+<p>fadilah_osman@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 130</p>
+<p>64463301 ext 166</p>
 </td>
 </tr>
 <tr>
@@ -94,10 +94,10 @@ variant: tiptap
 <p>Mr Mohammad Suhaini Bin Mohd Yatim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mohammad_suhaini_mohammad_yatim@schools.gov.sg</p>
+<p>mohammad_suhaini_mohammad_yatim@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 116</p>
+<p>64463301 ext 139</p>
 </td>
 </tr>
 <tr>
@@ -105,15 +105,15 @@ variant: tiptap
 <p>Mr Mohamad Zailani bin Dollah Sumari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mohamad_zailani_dollah_sumari@schools.gov.sg</p>
+<p>mohamad_zailani_dollah_sumari@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 139</p>
+<p>64463301 ext 139</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Management Executive Officer</p>
+<p>ManagementSupport Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zawiyah Binte Mohamed Ismail</p>
@@ -140,7 +140,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -154,7 +154,18 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Mrs Bobba Sravanthi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
 <p>Operations Support Officers</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -201,18 +212,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mr Terry Tan Tian Tho</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="5" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Technical Support Officers</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -249,24 +249,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Noor Shazwani Binte Mohd Mohsin</p>
+<p>Ms Noor Shazwani Binte Mohd Mohsin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ong Hock Seng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
 </td>
 </tr>
 <tr>
