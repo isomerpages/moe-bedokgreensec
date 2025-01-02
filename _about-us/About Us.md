@@ -25,29 +25,21 @@ values, a passion for learning and confidence to face future challenges.</p>
 <p><strong>Believe and Grow</strong>
 </p>
 <p><strong>Our BGSS Students</strong>
-<br>BGSS students are <strong>Courageous Individuals </strong>who</p>
-<p>overcome challenges with resilience.</p>
-<p>They are reflective and uphold integrity by being</p>
-<p>true to self and others, standing up for what is right</p>
-<p>and doing the right thing even when</p>
-<p>no one is watching.</p>
-<p></p>
-<p>BGSS students are <strong>Confident Leaders</strong> who</p>
-<p>fulfill their duties with responsibility and commitment.</p>
-<p>They are role models who lead and serve the community</p>
-<p>with humility, empathy and respect.</p>
-<p></p>
-<p>BGSS students are <strong>Inventive Thinkers</strong> who are driven by</p>
-<p>purpose and curiosity to learn, discover and question.</p>
-<p>They are adaptable and courageous, and embrace</p>
-<p>uncertainty and ambiguity as opportunities</p>
-<p>to learn and grow.</p>
-<p></p>
-<p>BGSS students are <strong>Caring Citizens</strong> who are respectful,</p>
-<p>value relationships and appreciate others.</p>
-<p>They are compassionate, advocate on issues which</p>
-<p>impact the community, and have a sense of belonging</p>
-<p>to the school, community and nation.</p>
+<br>BGSS students are <strong>Courageous Individuals</strong> who overcome challenges
+with resilience. They are reflective and uphold integrity by being true
+to self and others, standing up for what is right and doing the right thing
+even when no one is watching.</p>
+<p>BGSS students are <strong>Confident Leaders</strong> who fulfill their duties
+with responsibility and commitment. They are role models who lead and serve
+the community with humility, empathy and respect.</p>
+<p>BGSS students are <strong>Inventive Thinkers</strong> who are driven by
+purpose and curiosity to learn, discover and question. They are adaptable
+and courageous, and embrace uncertainty and ambiguity as opportunities
+to learn and grow.</p>
+<p>BGSS students are <strong>Caring Citizens</strong> who are respectful, value
+relationships and appreciate others. They are compassionate, advocate on
+issues which impact the community, and have a sense of belonging to the
+school, community and nation.</p>
 <p><strong>Our RICH Values</strong>
 </p>
 <p><strong>Resilience</strong> 
