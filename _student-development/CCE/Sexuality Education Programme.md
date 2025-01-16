@@ -118,8 +118,8 @@ family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
 <p></p>
 <p>Please click <a href="https://go.gov.sg/moeeteens" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-view the eTeens programme that will be implemented at Bedok Green Secondary
-School in 2024.</p>
+view the <em>eTeens</em> programme that will be implemented at Bedok Green
+Secondary School in 2025.</p>
 <p></p>
 <p><strong>Information for parents</strong>
 </p>
@@ -132,8 +132,8 @@ supplementary sexuality education programmes by MOE-approved external providers.
 <li>
 <p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="https://drive.google.com/file/d/1NNW9SbLXgaKU9Qas-C_eJ8Kwyi3QI1G6/view" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 29/01/2024.</p>
+at the start of the year and is also downloadable <a href="https://drive.google.com/file/d/1F88DM5Q5kqrtUuk1ki08sIqhzr9iAARG/view" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 31/01/2025.</p>
 <p></p>
 </li>
 <li>
