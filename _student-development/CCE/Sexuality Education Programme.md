@@ -82,10 +82,10 @@ maturity may result in a tendency to act on impulse, experiment with various
 activities (including sexual activities), sometimes without understanding
 the unpleasant consequences that may arise from such experimentation. The
 need for peer acceptance can be overwhelmingly strong and hinder one’s
-ability to act responsibly.&nbsp; Given the pressures faced by the middle
-adolescent from within themselves and from peers, it is important to build
-a strong sense of self-worth, personal conviction and an understanding
-of the possible consequences of sexual behaviour.</p>
+ability to act responsibly. Given the pressures faced by the middle adolescent
+from within themselves and from peers, it is important to build a strong
+sense of self-worth, personal conviction and an understanding of the possible
+consequences of sexual behaviour.</p>
 <p></p>
 </li>
 <li>
@@ -96,7 +96,7 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <p></p>
 <p>Please click <a href="https://go.gov.sg/moesed" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 view the Sexuality Education lessons that will be taught at Bedok Green
-Secondary School in 2024.</p>
+Secondary School in 2025.</p>
 <p></p>
 <p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
 <p></p>
