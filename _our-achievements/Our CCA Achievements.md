@@ -192,16 +192,32 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="4" colspan="1">
 <p>NCC</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>2024 Outstanding Cadet Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MSG(NCC) Emir Asyraf Bin Muhammad Effendi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 Unit Recognition Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>2023 Outstanding Cadet Award</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MSG Mohd Harris
-<br>MSG Jasper Loh
-<br>MSG Zhang Shengkai</p>
+<p>MSG (NCC) Mohd Harris
+<br>MSG (NCC) Jasper Loh
+<br>MSG (NCC) Zhang Shengkai</p>
 </td>
 </tr>
 <tr>
@@ -213,9 +229,17 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>NPCC</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>2024 Unit Overall Proficiency Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>2024 SPF-NPCC Badge</p>
 </td>
