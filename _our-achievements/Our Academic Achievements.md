@@ -25,11 +25,11 @@ variant: tiptap
 </ul>
 </li>
 </ul>
-<p><strong>2023 GCE N Level Examination</strong>
+<p><strong>2024 GCE N Level Examination</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Promotion to Sec 5: 76.8%</p>
+<p>Promotion to Sec 5: 80.0%</p>
 </li>
 </ul>
 <p></p>
