@@ -229,17 +229,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>NPCC</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>2024 Unit Overall Proficiency Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>2024 SPF-NPCC Badge</p>
 </td>
