@@ -55,7 +55,7 @@ variant: tiptap
 <p>Ms Ang Bee Lan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ang_Bee_Lan_B@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>64463301 ext 165</p>
