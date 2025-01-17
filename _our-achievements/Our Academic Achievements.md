@@ -2,17 +2,34 @@
 title: Our Academic Achievements
 permalink: /academicachievements/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-![](/images/achievements23.png)
-
-**2023 GCE O Level Examination**
-
-* Percentage qualify for:
-   * Junior College: 43.7%
-   * Millennia Institute: 66%
-   * Polytechnic: 89.3%
-
-**2023 GCE N Level Examination**
-
-* Promotion to Sec 5: 76.8%
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/achievements23.png">
+</div>
+<p><strong>2023 GCE O Level Examination</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Percentage qualify for:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Junior College: 43.7%</p>
+</li>
+<li>
+<p>Millennia Institute: 66%</p>
+</li>
+<li>
+<p>Polytechnic: 89.3%</p>
+</li>
+</ul>
+</li>
+</ul>
+<p><strong>2023 GCE N Level Examination</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Promotion to Sec 5: 76.8%</p>
+</li>
+</ul>
+<p></p>
