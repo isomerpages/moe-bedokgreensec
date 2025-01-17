@@ -7,7 +7,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/achievements23.png">
 </div>
-<p><strong>2023 GCE O Level Examination</strong>
+<p><strong>2024 GCE O Level Examination</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -17,10 +17,10 @@ variant: tiptap
 <p>Junior College: 43.7%</p>
 </li>
 <li>
-<p>Millennia Institute: 66%</p>
+<p>Millennia Institute: 68.4%</p>
 </li>
 <li>
-<p>Polytechnic: 89.3%</p>
+<p>Polytechnic: 92.5%</p>
 </li>
 </ul>
 </li>
