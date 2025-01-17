@@ -425,7 +425,7 @@ variant: tiptap
 <p>Mr Syed Danial Bin Syed Taha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>syed_danial@</p>
+<p>syed_danial@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>64463301 ext 239</p>
