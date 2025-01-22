@@ -11,10 +11,12 @@ links:
         url: /about-us/our-people/school-management-committee/
       - title: Our Publications
         url: /about-us/ourpublications/
-      - title: Our Contact
-        url: /our-contact/
       - title: Our Corporate Video
         url: /our-corporate-video/
+      - title: Our Contact
+        url: /our-contact/
+      - title: Our School Virtual Tour
+        url: /our-school-virtual-tour/
   - title: Academic Curriculum
     url: /aesthetics/
     sublinks:
