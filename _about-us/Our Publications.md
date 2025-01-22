@@ -19,22 +19,3 @@ find out more about our BGSS School Experience on our 2024 Yearbook!</p>
 <p>Click <a href="https://online.fliphtml5.com/imxpa/mlfb/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 find out more about our BGSS School Experience on our 2023 Yearbook!</p>
 <p></p>
-<p><strong>Corporate Video</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bgss_video.png">
-</div>
-<p>Click <a href="https://go.gov.sg/bgssvideo" rel="noopener nofollow" target="_blank">here</a> to
-learn more about our school through our corporate video.</p>
-<p></p>
-<p><strong>Virtual Tour</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/virtual_tour.png">
-</div>
-<p>Click <a href="https://go.gov.sg/bgtour" rel="noopener nofollow" target="_blank">here </a>to
-explore our school through a virtual tour.</p>
-<p></p>
-<p></p>
