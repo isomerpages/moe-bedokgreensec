@@ -30,6 +30,21 @@ our Industries and Career Day. Students get to learn about what it is to
 be working in that profession and even ask questions to quench their curiosity.
 We also provide students with hands-on experiences through our Elective
 Modules and visits to Polytechnics and ITEs.</p>
+<p>🚀 <strong>BGSS @ WorldSkills Singapore 2025!</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG_2025.jpg">
+</div>
+<p>Our Sec 2s had an eye-opening experience at the ECG Fair held at Marina
+Bay Sands as part of World Skills Singapore 2025! From hands-on workshops
+in Maritime, AI Coding &amp; Transport Planning to witnessing live skills
+competitions, they explored a wide range of career pathways and skillsets.</p>
+<p>The interactive ECG-themed exhibits and chats with industry professionals
+helped them discover their strengths and future aspirations. A big step
+forward in answering “Who am I?” and “Where am I going?” 💡🌟 #BGSSExplores
+#WSS2025 #ECGJourney #FutureReady</p>
+<p></p>
 <p><strong>ECG microsite</strong>
 </p>
 <p>Click <a href="https://go.gov.sg/ecgbgss" rel="noopener noreferrer nofollow" target="_blank">here</a> to
