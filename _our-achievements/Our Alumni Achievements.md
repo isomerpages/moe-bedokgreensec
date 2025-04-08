@@ -29,9 +29,6 @@ variant: tiptap
 <li>
 <p>Bachelor of Science (Applied Mathematics), NUS 2016</p>
 </li>
-<li>
-<p>Graduated from BGSS in 2010</p>
-</li>
 </ul>
 <p><strong>Lee Wei Lin</strong>
 </p>
@@ -41,9 +38,6 @@ variant: tiptap
 </li>
 <li>
 <p>Diploma in Aerospace Electronic, Singapore Polytechnic</p>
-</li>
-<li>
-<p>Graduated from BGSS in 2012</p>
 </li>
 </ul>
 <p><strong>Muhammad Noor Adris B Masjudi</strong>
@@ -55,9 +49,6 @@ variant: tiptap
 <li>
 <p>Diploma in Sports and Exercise Sciences, Republic Polytechnic</p>
 </li>
-<li>
-<p>Graduated from BGSS in 2012</p>
-</li>
 </ul>
 <p><strong>Yusuf Bin Muhd Azwan</strong>
 </p>
@@ -67,9 +58,6 @@ variant: tiptap
 </li>
 <li>
 <p>Diploma in Aerospace Electronics, Singapore Polytechnic</p>
-</li>
-<li>
-<p>Graduated from BGSS in 2014</p>
 </li>
 </ul>
 <p><strong>Aw Rui Huan</strong>
@@ -81,9 +69,6 @@ variant: tiptap
 <li>
 <p>Diploma in Mechatronics with Merit, Temasek Polytechnic</p>
 </li>
-<li>
-<p>Graduated from BGSS in 2014</p>
-</li>
 </ul>
 <p><strong>Ong Hui Qin</strong>
 </p>
@@ -93,9 +78,6 @@ variant: tiptap
 </li>
 <li>
 <p>Diploma in Energy Systems &amp; Management, Singapore Polytechnic</p>
-</li>
-<li>
-<p>Graduated from BGSS in 2015</p>
 </li>
 </ul>
 <p><strong>Wong Zhi Hung Xavier</strong>
@@ -107,9 +89,6 @@ List Award</p>
 </li>
 <li>
 <p>Diploma In Mechatronics with Merit, Temasek Polytechnic</p>
-</li>
-<li>
-<p>Graduated from BGSS in 2016</p>
 </li>
 </ul>
 <p><strong>Nicole Chow Hui Lin</strong>
@@ -124,9 +103,6 @@ List Award</p>
 <li>
 <p>Diploma in Mass Communication with Merit, Ngee Ann Polytechnic</p>
 </li>
-<li>
-<p>Graduated from BGSS in 2016</p>
-</li>
 </ul>
 <p><strong>Vanessa Juan Jia Lin</strong>
 </p>
@@ -137,18 +113,12 @@ List Award</p>
 <li>
 <p>Diploma in Environment Design with merit, Temasek Polytechnic</p>
 </li>
-<li>
-<p>Graduated from BGSS in 2016</p>
-</li>
 </ul>
 <p><strong>Poh Xiang Qing, Melissa</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Diploma in Media Production and Design with Merit, Republic Polytechnic</p>
-</li>
-<li>
-<p>Graduated from BGSS in 2016</p>
 </li>
 </ul>
 <p><strong>Maxim Ker Weixuan</strong>
@@ -160,9 +130,6 @@ List Award</p>
 <li>
 <p>Diploma in Marketing, Temasek Polytechnic</p>
 </li>
-<li>
-<p>Graduated from BGSS in 2016</p>
-</li>
 </ul>
 <p><strong>Lee Chong He Kenneth</strong>
 </p>
@@ -173,18 +140,12 @@ List Award</p>
 <li>
 <p>Diploma in Aerospace Engineering, Republic Polytechnic</p>
 </li>
-<li>
-<p>Graduated from BGSS in 2016</p>
-</li>
 </ul>
 <p><strong>Hoang Thai Anh</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Obtained 5 Distinctions for GCE A-Level Examinations, Nanyang Junior College</p>
-</li>
-<li>
-<p>Graduated from BGSS in 2017</p>
 </li>
 </ul>
 <p><strong>Nguyen Duc Nhat Thanh</strong>
@@ -196,18 +157,12 @@ List Award</p>
 <li>
 <p>Diploma with Merit in Animation and 3D Arts, Ngee Ann Polytechnic</p>
 </li>
-<li>
-<p>Graduated from BGSS in 2017</p>
-</li>
 </ul>
 <p><strong>Chou Shigeta Anmi</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Diploma with Merit in Mass Communication, Ngee Ann Polytechnic</p>
-</li>
-<li>
-<p>Graduated from BGSS in 2017</p>
 </li>
 </ul>
 <p><strong>Han Sizhu</strong>
@@ -217,8 +172,13 @@ List Award</p>
 <p>Graduated from Raffles' Institution in 2020 with a perfect Rank Point
 of 90 in the GCE 'A' Levels Examinations.</p>
 </li>
+</ul>
+<p><strong>Ezell Low Qing Wei</strong>
+</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>Graduated from BGSS in 2018</p>
+<p>Recipient of the SP Scholarship Award 2025, Singapore Polytechnic</p>
+<p></p>
 </li>
 </ul>
 <p></p>
