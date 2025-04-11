@@ -313,10 +313,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dance</p>
+<p>Indian Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023 SYF Arts Presentation</p>
+<p>2025 SYF Arts Presentation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction</p>
