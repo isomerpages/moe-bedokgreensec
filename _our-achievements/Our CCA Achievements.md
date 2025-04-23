@@ -244,7 +244,7 @@ variant: tiptap
 <p>2025 SPF-NPCC Badge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SI Joanne Soo</p>
+<p>SI Soo Ting Ting Joanne</p>
 </td>
 </tr>
 <tr>
