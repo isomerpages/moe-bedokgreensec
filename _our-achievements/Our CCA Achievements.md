@@ -241,10 +241,10 @@ variant: tiptap
 <p>NPCC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024 SPF-NPCC Badge</p>
+<p>2025 SPF-NPCC Badge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SI Lim Rui</p>
+<p>SI Joanne Soo</p>
 </td>
 </tr>
 <tr>
