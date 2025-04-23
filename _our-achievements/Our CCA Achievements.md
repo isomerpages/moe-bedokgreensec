@@ -110,9 +110,17 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="7" colspan="1">
+<td rowspan="8" colspan="1">
 <p>Tchoukball</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>ActiveSG Cup B Division Boys Championships 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Placing</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Inter Schools Tchoukball Championship 2024 - B Division Boys</p>
 </td>
@@ -233,10 +241,10 @@ variant: tiptap
 <p>NPCC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024 SPF-NPCC Badge</p>
+<p>2025 SPF-NPCC Badge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SI Lim Rui</p>
+<p>SI Soo Ting Ting Joanne</p>
 </td>
 </tr>
 <tr>
@@ -305,7 +313,7 @@ variant: tiptap
 <p>Concert Band</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023 SYF Arts Presentation</p>
+<p>2025 SYF Arts Presentation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Accomplishment</p>
