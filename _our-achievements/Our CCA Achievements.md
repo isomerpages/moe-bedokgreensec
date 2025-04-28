@@ -302,10 +302,10 @@ variant: tiptap
 <p>Choir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023 SYF Arts Presentation</p>
+<p>2025 SYF Arts Presentation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Commendation</p>
+<p>Accomplishment</p>
 </td>
 </tr>
 <tr>
@@ -322,6 +322,17 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Indian Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025 SYF Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malay Dance</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2025 SYF Arts Presentation</p>
