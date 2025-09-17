@@ -11,7 +11,5 @@ description: ""
 </p>
 <p>Click <a href="https://go.gov.sg/bgopenhouse" rel="noopener nofollow" target="_blank">here</a> to
 register for our Open House 2025.</p>
-<p><strong>School Brochure</strong>
-</p>
-<p>Click <a href="https://go.gov.sg/schbrochure24" rel="noopener nofollow" target="_blank">here</a> to
-find out more about our school.</p>
+<p></p>
+<p></p>
