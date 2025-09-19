@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://www.bedokgreensec.edu.sg/open-house-2025/
+external: https://https://www.bedokgreensec.moe.edu.sg/open-house-2025/
 ---
