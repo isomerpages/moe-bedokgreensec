@@ -88,9 +88,17 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Basketball</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>National School Games-'C' Division League 7 Championship 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>SSSC East Zone B Division Basketball Championship 2023</p>
 </td>
@@ -99,9 +107,17 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Football</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>National School Games-'C' Division League 5 Championships 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>2023 NSG B Division League 4</p>
 </td>
@@ -184,28 +200,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>3rd placing</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Basketball</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School Games-'C' Division League 7 Championship 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Champions</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Football</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School Games-'C' Division League 5 Championships 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Champions</p>
 </td>
 </tr>
 </tbody>
