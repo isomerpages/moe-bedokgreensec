@@ -110,9 +110,18 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="8" colspan="1">
+<td rowspan="9" colspan="1">
 <p>Tchoukball</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>National School Games-'C' Division Inter-School Tchoukball Championship
+2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>ActiveSG Cup B Division Boys Championships 2025</p>
 </td>
@@ -175,6 +184,28 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>3rd placing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Basketball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games-'C' Division League 7 Championship 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Football</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games-'C' Division League 5 Championships 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
 </td>
 </tr>
 </tbody>
