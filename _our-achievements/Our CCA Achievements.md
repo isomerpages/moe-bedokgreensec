@@ -92,7 +92,7 @@ variant: tiptap
 <p>Basketball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games-'C' Division League 7 Championship 2025</p>
+<p>2025 NSG 'C' Division League 7 Championship</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Champions</p>
@@ -111,7 +111,7 @@ variant: tiptap
 <p>Football</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games-'C' Division League 5 Championships 2025</p>
+<p>2025 NSG 'C' Division League 5 Championships</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Champions</p>
@@ -119,7 +119,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023 NSG B Division League 4</p>
+<p>2023 NSG 'B' Division League 4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2nd placing</p>
@@ -130,8 +130,7 @@ variant: tiptap
 <p>Tchoukball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games-'C' Division Inter-School Tchoukball Championship
-2025</p>
+<p>2025 NSG 'C' Division Inter-School Tchoukball Championship</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Champions</p>
