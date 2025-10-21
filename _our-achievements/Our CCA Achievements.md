@@ -346,10 +346,10 @@ variant: tiptap
 <p>Drama</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023 SYF Arts Presentation</p>
+<p>2025 SYF Arts Presentation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Commendation</p>
+<p>Accomplishment</p>
 </td>
 </tr>
 </tbody>
