@@ -88,9 +88,17 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Basketball</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>2025 NSG 'C' Division League 7 Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>SSSC East Zone B Division Basketball Championship 2023</p>
 </td>
@@ -99,20 +107,36 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Football</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023 NSG B Division League 4</p>
+<p>2025 NSG 'C' Division League 5 Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023 NSG 'B' Division League 4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2nd placing</p>
 </td>
 </tr>
 <tr>
-<td rowspan="8" colspan="1">
+<td rowspan="9" colspan="1">
 <p>Tchoukball</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>2025 NSG 'C' Division Inter-School Tchoukball Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>ActiveSG Cup B Division Boys Championships 2025</p>
 </td>
@@ -346,10 +370,10 @@ variant: tiptap
 <p>Drama</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2023 SYF Arts Presentation</p>
+<p>2025 SYF Arts Presentation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Commendation</p>
+<p>Accomplishment</p>
 </td>
 </tr>
 </tbody>
