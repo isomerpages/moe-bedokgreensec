@@ -4,7 +4,7 @@ permalink: /student-development/llp/
 variant: markdown
 description: ""
 ---
-![](/images/llp%202023.jpg)
+![](/images/LLP_2025.png)
 
 **“Creativity takes courage.”<br>
 Henri Matisse**
