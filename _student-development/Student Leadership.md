@@ -2,8 +2,9 @@
 title: Student Leadership
 permalink: /student-development/student-leadership/
 description: ""
+variant: markdown
 ---
-![](/images/student%20councillors.png)
+![](/images/student_leadership_2025.png)
 
 **Student Leadership**
 
