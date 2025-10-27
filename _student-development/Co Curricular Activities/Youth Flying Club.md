@@ -3,8 +3,9 @@ title: Youth Flying Club
 permalink: /student-development/yfc/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
-![](/images/bgssclubs.jpg)
+![](/images/YFC_2025.png)
 
 **Youth Flying Club**
 
