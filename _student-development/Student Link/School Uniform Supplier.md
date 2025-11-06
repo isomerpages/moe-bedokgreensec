@@ -32,7 +32,7 @@ before visiting)</p>
 <p>My Uniform Shop will be selling the school uniforms in Bedok Green Secondary
 School.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/updated_schedule.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/school_uniform_v2.png">
 </div>
 <p>Mode of Payment: Cash, PayNow, NTUC Care Fund (e-Vouchers) and CDAC Back
 to School (e-Vouchers)</p>
