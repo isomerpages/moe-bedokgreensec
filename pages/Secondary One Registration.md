@@ -77,7 +77,7 @@ if you have not already done so.</p>
 <p>Sec 1 Booklist</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/s1booklist" rel="noopener nofollow" target="_blank">2025 S1 Booklist.pdf</a>
+<p><a href="https://go.gov.sg/s1booklist" rel="noopener nofollow" target="_blank">Sec 1 2026 booklist</a>
 </p>
 </td>
 </tr>
@@ -89,7 +89,7 @@ if you have not already done so.</p>
 <p>Schedule for Sales of Textbooks and Attire</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/schedulesaleoftextbooksandattire2024" rel="noopener nofollow" target="_blank">Schedule for Sales of Textbook and Attire (2024).pdf</a>
+<p><a href="https://go.gov.sg/salefortextbookanduniform" rel="noopener nofollow" target="_blank">Schedule for Sales of Textbooks and Attire</a>
 </p>
 </td>
 </tr>
@@ -101,7 +101,7 @@ if you have not already done so.</p>
 <p>School Uniform Information and Sales at Retail Outlet</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/schooluniformandsaleatretailoutlet" rel="noopener nofollow" target="_blank">My Uniform Shop (ASIA) Pte Ltd - Bedok Green Secondary School 2024 (General).pdf</a>
+<p><a href="https://www.bedokgreensec.moe.edu.sg/student-development/studentlink/uniform/" rel="noopener nofollow" target="_blank">School Uniform Information and Sales at Retail Outlet</a>
 </p>
 </td>
 </tr>
@@ -113,8 +113,7 @@ if you have not already done so.</p>
 <p>Secondary 1 Orientation Programme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/seconeorientation" rel="noopener nofollow" target="_blank">Orientation Programme 2025 Information.pdf</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -125,7 +124,7 @@ if you have not already done so.</p>
 <p>Parent Support Group (PSG) Application Form</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/parentsupportgroup" rel="noopener nofollow" target="_blank">https://go.gov.sg/parentsupportgroup</a>
+<p><a href="https://go.gov.sg/parentsupportgroup" rel="noopener nofollow" target="_blank">PSG Application Form</a>
 </p>
 </td>
 </tr>
@@ -134,10 +133,10 @@ if you have not already done so.</p>
 <p>f.</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>BGSS Brochure 2024</p>
+<p>BGSS Brochure 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/schbrochure" rel="noopener nofollow" target="_blank">BGSS Brochure 2024</a>
+<p><a href="https://go.gov.sg/bgbrochure" rel="noopener nofollow" target="_blank">BGSS Brochure 2025</a>
 </p>
 </td>
 </tr>
@@ -159,7 +158,7 @@ if you have not already done so.</p>
 <p>a.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Appeal to Transfer to Secondary 1 (2025)</p>
+<p>Appeal to Transfer to Secondary 1 (2026)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Kindly submit an appeal <a href="https://go.gov.sg/2025appeal" rel="noopener nofollow" target="_blank">here</a> by
