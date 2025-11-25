@@ -14,14 +14,14 @@ the PSLE and starting this exciting new chapter with us!</p>
 <p><strong><em><u>Online Registration</u></em></strong>
 </p>
 <p>As students are not required to physically report to school, we kindly
-request that parents complete the online registration for your child by <strong>12 pm, 19 December 2024</strong>.
-Please click <a href="https://go.gov.sg/2025postingacknowledgement" rel="noopener nofollow" target="_blank">here</a> to
+request that parents complete the online registration for your child by <strong>12 pm, 19 December 2025</strong>.
+Please click <a href="https://go.gov.sg/2026postingacknowledgement" rel="noopener nofollow" target="_blank">here</a> to
 access the Acknowledgement Form.</p>
 <p></p>
 <p><strong><em><u>Medical Appeal Exercise (MAE)</u></em></strong>
 </p>
 <p>Students requiring a transfer due to <strong>serious medical conditions or severe physical impairments</strong> are
-to visit our school with their parents to file an appeal and complete the <strong>MAE Application Form </strong>by <strong>12 pm, 19 December 2024</strong>.
+to visit our school with their parents to file an appeal and complete the <strong>MAE Application Form </strong>by <strong>12 pm, 19 December 2025</strong>.
 The completed application form must be submitted with the necessary supporting
 documents. Kindly note that application without supporting documents, incomplete
 form or late submission will not be processed and the school transfer is
@@ -30,24 +30,34 @@ further information.</p>
 <p></p>
 <p><strong><em><u>Financial Assistance Scheme (FAS) Application</u></em></strong>
 </p>
-<p>FAS Application will be opened to parents/guardians on <strong>19 December 2024 from 9 am to 12 pm</strong> and <strong>1 pm to 3 pm</strong>.
-Kindly refer to the instructions <a href="https://go.gov.sg/instructionsforfasapplication" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>FAS Application is open for application. Information on MOE FAS is available
+<a href="MOE Financial Assistance Schemes to Benefit Additional 31,000 Students | MOE" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>Please apply for MOE FAS digitally either through</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The Parents Gateway app services, or</p>
+</li>
+<li>
+<p>Online application link: <a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>
+</p>
+</li>
+</ul>
 <p></p>
 <p><strong><em><u>Secondary Level School Smart Card (SSC)</u></em></strong>
 </p>
 <p>The School Smart Card (SSC) will be issued to all students entering Secondary
 1. While waiting for their Secondary Level SSCs to be ready, students may
 continue to use their Primary Level SSCs for concessionary travel till
-end Apr 2025. Students can also purchase the Bus Concession Pass (BCP)
+end Apr 2026. Students can also purchase the Bus Concession Pass (BCP)
 using their Primary Level SSCs, but they must select the BCP for Secondary
 School students.</p>
 <p></p>
 <p><strong><em><u>Parents Gateway (PG)</u></em></strong>
 </p>
 <p>To facilitate effective communication with parents/guardians, we will
-be using the Parents Gateway (PG) to disseminate important information.
-We strongly encourage all parents/guardians to onboard PG if you have not
-already done so.</p>
+be using the <strong>Parents Gateway (PG)</strong> to disseminate important
+information. We strongly encourage all parents/guardians to onboard PG
+if you have not already done so.</p>
 <p></p>
 <p><strong><em><u>Click the links for the following information:</u></em></strong>
 </p>
