@@ -161,10 +161,11 @@ if you have not already done so.</p>
 <p>Appeal to Transfer to Secondary 1 (2026)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kindly submit an appeal <a href="https://go.gov.sg/2025appeal" rel="noopener nofollow" target="_blank">here</a> by
-23 Dec 2024, 5pm. Your child’s PSLE score must meet the school’s cut-off
-point (COP). This ensures that the Sec 1 Posting remains fair, transparent
-and objective to all who participated.</p>
+<p>Kindly submit an appeal <a href="https://go.gov.sg/2026appeal" rel="noopener nofollow" target="_blank">here</a> by
+23 Dec 2025, 5pm</p>
+<p>Your child’s PSLE score must meet the school’s cut-off point (COP). This
+ensures that the Sec 1 Posting remains fair, transparent and objective
+to all who participated.</p>
 </td>
 </tr>
 <tr>
