@@ -31,7 +31,7 @@ further information.</p>
 <p><strong><em><u>Financial Assistance Scheme (FAS) Application</u></em></strong>
 </p>
 <p>FAS Application is open for application. Information on MOE FAS is available
-<a href="MOE Financial Assistance Schemes to Benefit Additional 31,000 Students | MOE" rel="noopener nofollow" target="_blank">here</a>.</p>
+<a href="https://www.moe.gov.sg/news/press-releases/20251016-moe-financial-assistance-schemes-to-benefit-an-additional-31000-students" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>Please apply for MOE FAS digitally either through</p>
 <ul data-tight="true" class="tight">
 <li>
