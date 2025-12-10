@@ -113,7 +113,8 @@ if you have not already done so.</p>
 <p>Secondary 1 Orientation Programme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://go.gov.sg/seconeorientation" rel="noopener nofollow" target="_blank">Sec 1 Orientation Programme</a>
+</p>
 </td>
 </tr>
 <tr>
