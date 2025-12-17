@@ -21,7 +21,7 @@ access the Acknowledgement Form.</p>
 <p><strong><em><u>Medical Appeal Exercise (MAE)</u></em></strong>
 </p>
 <p>Students requiring a transfer due to <strong>serious medical conditions or severe physical impairments</strong> are
-to visit our school with their parents to file an appeal and complete the <strong>MAE Application Form </strong>by <strong>12 pm, 19 December 2025</strong>.
+to visit our school with their parents to file an appeal and complete the <strong>MAE Application Form </strong>by <strong>12 pm, 22 December 2025</strong>.
 The completed application form must be submitted with the necessary supporting
 documents. Kindly note that application without supporting documents, incomplete
 form or late submission will not be processed and the school transfer is
