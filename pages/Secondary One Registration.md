@@ -14,7 +14,7 @@ the PSLE and starting this exciting new chapter with us!</p>
 <p><strong><em><u>Online Registration</u></em></strong>
 </p>
 <p>As students are not required to physically report to school, we kindly
-request that parents complete the online registration for your child by <strong>12 pm, 19 December 2025</strong>.
+request that parents complete the online registration for your child by <strong>22 December 2025, 12pm</strong>.
 Please click <a href="https://go.gov.sg/2026postingacknowledgement" rel="noopener nofollow" target="_blank">here</a> to
 access the Acknowledgement Form.</p>
 <p></p>
