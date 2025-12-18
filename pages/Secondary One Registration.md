@@ -1,6 +1,6 @@
 ---
 title: Secondary One Registration
-permalink: /secondaryoneregistration/
+permalink: /secondary-one-registration/
 description: ""
 variant: tiptap
 ---
@@ -14,14 +14,14 @@ the PSLE and starting this exciting new chapter with us!</p>
 <p><strong><em><u>Online Registration</u></em></strong>
 </p>
 <p>As students are not required to physically report to school, we kindly
-request that parents complete the online registration for your child by <strong>12 pm, 19 December 2024</strong>.
-Please click <a href="https://go.gov.sg/2025postingacknowledgement" rel="noopener nofollow" target="_blank">here</a> to
+request that parents complete the online registration for your child by <strong>12 pm, 19 December 2025</strong>.
+Please click <a href="https://go.gov.sg/2026postingacknowledgement" rel="noopener nofollow" target="_blank">here</a> to
 access the Acknowledgement Form.</p>
 <p></p>
 <p><strong><em><u>Medical Appeal Exercise (MAE)</u></em></strong>
 </p>
 <p>Students requiring a transfer due to <strong>serious medical conditions or severe physical impairments</strong> are
-to visit our school with their parents to file an appeal and complete the <strong>MAE Application Form </strong>by <strong>12 pm, 19 December 2024</strong>.
+to visit our school with their parents to file an appeal and complete the <strong>MAE Application Form </strong>by <strong>12 pm, 22 December 2025</strong>.
 The completed application form must be submitted with the necessary supporting
 documents. Kindly note that application without supporting documents, incomplete
 form or late submission will not be processed and the school transfer is
@@ -30,24 +30,34 @@ further information.</p>
 <p></p>
 <p><strong><em><u>Financial Assistance Scheme (FAS) Application</u></em></strong>
 </p>
-<p>FAS Application will be opened to parents/guardians on <strong>19 December 2024 from 9 am to 12 pm</strong> and <strong>1 pm to 3 pm</strong>.
-Kindly refer to the instructions <a href="https://go.gov.sg/instructionsforfasapplication" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>FAS Application is open for application. Information on MOE FAS is available
+<a href="https://www.moe.gov.sg/news/press-releases/20251016-moe-financial-assistance-schemes-to-benefit-an-additional-31000-students" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>Please apply for MOE FAS digitally either through</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The Parents Gateway app services, or</p>
+</li>
+<li>
+<p>Online application link: <a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>
+</p>
+</li>
+</ul>
 <p></p>
 <p><strong><em><u>Secondary Level School Smart Card (SSC)</u></em></strong>
 </p>
 <p>The School Smart Card (SSC) will be issued to all students entering Secondary
 1. While waiting for their Secondary Level SSCs to be ready, students may
 continue to use their Primary Level SSCs for concessionary travel till
-end Apr 2025. Students can also purchase the Bus Concession Pass (BCP)
+end Apr 2026. Students can also purchase the Bus Concession Pass (BCP)
 using their Primary Level SSCs, but they must select the BCP for Secondary
 School students.</p>
 <p></p>
 <p><strong><em><u>Parents Gateway (PG)</u></em></strong>
 </p>
 <p>To facilitate effective communication with parents/guardians, we will
-be using the Parents Gateway (PG) to disseminate important information.
-We strongly encourage all parents/guardians to onboard PG if you have not
-already done so.</p>
+be using the <strong>Parents Gateway (PG)</strong> to disseminate important
+information. We strongly encourage all parents/guardians to onboard PG
+if you have not already done so.</p>
 <p></p>
 <p><strong><em><u>Click the links for the following information:</u></em></strong>
 </p>
@@ -67,7 +77,7 @@ already done so.</p>
 <p>Sec 1 Booklist</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/s1booklist" rel="noopener nofollow" target="_blank">2025 S1 Booklist.pdf</a>
+<p><a href="https://go.gov.sg/s1booklist" rel="noopener nofollow" target="_blank">Sec 1 2026 booklist</a>
 </p>
 </td>
 </tr>
@@ -79,7 +89,7 @@ already done so.</p>
 <p>Schedule for Sales of Textbooks and Attire</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/schedulesaleoftextbooksandattire2024" rel="noopener nofollow" target="_blank">Schedule for Sales of Textbook and Attire (2024).pdf</a>
+<p><a href="https://go.gov.sg/salefortextbookanduniform" rel="noopener nofollow" target="_blank">Schedule for Sales of Textbooks and Attire</a>
 </p>
 </td>
 </tr>
@@ -91,7 +101,7 @@ already done so.</p>
 <p>School Uniform Information and Sales at Retail Outlet</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/schooluniformandsaleatretailoutlet" rel="noopener nofollow" target="_blank">My Uniform Shop (ASIA) Pte Ltd - Bedok Green Secondary School 2024 (General).pdf</a>
+<p><a href="https://www.bedokgreensec.moe.edu.sg/student-development/studentlink/uniform/" rel="noopener nofollow" target="_blank">School Uniform Information and Sales at Retail Outlet</a>
 </p>
 </td>
 </tr>
@@ -103,7 +113,7 @@ already done so.</p>
 <p>Secondary 1 Orientation Programme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/seconeorientation" rel="noopener nofollow" target="_blank">Orientation Programme 2025 Information.pdf</a>
+<p><a href="https://go.gov.sg/seconeorientation" rel="noopener nofollow" target="_blank">Sec 1 Orientation Programme</a>
 </p>
 </td>
 </tr>
@@ -115,7 +125,7 @@ already done so.</p>
 <p>Parent Support Group (PSG) Application Form</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/parentsupportgroup" rel="noopener nofollow" target="_blank">https://go.gov.sg/parentsupportgroup</a>
+<p><a href="https://go.gov.sg/parentsupportgroup" rel="noopener nofollow" target="_blank">PSG Application Form</a>
 </p>
 </td>
 </tr>
@@ -124,10 +134,10 @@ already done so.</p>
 <p>f.</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>BGSS Brochure 2024</p>
+<p>BGSS Brochure 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/schbrochure" rel="noopener nofollow" target="_blank">BGSS Brochure 2024</a>
+<p><a href="https://go.gov.sg/bgbrochure" rel="noopener nofollow" target="_blank">BGSS Brochure 2025</a>
 </p>
 </td>
 </tr>
@@ -149,11 +159,11 @@ already done so.</p>
 <p>a.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Appeal to Transfer to Secondary 1 (2025)</p>
+<p>Appeal to Transfer to Secondary 1 (2026)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kindly submit an appeal <a href="https://go.gov.sg/2025appeal" rel="noopener nofollow" target="_blank">here</a> by
-23 Dec 2024, 5pm. Your child’s PSLE score must meet the school’s cut-off
+<p>Kindly submit an appeal <a href="https://go.gov.sg/2026appeal" rel="noopener nofollow" target="_blank">here</a> by
+26 Dec 2025, 12pm. Your child’s PSLE score must meet the school’s cut-off
 point (COP). This ensures that the Sec 1 Posting remains fair, transparent
 and objective to all who participated.</p>
 </td>
@@ -186,10 +196,4 @@ and objective to all who participated.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
