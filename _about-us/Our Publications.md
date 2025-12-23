@@ -4,6 +4,13 @@ permalink: /about-us/ourpublications/
 variant: tiptap
 description: ""
 ---
+<p><strong>Yearbook 2025</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YB2025.png">
+</div>
+<p>Click <a href="https://online.fliphtml5.com/imxpa/djgm/#p=1" rel="noopener nofollow" target="_blank">here</a>to
+find out more about our BGSS School Experience on our 2025 Yearbook!</p>
 <p><strong>Yearbook 2024</strong>
 </p>
 <div class="isomer-image-wrapper">
