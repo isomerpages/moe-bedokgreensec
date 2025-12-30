@@ -838,17 +838,6 @@ variant: tiptap
 <p>Humility 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Azian Binte Zaini</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>azian_zaini@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>64463301 ext 205</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Lim Moi Yin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -856,6 +845,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>64463301 ext 220</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Azian Binte Zaini</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>azian_zaini@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64463301 ext 205</p>
 </td>
 </tr>
 <tr>
