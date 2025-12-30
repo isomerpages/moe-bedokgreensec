@@ -165,6 +165,20 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>ICT Associate</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohamed Ershath S/O Mohamed Ethrees</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
 <td rowspan="5" colspan="1">
 <p>Operations Support Officers</p>
 </td>
