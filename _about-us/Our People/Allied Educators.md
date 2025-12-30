@@ -102,7 +102,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Allied Educator (Learning &amp; Behavioral Support)</p>
+<p>Allied Educator</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ramli Punasir</p>
