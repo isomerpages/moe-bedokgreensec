@@ -113,7 +113,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ManagementSupport Officer</p>
+<p>Management Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zawiyah Binte Mohamed Ismail</p>
@@ -165,7 +165,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="5" colspan="1">
 <p>Operations Support Officers</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -192,6 +192,17 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Lim Ah Geok</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mr Rudy Tan Choon Lian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
