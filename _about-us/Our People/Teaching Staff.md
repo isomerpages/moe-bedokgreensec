@@ -38,16 +38,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (Sec 1 &amp; Lower Sec)</p>
+<p>Assistant Year Head (Sec 1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Yang Hui Ethan</p>
+<p>Mdm Salenah Bte Mohd Salleh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_yang_hui@moe.edu.sg</p>
+<p>salenah_mohamed_salleh@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 135</p>
+<p>6446 3301 ext 124</p>
 </td>
 </tr>
 <tr>
@@ -319,16 +319,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Sec 2)</p>
+<p>Year Head (Sec 2 &amp; Lower Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Hafiedz-Ul Ashadi Bin Tamrin</p>
+<p>Mr Tan Yang Hui Ethan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>hafiedz-ul_ashadi_tain@moe.edu.sg</p>
+<p>tan_yang_hui@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 127</p>
+<p>64463301 ext 135</p>
 </td>
 </tr>
 <tr>
@@ -574,16 +574,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (Sec 3 &amp; Upper Sec)</p>
+<p>Assistant Year Head (Sec 3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Joyce Yang</p>
+<p>Mr Hafiedz-Ul Ashadi Bin Tamrin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>goh_xianhui_joyce@moe.edu.sg</p>
+<p>hafiedz-ul_ashadi_tain@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 122</p>
+<p>64463301 ext 127</p>
 </td>
 </tr>
 <tr>
@@ -780,16 +780,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Sec 4 &amp; 5)</p>
+<p>Year Head (Sec 4 &amp; 5 &amp; Upper Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Salenah Bte Mohd Salleh</p>
+<p>Mrs Joyce Yang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>salenah_mohamed_salleh@moe.edu.sg</p>
+<p>goh_xianhui_joyce@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 124</p>
+<p>64463301 ext 122</p>
 </td>
 </tr>
 <tr>
