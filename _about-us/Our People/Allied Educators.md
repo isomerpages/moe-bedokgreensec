@@ -41,7 +41,7 @@ variant: tiptap
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Esther Wong-Quay Ching Ching</p>
+<p>Mrs Esther Wong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>wong-quay_ching_ching@moe.edu.sg</p>
