@@ -485,6 +485,23 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Subject Head (Social Studies)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jade Lee Xin Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>jade_lee_xin_yi@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64463301 ext 243</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Subject Head (Design &amp; Technology)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -495,23 +512,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>64463301 ext 255/256</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Level Head (English Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Khairunnisa Bte Abdul Rashid</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>khairunnisa_abdul_rashid@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>64463301 ext 235</p>
 </td>
 </tr>
 <tr>
