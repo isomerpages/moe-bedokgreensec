@@ -1096,62 +1096,6 @@ variant: tiptap
 <p>Non-Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chuah Su Keow</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chuah_su_keow@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>64463301 ext 217</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Non-Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Jagwani Malti D/O Ramesh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>jagwani_malti_ramesh_a@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>64463301 ext 171</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Non-Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Kanta Ramchand Vaswani</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kanta_Ramchand_Vaswani_C@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>64463301 ext 242</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Non-Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lim Hong Choo Mabel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>soh_mabel@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>64463301 ext 171</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Non-Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Lui Biru Angel</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1159,20 +1103,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>64463301 ext 206</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Non-Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Ng Huee Cheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ng_huee_cheng_a@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>64463301 ext 218</p>
 </td>
 </tr>
 <tr>
@@ -1222,13 +1152,27 @@ variant: tiptap
 <p>Non-Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Suriya D/O Manickavasagam</p>
+<p>Ms Siti Filzah Binte Ishak</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Suriya_Manickavasagam@moe.edu.sg</p>
+<p>siti_filzah_ishak@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 214</p>
+<p>64463301 ext 233</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Non-Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tay Peck Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tay_peck_ling@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64463301 ext 225</p>
 </td>
 </tr>
 </tbody>
