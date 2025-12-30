@@ -370,7 +370,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Sec 4 &amp; Upper Sec)</p>
+<p>Year Head (Sec 4 &amp; 5 &amp; Upper Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Joyce Yang</p>
