@@ -299,24 +299,24 @@ variant: tiptap
 <p>Integrity 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Nadiah Binte Ramli</p>
+<p>Miss Marie Anne Chia Jin Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>siti_nadiah_ramli@moe.edu.sg</p>
+<p>marie_anne_chia@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 200</p>
+<p>64463301 ext 209</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tay Peck Ling</p>
+<p>Mr Mohd Rafi B Ani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tay_peck_ling@moe.edu.sg</p>
+<p>mohd_rafi_b_ani@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 225</p>
+<p>64463301 ext 242</p>
 </td>
 </tr>
 <tr>
@@ -324,24 +324,25 @@ variant: tiptap
 <p>Integrity 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Su Wee</p>
+<p>Miss Ong Wei Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_su_wee@moe.edu.sg</p>
+<p>ong_wei_ling@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 234</p>
+<p>64463301 ext 223</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Terence Tan Chee Seng</p>
+<p>Mdm Suriya D/O Manickavasagam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_chee_seng_terence@moe.edu.sg</p>
+<p>suriya_manickavasagam@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 238</p>
+<p>
+<br>64463301 ext 214</p>
 </td>
 </tr>
 <tr>
@@ -349,24 +350,24 @@ variant: tiptap
 <p>Integrity 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Teng Hui Adam</p>
+<p>Mr Tan Lian Beng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_teng_hui_adam@moe.edu.sg</p>
+<p>tan_lian_beng@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 167</p>
+<p>64463301 ext 255/256</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Wong Jean</p>
+<p>Mdm Khor Sze Siang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wong_Jean@moe.edu.sg</p>
+<p>khor_sze_siang@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 236</p>
+<p>64463301 ext 213</p>
 </td>
 </tr>
 <tr>
@@ -374,24 +375,24 @@ variant: tiptap
 <p>Integrity 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Janice Lau</p>
+<p>Mdm Siti Fatimah Bte Haji Mohson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chan_yan_ling_janice@moe.edu.sg</p>
+<p>siti_fatimah_haji_mohson@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 167</p>
+<p>64463301 ext 255/256</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Syed Danial Bin Syed Taha</p>
+<p>Miss Nurhidayah Binte Razali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>syed_danial@moe.edu.sg</p>
+<p>nurhidayah_razali@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 239</p>
+<p>64463301 ext 237</p>
 </td>
 </tr>
 <tr>
@@ -399,24 +400,24 @@ variant: tiptap
 <p>Integrity 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Kim Tu</p>
+<p>Ms Selena Jew Mei Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_kim_tu@moe.edu.sg</p>
+<p>jew_mei_li_selena@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 226</p>
+<p>64463301 ext 209</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nurshafiqah Binte Mohamed Shadiq</p>
+<p>Miss Gao Anji</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nurshafiqah_mohamed_shadiq@moe.edu.sg</p>
+<p>gao_anji@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 255/256</p>
+<p>64463301 ext 215</p>
 </td>
 </tr>
 <tr>
@@ -424,10 +425,10 @@ variant: tiptap
 <p>Integrity 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Emrizal Bin Mohamed Suhaimi</p>
+<p>Mr Mohd Ghazali B Ibrahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>emrizal_mohamed_suhaimi@moe.edu.sg</p>
+<p>mohd_ghazali_b_ibrahim@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>64463301 ext 221</p>
@@ -435,13 +436,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Yan Hui Yu Joey</p>
+<p>Miss Cher Wei Fen Jeslyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yan_hui_yu@moe.edu.sg</p>
+<p>cher_wei_fen_jeslyn@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 240</p>
+<p>64463301 ext 207</p>
 </td>
 </tr>
 <tr>
@@ -449,60 +450,74 @@ variant: tiptap
 <p>Integrity 7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ashley Ong Chun Aun</p>
+<p>Mr Peh Jin Bao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_chun_aun_ashley@moe.edu.sg</p>
+<p>peh_jin_bao@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 168</p>
+<p>64463301 ext 212</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Tang-Lee Choon Tien</p>
+<p>Mdm Seow Peng Leng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_choon_tien@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>64463301 ext 205</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p>Integrity 8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Awalludin Bin Abdul Jabbar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>awalludin_abdul_jabbar@moe.edu.sg</p>
+<p>seow_peng_leng@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>64463301 ext 216</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Melinda Foo Ai-Ping</p>
+<td rowspan="2" colspan="1">
+<p>Integrity 8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>foo_ai-ping_melinda@moe.edu.sg</p>
+<p>Ms Hooi Siok Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 237</p>
+<p>hooi_siok_li@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64463301 ext 211</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ramli Punasir</p>
+<p>Mr Raymond Ng Kuan Siang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ramli_punasir@moe.edu.sg</p>
+<p>ng_kuan_siang@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 171</p>
+<p>64463301 ext 202</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Integrity 9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Navamani d/o V Nagamuthu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>navamani_v_nagamuthu@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64463301 ext 229</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Irene Seah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_irene_b@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64463301 ext 255/256</p>
 </td>
 </tr>
 </tbody>
