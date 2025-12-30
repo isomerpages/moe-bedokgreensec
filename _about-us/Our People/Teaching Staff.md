@@ -155,24 +155,24 @@ variant: tiptap
 <p>Resilience 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Gao Anji</p>
+<p>Mr Teo Tong Hua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>gao_anji@moe.edu.sg</p>
+<p>teo_tong_hua@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 215</p>
+<p>64463301 ext 255/256</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Selena Jew Mei Li</p>
+<p>Mdm Nurhidayah Binte Mohamed Ali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>jew_mei_li_selena@moe.edu.sg</p>
+<p>nurhidayah_mohamed_ali@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 209</p>
+<p>64463301 ext 242</p>
 </td>
 </tr>
 <tr>
@@ -180,21 +180,21 @@ variant: tiptap
 <p>Resilience 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Cher Wei Fen Jeslyn</p>
+<p>Ms Jeviene Kok Jie Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>cher_wei_fen_jeslyn@moe.edu.sg</p>
+<p>kok_jie_wei_jeviene@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 207</p>
+<p>64463301 ext 206</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohd Ghazali B Ibrahim</p>
+<p>Mr Emrizal Bin Mohamed Suhaimi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mohd_ghazali_b_ibrahim@moe.edu.sg</p>
+<p>emrizal_mohamed_suhaimi@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>64463301 ext 221</p>
@@ -205,24 +205,24 @@ variant: tiptap
 <p>Resilience 7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Peh Jin Bao</p>
+<p>Ms Ruqayyah Binte Mohamed Idrus Z</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>peh_jin_bao@moe.edu.sg</p>
+<p>ruqayyah_mohamed_idrus_zamzam@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 212</p>
+<p>64463301 ext 220</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Seow Peng Leng</p>
+<p>Mr Lee Heng Hiang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>seow_peng_leng@moe.edu.sg</p>
+<p>lee_heng_hiang@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 216</p>
+<p>64463301 ext 204</p>
 </td>
 </tr>
 <tr>
@@ -230,49 +230,24 @@ variant: tiptap
 <p>Resilience 8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Filzah Binte Ishak</p>
+<p>Mr Terence Tan Chee Seng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>siti_filzah_ishak@moe.edu.sg</p>
+<p>tan_chee_seng_terence@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 233</p>
+<p>64463301 ext 238</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Hooi Siok Li</p>
+<p>Miss Anis Mastura Bte Mohamed Salim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>hooi_siok_li@moe.edu.sg</p>
+<p>anis_mastura_mohamed_salim@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 211</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>Resilience 9</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Irene Seah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_irene_b@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>64463301 ext 255/256</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Navamani d/o V Nagamuthu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>navamani_v_nagamuthu@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>64463301 ext 229</p>
+<p>64463301 ext 235</p>
 </td>
 </tr>
 </tbody>
