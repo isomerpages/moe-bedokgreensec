@@ -102,10 +102,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamad Zailani bin Dollah Sumari</p>
+<p>Mr Alvin Ng Kok Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mohamad_zailani_dollah_sumari@moe.edu.sg</p>
+<p>ng_kok_leong_b@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>64463301 ext 139</p>
