@@ -290,7 +290,6 @@ variant: tiptap
 </table>
 <p><strong>Secondary 2</strong>
 </p>
-<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
