@@ -102,10 +102,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamad Zailani bin Dollah Sumari</p>
+<p>Mr Alvin Ng Kok Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mohamad_zailani_dollah_sumari@moe.edu.sg</p>
+<p>ng_kok_leong_b@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>64463301 ext 139</p>
@@ -113,7 +113,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ManagementSupport Officer</p>
+<p>Management Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zawiyah Binte Mohamed Ismail</p>
@@ -165,7 +165,21 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="1" colspan="1">
+<p>ICT Associate</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohamed Ershath S/O Mohamed Ethrees</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
 <p>Operations Support Officers</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -192,6 +206,17 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Lim Ah Geok</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mr Rudy Tan Choon Lian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>

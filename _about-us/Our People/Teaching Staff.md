@@ -38,52 +38,41 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (Sec 1 &amp; Lower Sec)</p>
+<p>Assistant Year Head (Sec 1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Yang Hui Ethan</p>
+<p>Mdm Salenah Bte Mohd Salleh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_yang_hui@moe.edu.sg</p>
+<p>salenah_mohamed_salleh@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 135</p>
+<p>6446 3301 ext 124</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Resilience 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Marie Anne Chia Jin Ling</p>
+<p>Ms Lee Su Wee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>marie_anne_chia@moe.edu.sg</p>
+<p>lee_su_wee@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 209</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Mohd Rafi B Ani</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>mohd_rafi_b_ani@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>64463301 ext 242</p>
+<p>64463301 ext 234</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Jia Wei, Ivan</p>
+<p>Mr Syed Danial Bin Syed Taha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ong_Jia_Wei_Ivan@moe.edu.sg</p>
+<p>syed_danial@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 210</p>
+<p>64463301 ext 239</p>
 </td>
 </tr>
 <tr>
@@ -91,24 +80,24 @@ variant: tiptap
 <p>Resilience 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Tiong Ann</p>
+<p>Mrs Janice Lau</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>goh_tiong_ann@moe.edu.sg</p>
+<p>chan_yan_ling_janice@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 240</p>
+<p>64463301 ext 167</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Lai- See Ngiap Yian</p>
+<p>Mr Ng Kim Tu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lai-see_ngiap_yian@moe.edu.sg</p>
+<p>ng_kim_tu@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 234</p>
+<p>64463301 ext 226</p>
 </td>
 </tr>
 <tr>
@@ -116,24 +105,24 @@ variant: tiptap
 <p>Resilience 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Khor Sze Siang</p>
+<p>Mr Ong Joon Yong, Eric</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>khor_sze_siang@moe.edu.sg</p>
+<p>ong_joon_yong_eric@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 213</p>
+<p>64463301 ext 211</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Lian Beng</p>
+<p>Miss Jean Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_lian_beng@moe.edu.sg</p>
+<p>wong_Jean@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 255/256</p>
+<p>64463301 ext 236</p>
 </td>
 </tr>
 <tr>
@@ -141,24 +130,24 @@ variant: tiptap
 <p>Resilience 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Hung Siau Moon</p>
+<p>Mr Ashley Ong Chun Aun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>hung_siau_moon@moe.edu.sg</p>
+<p>ong_chun_aun_ashley@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 217</p>
+<p>64463301 ext 168</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Khairunnisa Bte Abdul Rashid</p>
+<p>Miss Angel Lee Tze Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>khairunnisa_abdul_rashid@moe.edu.sg</p>
+<p>angel_lee_tze_ling@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 235</p>
+<p>64463301 ext 214</p>
 </td>
 </tr>
 <tr>
@@ -166,24 +155,24 @@ variant: tiptap
 <p>Resilience 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Gao Anji</p>
+<p>Mr Teo Tong Hua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>gao_anji@moe.edu.sg</p>
+<p>teo_tong_hua@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 215</p>
+<p>64463301 ext 255/256</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Selena Jew Mei Li</p>
+<p>Mdm Nurhidayah Binte Mohamed Ali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>jew_mei_li_selena@moe.edu.sg</p>
+<p>nurhidayah_mohamed_ali@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 209</p>
+<p>64463301 ext 242</p>
 </td>
 </tr>
 <tr>
@@ -191,21 +180,21 @@ variant: tiptap
 <p>Resilience 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Cher Wei Fen Jeslyn</p>
+<p>Ms Jeviene Kok Jie Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>cher_wei_fen_jeslyn@moe.edu.sg</p>
+<p>kok_jie_wei_jeviene@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 207</p>
+<p>64463301 ext 206</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohd Ghazali B Ibrahim</p>
+<p>Mr Emrizal Bin Mohamed Suhaimi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mohd_ghazali_b_ibrahim@moe.edu.sg</p>
+<p>emrizal_mohamed_suhaimi@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>64463301 ext 221</p>
@@ -216,24 +205,24 @@ variant: tiptap
 <p>Resilience 7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Peh Jin Bao</p>
+<p>Ms Ruqayyah Binte Mohamed Idrus Z</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>peh_jin_bao@moe.edu.sg</p>
+<p>ruqayyah_mohamed_idrus_zamzam@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 212</p>
+<p>64463301 ext 220</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Seow Peng Leng</p>
+<p>Mr Lee Heng Hiang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>seow_peng_leng@moe.edu.sg</p>
+<p>lee_heng_hiang@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 216</p>
+<p>64463301 ext 204</p>
 </td>
 </tr>
 <tr>
@@ -241,56 +230,30 @@ variant: tiptap
 <p>Resilience 8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Filzah Binte Ishak</p>
+<p>Mr Terence Tan Chee Seng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>siti_filzah_ishak@moe.edu.sg</p>
+<p>tan_chee_seng_terence@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 233</p>
+<p>64463301 ext 238</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Hooi Siok Li</p>
+<p>Miss Anis Mastura Bte Mohamed Salim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>hooi_siok_li@moe.edu.sg</p>
+<p>anis_mastura_mohamed_salim@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 211</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>Resilience 9</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Irene Seah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_irene_b@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>64463301 ext 255/256</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Navamani d/o V Nagamuthu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>navamani_v_nagamuthu@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>64463301 ext 229</p>
+<p>64463301 ext 235</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>Secondary 2</strong>
 </p>
-<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -319,16 +282,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Sec 2)</p>
+<p>Year Head (Sec 2 &amp; Lower Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Hafiedz-Ul Ashadi Bin Tamrin</p>
+<p>Mr Tan Yang Hui Ethan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>hafiedz-ul_ashadi_tain@moe.edu.sg</p>
+<p>tan_yang_hui@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 127</p>
+<p>64463301 ext 135</p>
 </td>
 </tr>
 <tr>
@@ -336,24 +299,24 @@ variant: tiptap
 <p>Integrity 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Nadiah Binte Ramli</p>
+<p>Miss Marie Anne Chia Jin Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>siti_nadiah_ramli@moe.edu.sg</p>
+<p>marie_anne_chia@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 200</p>
+<p>64463301 ext 209</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tay Peck Ling</p>
+<p>Mr Mohd Rafi B Ani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tay_peck_ling@moe.edu.sg</p>
+<p>mohd_rafi_b_ani@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 225</p>
+<p>64463301 ext 242</p>
 </td>
 </tr>
 <tr>
@@ -361,24 +324,25 @@ variant: tiptap
 <p>Integrity 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Su Wee</p>
+<p>Miss Ong Wei Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_su_wee@moe.edu.sg</p>
+<p>ong_wei_ling@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 234</p>
+<p>64463301 ext 223</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Terence Tan Chee Seng</p>
+<p>Mdm Suriya D/O Manickavasagam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_chee_seng_terence@moe.edu.sg</p>
+<p>suriya_manickavasagam@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 238</p>
+<p>
+<br>64463301 ext 214</p>
 </td>
 </tr>
 <tr>
@@ -386,24 +350,24 @@ variant: tiptap
 <p>Integrity 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Teng Hui Adam</p>
+<p>Mr Tan Lian Beng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_teng_hui_adam@moe.edu.sg</p>
+<p>tan_lian_beng@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 167</p>
+<p>64463301 ext 255/256</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Wong Jean</p>
+<p>Mdm Khor Sze Siang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wong_Jean@moe.edu.sg</p>
+<p>khor_sze_siang@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 236</p>
+<p>64463301 ext 213</p>
 </td>
 </tr>
 <tr>
@@ -411,24 +375,24 @@ variant: tiptap
 <p>Integrity 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Janice Lau</p>
+<p>Mdm Siti Fatimah Bte Haji Mohson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chan_yan_ling_janice@moe.edu.sg</p>
+<p>siti_fatimah_haji_mohson@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 167</p>
+<p>64463301 ext 255/256</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Syed Danial Bin Syed Taha</p>
+<p>Miss Nurhidayah Binte Razali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>syed_danial@moe.edu.sg</p>
+<p>nurhidayah_razali@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 239</p>
+<p>64463301 ext 237</p>
 </td>
 </tr>
 <tr>
@@ -436,24 +400,24 @@ variant: tiptap
 <p>Integrity 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Kim Tu</p>
+<p>Ms Selena Jew Mei Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_kim_tu@moe.edu.sg</p>
+<p>jew_mei_li_selena@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 226</p>
+<p>64463301 ext 209</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nurshafiqah Binte Mohamed Shadiq</p>
+<p>Miss Gao Anji</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nurshafiqah_mohamed_shadiq@moe.edu.sg</p>
+<p>gao_anji@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 255/256</p>
+<p>64463301 ext 215</p>
 </td>
 </tr>
 <tr>
@@ -461,10 +425,10 @@ variant: tiptap
 <p>Integrity 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Emrizal Bin Mohamed Suhaimi</p>
+<p>Mr Mohd Ghazali B Ibrahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>emrizal_mohamed_suhaimi@moe.edu.sg</p>
+<p>mohd_ghazali_b_ibrahim@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>64463301 ext 221</p>
@@ -472,13 +436,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Yan Hui Yu Joey</p>
+<p>Miss Cher Wei Fen Jeslyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yan_hui_yu@moe.edu.sg</p>
+<p>cher_wei_fen_jeslyn@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 240</p>
+<p>64463301 ext 207</p>
 </td>
 </tr>
 <tr>
@@ -486,60 +450,74 @@ variant: tiptap
 <p>Integrity 7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ashley Ong Chun Aun</p>
+<p>Mr Peh Jin Bao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_chun_aun_ashley@moe.edu.sg</p>
+<p>peh_jin_bao@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 168</p>
+<p>64463301 ext 212</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Tang-Lee Choon Tien</p>
+<p>Mdm Seow Peng Leng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_choon_tien@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>64463301 ext 205</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p>Integrity 8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Awalludin Bin Abdul Jabbar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>awalludin_abdul_jabbar@moe.edu.sg</p>
+<p>seow_peng_leng@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>64463301 ext 216</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Melinda Foo Ai-Ping</p>
+<td rowspan="2" colspan="1">
+<p>Integrity 8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>foo_ai-ping_melinda@moe.edu.sg</p>
+<p>Ms Hooi Siok Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 237</p>
+<p>hooi_siok_li@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64463301 ext 211</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ramli Punasir</p>
+<p>Mr Raymond Ng Kuan Siang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ramli_punasir@moe.edu.sg</p>
+<p>ng_kuan_siang@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 171</p>
+<p>64463301 ext 202</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Integrity 9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Navamani d/o V Nagamuthu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>navamani_v_nagamuthu@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64463301 ext 229</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Irene Seah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_irene_b@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64463301 ext 255/256</p>
 </td>
 </tr>
 </tbody>
@@ -574,16 +552,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (Sec 3 &amp; Upper Sec)</p>
+<p>Assistant Year Head (Sec 3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Joyce Yang</p>
+<p>Mr Hafiedz-Ul Ashadi Bin Tamrin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>goh_xianhui_joyce@moe.edu.sg</p>
+<p>hafiedz-ul_ashadi_tain@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 122</p>
+<p>64463301 ext 127</p>
 </td>
 </tr>
 <tr>
@@ -591,24 +569,24 @@ variant: tiptap
 <p>Compassion 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Pow Wee Wee</p>
+<p>Miss Yan Hui Yu Joey</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>pow_wee_wee@moe.edu.sg</p>
+<p>yan_hui_yu@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 224</p>
+<p>64463301 ext 240</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Toh Qiuyan</p>
+<p>Mr Awalludin Bin Abdul Jabbar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>toh_qiuyan@moe.edu.sg</p>
+<p>awalludin_abdul_jabbar@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 203</p>
+<p>64463301 ext 216</p>
 </td>
 </tr>
 <tr>
@@ -616,60 +594,49 @@ variant: tiptap
 <p>Compassion 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kuah Peng Yan</p>
+<p>Mr Lee Hang Chai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kuah_peng_yan@moe.edu.sg</p>
+<p>lee_hang_chai@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 255/256</p>
+<p>64463301 ext 244</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Leow Dai Jing</p>
+<p>Miss Charis Cheong Pui Shan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>leow_dai_jing@moe.edu.sg</p>
+<p>cheong_pui_shan_charis@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 224</p>
+<p>64463301 ext 235</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Compassion 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Azian Binte Zaini</p>
+<p>Ms Kweh Bee Ginn Lynn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>azian_zaini@moe.edu.sg</p>
+<p>kweh_bee_ginn@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 205</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Lim Moi Yin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_moi_yin@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>64463301 ext 220</p>
+<p>64463301 ext 232</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Periasamy s/o A Mari</p>
+<p>Mdm Siti Aishah Bte Mohd Jamaludin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>periasamy_a_mari@moe.edu.sg</p>
+<p>siti_aishah_mohd_jamaludin@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 245</p>
+<p>64463301 ext 228</p>
 </td>
 </tr>
 <tr>
@@ -677,24 +644,24 @@ variant: tiptap
 <p>Compassion 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Sri Rahayu Bte Yusop</p>
+<p>Ms Low Xin Tian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sri_rahayu_yusop@moe.edu.sg</p>
+<p>xin_tian_low@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 219</p>
+<p>64463301 ext 223</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Whey Kin Pheng</p>
+<p>Mr David Lim Jit Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>whey_kin_pheng@moe.edu.sg</p>
+<p>david_lim_jit_wei@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 203</p>
+<p>64463301 ext 204</p>
 </td>
 </tr>
 <tr>
@@ -702,24 +669,24 @@ variant: tiptap
 <p>Compassion 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jade Lee Xin Yi</p>
+<p>Mdm Melinda Foo Ai-Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>jade_lee_xin_yi@moe.edu.sg</p>
+<p>foo_ai-ping_melinda@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 243</p>
+<p>64463301 ext 237</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Teng Soon Heng, Nigel</p>
+<p>Mr Teo Keng Nam James</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>teng_soon_heng_nigel@moe.edu.sg</p>
+<p>teo_keng_nam_james@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 201</p>
+<p>64463301 ext 223</p>
 </td>
 </tr>
 <tr>
@@ -727,31 +694,55 @@ variant: tiptap
 <p>Compassion 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Kian Hui Gregory</p>
+<p>Ms Shahida Begum Angullia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_kian_hui_gregory@moe.edu.sg</p>
+<p>shahida_begum_angullia_musa@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64463301 ext 244</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Teng Hui Adam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_teng_hui_adam@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>64463301 ext 167</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Liew Siew Bee</p>
+<td rowspan="2" colspan="1">
+<p>Compassion 7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_siew_bee@moe.edu.sg</p>
+<p>Mr Johnny Wee Hong Shen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 222</p>
+<p>wee_hong_shen@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64463301 ext 255/256</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nurshafiqah Binte Mohamed Shadiq</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nurshafiqah_mohamed_shadiq@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64463301 ext 255/256</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>Secondary 4 and 5</strong>
 </p>
-<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -780,16 +771,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Sec 4 &amp; 5)</p>
+<p>Year Head (Sec 4 &amp; 5 &amp; Upper Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Salenah Bte Mohd Salleh</p>
+<p>Mrs Joyce Yang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>salenah_mohamed_salleh@moe.edu.sg</p>
+<p>goh_xianhui_joyce@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6446 3301 ext 124</p>
+<p>64463301 ext 122</p>
 </td>
 </tr>
 <tr>
@@ -797,24 +788,24 @@ variant: tiptap
 <p>Humility 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Jeviene Kok Jie Wei</p>
+<p>Ms Toh Qiuyan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kok_jie_wei_jeviene@moe.edu.sg</p>
+<p>toh_qiuyan@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 206</p>
+<p>64463301 ext 203</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Shahida Begum Angullia</p>
+<p>Miss Pow Wee Wee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>shahida_begum_angullia_musa@moe.edu.sg</p>
+<p>pow_wee_wee@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 244</p>
+<p>64463301 ext 224</p>
 </td>
 </tr>
 <tr>
@@ -822,46 +813,21 @@ variant: tiptap
 <p>Humility 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ruqayyah Binte Mohamed Idrus Z</p>
+<p>Ms Leow Dai Jing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ruqayyah_mohamed_idrus_zamzam@moe.edu.sg</p>
+<p>leow_dai_jing@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 220</p>
+<p>64463301 ext 224</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Joon Yong, Eric</p>
+<p>Mr Leow Wee Meng, Frankie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_joon_yong_eric@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>64463301 ext 211</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>Humility 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Kweh Bee Ginn Lynn</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>kweh_bee_ginn@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>64463301 ext 232</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Teo Tong Hua</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>teo_tong_hua@moe.edu.sg</p>
+<p>leow_wee_meng_frankie@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>64463301 ext 255/256</p>
@@ -869,27 +835,52 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Humility 4</p>
+<p>Humility 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Nurhidayah Binte Razali</p>
+<p>Mdm Lim Moi Yin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nurhidayah_razali@moe.edu.sg</p>
+<p>lim_moi_yin@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 237</p>
+<p>64463301 ext 220</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Su-Min Denise</p>
+<p>Mdm Azian Binte Zaini</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_su-min_denise@moe.edu.sg</p>
+<p>azian_zaini@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 243</p>
+<p>64463301 ext 205</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Humility 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Sri Rahayu Bte Yusop</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sri_rahayu_yusop@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64463301 ext 219</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Whey Kin Pheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>whey_kin_pheng@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64463301 ext 203</p>
 </td>
 </tr>
 <tr>
@@ -897,24 +888,24 @@ variant: tiptap
 <p>Humility 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Hang Chai</p>
+<p>Mr Teng Soon Heng, Nigel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_hang_chai@moe.edu.sg</p>
+<p>teng_soon_heng_nigel@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 244</p>
+<p>64463301 ext 201</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Ong Wei Ling</p>
+<p>Ms Jade Lee Xin Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_wei_ling@moe.edu.sg</p>
+<p>jade_lee_xin_yi@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 223</p>
+<p>64463301 ext 243</p>
 </td>
 </tr>
 <tr>
@@ -922,21 +913,10 @@ variant: tiptap
 <p>Humility 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Aishah Bte Mohd Jamaludin</p>
+<p>Mr Lee Kian Hui Gregory</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>siti_aishah_mohd_jamaludin@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>64463301 ext 228</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chua Wei Guang Andy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chua_wei_guang_andy@moe.edu.sg</p>
+<p>lee_kian_hui_gregory@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>64463301 ext 167</p>
@@ -944,16 +924,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Humility 7</p>
+<p>Mrs Liew Siew Bee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Charis Cheong Pui Shan</p>
+<p>ong_siew_bee@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>cheong_pui_shan_charis@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>64463301 ext 235</p>
+<p>64463301 ext 222</p>
 </td>
 </tr>
 </tbody>
@@ -1119,10 +1096,38 @@ variant: tiptap
 <p>Non-Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chuah Su Keow</p>
+<p>Mr Adrian Cordeiro</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chuah_su_keow@moe.edu.sg</p>
+<p>cordeiro_adrian@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64463301 ext 171</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Non-Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chng Mei Li</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chng_mei_li_c@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64463301 ext 212</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Non-Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Hung Siau Moon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>hung_siau_moon@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>64463301 ext 217</p>
@@ -1147,34 +1152,6 @@ variant: tiptap
 <p>Non-Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Kanta Ramchand Vaswani</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kanta_Ramchand_Vaswani_C@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>64463301 ext 242</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Non-Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lim Hong Choo Mabel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>soh_mabel@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>64463301 ext 171</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Non-Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Lui Biru Angel</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1189,20 +1166,6 @@ variant: tiptap
 <p>Non-Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Huee Cheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ng_huee_cheng_a@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>64463301 ext 218</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Non-Form Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Miss Ng Mei Chuen</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1210,6 +1173,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>64463301 ext 233</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Rabiah Hassan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>rabiah_hassan_b@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64463301 ext 240</p>
 </td>
 </tr>
 <tr>
@@ -1245,13 +1222,27 @@ variant: tiptap
 <p>Non-Form Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Suriya D/O Manickavasagam</p>
+<p>Ms Siti Filzah Binte Ishak</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Suriya_Manickavasagam@moe.edu.sg</p>
+<p>siti_filzah_ishak@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 214</p>
+<p>64463301 ext 233</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Non-Form Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tay Peck Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tay_peck_ling@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64463301 ext 225</p>
 </td>
 </tr>
 </tbody>

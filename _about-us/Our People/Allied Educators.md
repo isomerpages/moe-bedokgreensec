@@ -37,11 +37,11 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Esther Wong-Quay Ching Ching</p>
+<p>Mrs Esther Wong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>wong-quay_ching_ching@moe.edu.sg</p>
@@ -56,17 +56,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ang_Bee_Lan_B@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>64463301 ext 165</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Ah Lian Alice</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan_Ah_Lian_Alice_A@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>64463301 ext 165</p>
@@ -113,7 +102,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Allied Educator (Teaching &amp; Learning)</p>
+<p>Allied Educator</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ramli Punasir</p>
