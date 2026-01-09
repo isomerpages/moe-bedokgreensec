@@ -25,7 +25,7 @@ variant: tiptap
 </ul>
 </li>
 </ul>
-<p><strong>2024 GCE N Level Examination</strong>
+<p><strong>2025 GCE N Level Examination</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
