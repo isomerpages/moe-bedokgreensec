@@ -29,7 +29,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Promotion to Sec 5: 80.0%</p>
+<p>Promotion to Sec 5: 74.0%</p>
 </li>
 </ul>
 <p></p>
