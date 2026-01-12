@@ -575,7 +575,7 @@ variant: tiptap
 <p>yan_hui_yu@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64463301 ext 240</p>
+<p>64463301 ext 243</p>
 </td>
 </tr>
 <tr>
