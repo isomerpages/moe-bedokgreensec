@@ -107,11 +107,11 @@ in collaboration with the Ministry of Education, to provide Secondary 3
 students with accurate information on STIs, HIV and protection from a health
 perspective. With the formation of the Communicable Diseases Agency (CDA)
 on 1 April 2025, the programme would now be managed by CDA’s Training and
-Education Division instead of HPB. eTeens is conducted in two segments
+Education Division instead of HPB. <em>eTeens </em>is conducted in two segments
 – a mass talk segment and a classroom-based programme. The desired outcome
-of the eTeens programme is that students are empowered to make wise, informed
-and sensible decisions to protect themselves from sexually transmitted
-infectious diseases.</p>
+of the <em>eTeens </em>programme is that students are empowered to make
+wise, informed and sensible decisions to protect themselves from sexually
+transmitted infectious diseases.</p>
 <p></p>
 </li>
 <li>
@@ -122,8 +122,8 @@ family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
 <p></p>
 <p>Please click <a href="https://go.gov.sg/sedeteensprogramme" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-view the eTeens programme that will be implemented at Bedok Green Secondary
-School in 2026.</p>
+view the <em>eTeens</em> programme that will be implemented at Bedok Green
+Secondary School in 2026.</p>
 <p></p>
 <p><strong>Information for parents</strong>
 </p>
