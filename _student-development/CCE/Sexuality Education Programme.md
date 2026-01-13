@@ -94,9 +94,9 @@ the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
 <p></p>
-<p>Please click <a href="https://go.gov.sg/moesed" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Please click <a href="https://go.gov.sg/moesed2026" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 view the Sexuality Education lessons that will be taught at Bedok Green
-Secondary School in 2025.</p>
+Secondary School in 2026.</p>
 <p></p>
 <p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
 <p></p>
