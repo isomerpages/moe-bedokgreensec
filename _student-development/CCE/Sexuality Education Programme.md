@@ -51,7 +51,7 @@ ones.</p>
 more information on MOE Sexuality Education.<strong>&nbsp;</strong>
 </p>
 <p></p>
-<p><strong>Overview of Bedok Green Secondary School’s Sexuality Education Programme for 2025</strong>
+<p><strong>Overview of Bedok Green Secondary School’s Sexuality Education Programme for 2026</strong>
 </p>
 <p></p>
 </li>
