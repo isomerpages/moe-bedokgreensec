@@ -51,7 +51,7 @@ ones.</p>
 more information on MOE Sexuality Education.<strong>&nbsp;</strong>
 </p>
 <p></p>
-<p><strong>Overview of Bedok Green Secondary School’s Sexuality Education Programme for 2025</strong>
+<p><strong>Overview of Bedok Green Secondary School’s Sexuality Education Programme for 2026</strong>
 </p>
 <p></p>
 </li>
@@ -94,20 +94,24 @@ the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
 <p></p>
-<p>Please click <a href="https://go.gov.sg/moesed" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Please click <a href="https://go.gov.sg/moesed2026" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 view the Sexuality Education lessons that will be taught at Bedok Green
-Secondary School in 2025.</p>
+Secondary School in 2026.</p>
 <p></p>
 <p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
 <p></p>
 </li>
 <li>
-<p><em>eTeens</em> is a programme developed by Health Promotion Board, in
-collaboration with the Ministry of Education, to provide Secondary 3 students
-with accurate information on STIs, HIV and protection from a health perspective. <em>eTeens</em> is
-conducted in two segments – a mass talk segment and a classroom-based programme.
-The desired outcome of the <em>eTeens</em> programme is that students are
-empowered to make wise, informed and sensible decisions.</p>
+<p><em>eTeens</em> is a programme that was developed by Health Promotion Board,
+in collaboration with the Ministry of Education, to provide Secondary 3
+students with accurate information on STIs, HIV and protection from a health
+perspective. With the formation of the Communicable Diseases Agency (CDA)
+on 1 April 2025, the programme would now be managed by CDA’s Training and
+Education Division instead of HPB. <em>eTeens </em>is conducted in two segments
+– a mass talk segment and a classroom-based programme. The desired outcome
+of the <em>eTeens </em>programme is that students are empowered to make
+wise, informed and sensible decisions to protect themselves from sexually
+transmitted infectious diseases.</p>
 <p></p>
 </li>
 <li>
@@ -117,9 +121,9 @@ that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
 <p></p>
-<p>Please click <a href="https://go.gov.sg/moeeteens" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Please click <a href="https://go.gov.sg/sedeteensprogramme" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 view the <em>eTeens</em> programme that will be implemented at Bedok Green
-Secondary School in 2025.</p>
+Secondary School in 2026.</p>
 <p></p>
 <p><strong>Information for parents</strong>
 </p>
@@ -132,15 +136,15 @@ supplementary sexuality education programmes by MOE-approved external providers.
 <li>
 <p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="https://drive.google.com/file/d/1F88DM5Q5kqrtUuk1ki08sIqhzr9iAARG/view" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 31/01/2025.</p>
+at the start of the year and is also downloadable <a href="https://drive.google.com/file/d/1XlT3pCrcniWlMtq2AO7baWkeQzk-mSMS" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 31/01/2026.</p>
 <p></p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="https://drive.google.com/file/d/1BzQfU65SvV6nlquOgGv4WJiQca-iQEAs/view" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 31/01/2025.</p>
+at the start of the year and is also downloadable <a href="https://drive.google.com/file/d/1D46bV26CCbL1Qrgw1EfhSZBR1QZHdl6R/view" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 31/01/2026.</p>
 <p></p>
 </li>
 <li>
