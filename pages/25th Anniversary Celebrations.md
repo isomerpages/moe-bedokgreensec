@@ -30,3 +30,11 @@ these plushies embody our commitment to developing courageous individuals,
 confident leaders, inventive thinkers, and caring citizens. More than just
 keepsakes, these plushies symbolise the confidence, character, and sense
 of purpose we strive to nurture in every student.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Coconut_Bloom.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shine_Berry.jpg">
+</div>
+<p></p>
