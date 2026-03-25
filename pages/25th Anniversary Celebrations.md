@@ -40,4 +40,7 @@ of purpose we strive to nurture in every student.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mocha_Mentor.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mango_Skype.jpg">
+</div>
 <p></p>
