@@ -7,8 +7,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner__without_GOH_.jpg">
 </div>
-<p><strong><em>Believe. Grow. Shine</em></strong>
-</p>
+<h4><strong><em>Believe. Grow. Shine</em></strong></h4>
 <p><strong>Celebrating 25 Years</strong>
 </p>
 <p>Welcome to Bedok Green Secondary School’s 25th Anniversary Celebrations!</p>
@@ -20,8 +19,7 @@ self-directed learners and responsible individuals who contribute meaningfully
 to the society.</p>
 <p>Together, we<strong> Believe, Grow, and Shine in our own unique ways!</strong>
 </p>
-<p><strong>25<sup>th</sup> Anniversary Commemorative Gift</strong>
-</p>
+<h4><strong>25<sup>th</sup> Anniversary Commemorative Gift</strong></h4>
 <p>As part of our 25th Anniversary, Bedok Green Secondary is proud to present
 a special cake plushie series. Each character tells a story that reflects
 the values and aspirations of BGSS. Rooted in our belief in nurturing every
@@ -33,16 +31,4 @@ of purpose we strive to nurture in every student.</p>
 <p>All students and staff will receive this special plushie series as a commemorative
 gift and keepsake to mark this milestone and celebrate their journey as
 part of the Bedok Green family.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Coconut_Bloom.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shine_Berry.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mocha_Mentor.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mango_Skype.jpg">
-</div>
 <p></p>
