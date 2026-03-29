@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner__without_GOH_.jpg
+      background: /images/Adobe_Express___file.jpg
       key_highlights:
         - title: Announcements
           description: ""
