@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Copy_of_Banner_2026_26_2_26__1280_x_500_px_.jpg
+      background: /images/download_2.gif
       key_highlights:
         - title: Announcements
           description: ""
