@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/speech_day_2026_21.png
+      background: /images/Banner__without_GOH1.jpg
       key_highlights:
         - title: Announcements
           description: ""
