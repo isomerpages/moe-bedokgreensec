@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/school website banner3.gif
+      background: /images/speech_day_2026_20.png
       key_highlights:
         - title: Announcements
           description: ""

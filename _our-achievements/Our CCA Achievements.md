@@ -273,7 +273,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2024 Unit Overall Proficiency Award</p>
+<p>2025 Unit Overall Proficiency Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction</p>
