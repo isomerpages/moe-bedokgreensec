@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Adobe_Express___file.jpg
+      background: /images/speech_day_2026.png
       key_highlights:
         - title: Announcements
           description: ""
