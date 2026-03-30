@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner__without_GOH1.jpg
+      background: /images/Copy_of_Banner_2026_26_2_26__1280_x_500_px_.jpg
       key_highlights:
         - title: Announcements
           description: ""
