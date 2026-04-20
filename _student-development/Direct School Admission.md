@@ -13,15 +13,14 @@ variant: tiptap
 <p>Everybody is born with a talent ingrained in them. Here at Bedok Green
 Secondary School, we groom it!</p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-You have from <strong>11am on Wednesday, 7 May 2025 to 3pm on Tuesday, 3 June 2025</strong> to
+You have from <strong>11am on 6 May 2026 to 4.30pm on 2 June 2026</strong> to
 submit your child's application.</p>
 <p>For more details, please refer to MOE website: <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
 </p>
 <p>Click <a href="https://go.gov.sg/bgssdsaexercise" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 find out more about Bedok Green Secondary School DSA Exercise.</p>
-<p>You will receive notification from the school by 11 July 2025 if your
-child has been shortlisted to undergo Direct School Admission (DSA) selection.
-All applicants will receive their application outcomes between 25 Aug and
-4 Sep 2025.</p>
+<p>You will receive notification from the school by <strong>10 July 2026 </strong>if
+your child has been shortlisted to undergo DSA selection. All applicants
+will receive their application outcomes between <strong>17 and 28 August 2026</strong>.</p>
 <p></p>
 <p></p>
