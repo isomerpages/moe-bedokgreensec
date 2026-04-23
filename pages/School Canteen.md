@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/canteen_advertisement.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/canteen_advertisement_23_Apr.png">
 </div>
 <p><strong>Requirements :</strong>
 </p>
@@ -37,8 +37,7 @@ Programme (HMSP)” guidelines.</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Please click the link for the softcopy of the application form <a href="https://schadmsvc.moe.gov.sg/files/appexistingsch.pdf" rel="noopener noreferrer nofollow" target="_blank">Microsoft Word - FormBF7 (2018) (</a>
-<a rel="noopener noreferrer nofollow" target="_blank">moe.gov.sg</a><a href="https://schadmsvc.moe.gov.sg/files/appexistingsch.pdf" rel="noopener noreferrer nofollow" target="_blank">)</a>.
+<p>Please click the link for the softcopy of the application form <a href="https://schadmsvc.moe.gov.sg/files/appexistingsch.pdf" rel="noopener nofollow" target="_blank">Microsoft Word - FormBF7 (2018) (moe.gov.sg)</a>.
 Alternatively, you may also request for a copy of the form from our General
 Office.</p>
 </li>
