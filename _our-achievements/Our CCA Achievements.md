@@ -224,37 +224,19 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="2" colspan="1">
 <p>NCC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024 Outstanding Cadet Award</p>
+<p>2025 Outstanding Cadet Award</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MSG(NCC) Emir Asyraf Bin Muhammad Effendi</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2024 Unit Recognition Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023 Outstanding Cadet Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MSG (NCC) Mohd Harris
-<br>MSG (NCC) Jasper Loh
-<br>MSG (NCC) Zhang Shengkai</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2023 Unit Recognition Award</p>
+<p>2025 Unit Recognition Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction</p>
