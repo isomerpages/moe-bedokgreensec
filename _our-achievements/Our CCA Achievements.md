@@ -224,7 +224,7 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>NCC</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -232,6 +232,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 Outstanding Cadet Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MSG(NCC) Sayf Ahmad Bin Saf</p>
+<p>MSG (NCC) Hooi Yu Kai</p>
 </td>
 </tr>
 <tr>
