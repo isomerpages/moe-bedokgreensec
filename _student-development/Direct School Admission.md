@@ -19,8 +19,8 @@ submit your child's application.</p>
 </p>
 <p>Click <a href="https://go.gov.sg/bgssdsaexercise" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 find out more about Bedok Green Secondary School DSA Exercise.</p>
-<p>You will receive notification from the school by <strong>10 July 2026 </strong>if
-your child has been shortlisted to undergo DSA selection. All applicants
-will receive their application outcomes between <strong>17 and 28 August 2026</strong>.</p>
+<p>You will receive notification from the school by <strong>10 July 2026</strong> if
+your child has been shortlisted to undergo Direct School Admission (DSA)
+selection. All applicants will receive their application outcomes between <strong>17 Aug and 28 Aug 2026</strong>.</p>
 <p></p>
 <p></p>
