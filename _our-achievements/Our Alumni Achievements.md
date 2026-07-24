@@ -165,20 +165,21 @@ List Award</p>
 <p>Diploma with Merit in Mass Communication, Ngee Ann Polytechnic</p>
 </li>
 </ul>
-<p><strong>Han Sizhu</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Graduated from Raffles' Institution in 2020 with a perfect Rank Point
-of 90 in the GCE 'A' Levels Examinations.</p>
-</li>
-</ul>
 <p><strong>Ezell Low Qing Wei</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Recipient of the SP Scholarship Award 2025, Singapore Polytechnic</p>
-<p></p>
+</li>
+</ul>
+<p><strong>Tevel Sho Rui Ze</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Recipient of the CSIT Silver Medal &amp; Prize</p>
+</li>
+<li>
+<p>Diploma with Merit in Cybersecurity and Digital Forensics, Ngee Ann Polytechnic</p>
 </li>
 </ul>
 <p></p>
